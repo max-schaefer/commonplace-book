@@ -1,6 +1,16 @@
 # Learning from our Elder Brothers
 
-A collection of notes on the Tanakh gleaned from Jewish podcasts, specifically Alex Israel's [Tanakh Podcast](https://open.spotify.com/show/4Qu9OF1UY1Zia0zBMoCw7v?si=b87a56d76cf442fc) and Jonathan Livi's [Parashah Podcast](https://open.spotify.com/show/45srXeZZgZKHAomOmpIkmh?si=0405a8b93eb24591).
+A collection of notes on the Tanakh gleaned from Jewish podcasts.
+
+## Sources
+
+Links are given to Spotify, but the podcasts are also available on other platforms.
+
+**Alex Israel's [Tanakh Podcast](https://open.spotify.com/show/4Qu9OF1UY1Zia0zBMoCw7v?si=b87a56d76cf442fc)**: lecture style, one episode per chapter (10-15 minutes), starting from the Book of Joshua. Fairly accessible and high-level, with carefully chosen references to other parts of the Tanakh, the Talmud, the writings of the Jewish sages, and modern archaeological and historical insights.
+
+**Jonathan Livi's [Parashah Podcast](https://open.spotify.com/show/45srXeZZgZKHAomOmpIkmh?si=0405a8b93eb24591)**: recordings of live classes on the weekly Torah portion and the corresponding Haftarot, with lots of attention paid to the details of the Hebrew text. The episodes are longer (20-30 minutes for weekday classes, 60-90 minutes on Sundays) and include a lot of audience interaction. Less academic in style than Alex Israel's podcast. Livi is unfortunately given to lengthy ill-informed diatribes on historical, cultural and political topics, but there are enough nuggets to make it worth bearing with the noise. I find his approach to Midrash particularly interesting: he neither dismisses it as useless legend nor takes it as literal truth, but rather seeks to interpret it as an indirect comment on the text pointing out connections and subtleties that might otherwise be missed.
+
+Both podcasts are squarely aimed at a Jewish audience and make frequent use of Hebrew terms and concepts; the attached [Hebrew cheatsheet](hebrew-cheatsheet.md) may be helpful. Christian listeners should be prepared for occasional hurtful (and again not terribly well-informed) comments about our religion, but I find the insights are worth the occasional discomfort.
 
 ## Exodus
 
