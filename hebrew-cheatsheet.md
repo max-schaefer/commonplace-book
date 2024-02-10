@@ -56,6 +56,7 @@ ibn ezra | אבן עזרא | [Rabbi Avraham ben Meir](https://en.wikipedia.org/w
 imahot | אמהות | matriarchs
 iyov | איוב | Job
 kahal | קהל | congregation
+kallah | כלה | bride
 kehunah | כהונה | priesthood
 keri u-khetiv | קרי וכתיב | [read and/vs written](https://en.wikipedia.org/wiki/Qere_and_Ketiv) (variant readings)
 keruvim | כרובים | cherubs
@@ -64,9 +65,11 @@ khag | חג | festival
 khakhamim | חכמים | [sages of the Talmud](https://en.wikipedia.org/wiki/Hakham)
 khametz | חמץ | leavened food
 khas veshalom | חס ושלום | God forbid
+khatan | חתן | groom
 khavah | חוה | Eve
 khazak | חזק | strong
 khazal | חז"ל | our sages of blessed memory, i.e., the Talmudic sages
+khazon ish | | [Rabbi Avraham Yeshayahu Karelitz](https://en.wikipedia.org/wiki/Avrohom_Yeshaya_Karelitz), a 20th-century rabbi from Belarus
 khet ha-egel | חטא העגל | the sin of the Golden Calf
 khiddush | חידוש | innovative interpretation
 khilul ha-shem | חילול השם | desecration of God's name
@@ -103,6 +106,7 @@ medinat israel | מדינת ישראל | state of Israel
 mefarshim | מפרשים | commentators on the Torah
 megillah | מגילה | scroll
 megillat esther | מגילת אסתר | (Book of) Esther
+melakhah | מלאכה | work
 melakhim | מלכים | (Book of) Kings
 melekh (pl. melakhim) | מלך (מלכים) | king
 memshalah | ממשלה | government
@@ -208,6 +212,7 @@ yitzkhak (avinu) | יצחק (אבינו) | Isaac (our father)
 yosef (hatzadik) | יוסף (הצדיק) | Joseph (the righteous)
 yud-ke-vav-ke | י-ה-ו-ה | the four-letter name of God
 zekhut | זכות | merit
+zenut | זנות | prostitution
 
 ## Numerals
 
