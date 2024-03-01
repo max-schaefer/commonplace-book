@@ -40,6 +40,12 @@ When God says he will punish the children of the wicked to the third and fourth 
 
 [The Parashah Podcast](https://open.spotify.com/episode/4iM0oj0CGiviomsOfDfRZF?si=o7g0u_C2S4u67fcojAncSQ): Leviticus 8:23: "Moses slaughtered the ram and took some of its blood and put it on the lobe of Aaron’s right ear, on the thumb of his right hand and on the big toe of his right foot." The first word "vayishkhat"/"and he slaughetered" has a [shalshelet](https://en.wikipedia.org/wiki/Shalshelet) on the last syllable. This is one of the rarest cantillation marks in the Torah. It expresses hesitation, and is used only four times in the entire Tanakh. It is used here because this is the last time Moses acts as the high priest before Aaron takes over.
 
+### Parashah Emor (Leviticus 21:1-24:23)
+
+[The Parashah Podcast](https://open.spotify.com/episode/2cP9x7O5pBGuZtGNJ1jwDP?si=TasKyyAYQjuKEGgvNNemlA) mentions a fascinating halakhic interpretation of Leviticus 21:4. This cryptic verse comes at the end of a list of people whose funeral a priest is allowed to attend and thereby become ritually unclean, namely his close relatives. The verse itself is apparently very difficult to translate, but Young's Literal Translation makes it "A master [priest] doth not defile himself among his people -- to pollute himself". The rabbis learn from this that a priest is not allowed to attend anyone else's funeral (except for the aforementioned close family) if other people are present, but conversely he is still required to bury a dead body if no one else is present to do it (Met Mitzvah), since then he is not "among his people".
+
+I think this sheds an intriguing light on the Parable of the Good Samaritan. I once heard a well-meaning preacher explain that we all misunderstand the point of the parable, and Jesus is not actually criticising the priest for not attending to the injured man, since he might be dead and as a priest he is forbidden from touching a dead body. This felt wrong to me, since in context it seems quite clear to me that Jesus is taking the priest (and the Levite) to task for precisely this. And I think the halakhah backs this up: clearly by the time the priest came by no one else was present at the scene of the crime, so he would have been allowed and indeed required to help the injured man or bury him if he was dead.
+
 ## Deuteronomy
 
 ### Parashah Shoftim (Deuteronomy 16:18-21:9)
