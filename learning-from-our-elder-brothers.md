@@ -46,6 +46,10 @@ When God says he will punish the children of the wicked to the third and fourth 
 
 I think this sheds an intriguing light on the Parable of the Good Samaritan. I once heard a well-meaning preacher explain that we all misunderstand the point of the parable, and Jesus is not actually criticising the priest for not attending to the injured man, since he might be dead and as a priest he is forbidden from touching a dead body. This felt wrong to me, since in context it seems quite clear to me that Jesus is taking the priest (and the Levite) to task for precisely this. And I think the halakhah backs this up: clearly by the time the priest came by no one else was present at the scene of the crime, so he would have been allowed and indeed required to help the injured man or bury him if he was dead.
 
+### Parashah Bekhukotai (Leviticus 26:3-27:34)
+
+[The Parashah Podcast](https://open.spotify.com/episode/6DV2zpV3ROIY7EFsnDrAeI?si=YCmQhQ-eR7aHg93WIXqZYQ): The two main blessings at the beginning of Chapter 26 are agricultural and progenitorial plenty; this echoes the two curses at the end of Genesis 3, which are agricultural scarcity and painful childbirth. And just as God was said to walk with Adam and Eve in the Garden of Eden, so the promise is that He will walk with the Israelites in the land of Canaan.
+
 ## Deuteronomy
 
 ### Parashah Shoftim (Deuteronomy 16:18-21:9)
