@@ -50,6 +50,12 @@ I think this sheds an intriguing light on the Parable of the Good Samaritan. I o
 
 [The Parashah Podcast](https://open.spotify.com/episode/6DV2zpV3ROIY7EFsnDrAeI?si=YCmQhQ-eR7aHg93WIXqZYQ): The two main blessings at the beginning of Chapter 26 are agricultural and progenitorial plenty; this echoes the two curses at the end of Genesis 3, which are agricultural scarcity and painful childbirth. And just as God was said to walk with Adam and Eve in the Garden of Eden, so the promise is that He will walk with the Israelites in the land of Canaan.
 
+## Numbers
+
+### Parashah Naso (Numbers 4:21-7:89)
+
+[The Parashah Podcast](https://open.spotify.com/episode/7gEv1vufThYx97Us2cuEBk?si=vcNYPdU3T2-4aoC5aBDkdw): The commandment in Numbers 5:2 to "put out of the camp every leper, and every one that hath an issue, and whosoever is unclean by the dead" may seem a little surprising. While Leviticus 13:46 states that lepers need to leave the camp, the same is not true of those with other forms of ritual impurity. Rashi explains that the three different groups mentioned here are forbidden from entering different parts of the camp: those who ritually impure due to touching a dead body are not allowed to enter the tabernacle (innermost part of the camp), those with an emission are not allowed into the Levite camp (the next ring out), and lepers are not allowed into the non-Levite camp (the outermost ring).
+
 ## Deuteronomy
 
 ### Parashah Shoftim (Deuteronomy 16:18-21:9)
