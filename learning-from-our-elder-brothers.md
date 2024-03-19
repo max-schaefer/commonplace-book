@@ -10,7 +10,9 @@ Links are given to Spotify, but the podcasts are also available on other platfor
 
 **Jonathan Livi's [Parashah Podcast](https://open.spotify.com/show/45srXeZZgZKHAomOmpIkmh?si=0405a8b93eb24591)**: recordings of live classes on the weekly Torah portion and the corresponding Haftarot, with lots of attention paid to the details of the Hebrew text. The episodes are longer (20-30 minutes for weekday classes, 60-90 minutes on Sundays) and include a lot of audience interaction. Less academic in style than Alex Israel's podcast. Livi is unfortunately given to lengthy ill-informed diatribes on historical, cultural and political topics, but there are enough nuggets to make it worth bearing with the noise. I find his approach to Midrash particularly interesting: he neither dismisses it as useless legend nor takes it as literal truth, but rather seeks to interpret it as an indirect comment on the text pointing out connections and subtleties that might otherwise be missed.
 
-Both podcasts are squarely aimed at a Jewish audience and make frequent use of Hebrew terms and concepts; the attached [Hebrew cheatsheet](hebrew-cheatsheet.md) may be helpful. Christian listeners should be prepared for occasional hurtful (and again not terribly well-informed) comments about our religion, but I find the insights are worth the occasional discomfort.
+**Levi Avtzon's [Daily Tanach](https://open.spotify.com/show/4zyiplVj4IX9mT34gFqioE?si=g-ZDNj57SKSu1E-dSfezOg)**: fairly straightforward high-level read-through of the Tanakh with a bit of commentary, about 10 minutes per episode. Freely mixes in Midrashic material.
+
+All three podcasts are squarely aimed at a Jewish audience and make frequent use of Hebrew terms and concepts; the attached [Hebrew cheatsheet](hebrew-cheatsheet.md) may be helpful. Christian listeners should be prepared for occasional hurtful (and again not terribly well-informed) comments about our religion, but I find the insights are worth the occasional discomfort.
 
 ## Exodus
 
@@ -55,6 +57,14 @@ I think this sheds an intriguing light on the Parable of the Good Samaritan. I o
 ### Parashah Naso (Numbers 4:21-7:89)
 
 [The Parashah Podcast](https://open.spotify.com/episode/7gEv1vufThYx97Us2cuEBk?si=vcNYPdU3T2-4aoC5aBDkdw): The commandment in Numbers 5:2 to "put out of the camp every leper, and every one that hath an issue, and whosoever is unclean by the dead" may seem a little surprising. While Leviticus 13:46 states that lepers need to leave the camp, the same is not true of those with other forms of ritual impurity. Rashi explains that the three different groups mentioned here are forbidden from entering different parts of the camp: those who ritually impure due to touching a dead body are not allowed to enter the tabernacle (innermost part of the camp), those with an emission are not allowed into the Levite camp (the next ring out), and lepers are not allowed into the non-Levite camp (the outermost ring).
+
+### Parashah Beha'alotekha (Numbers 8:1-12:16)
+
+[The Parashah Podcast](https://open.spotify.com/episode/0BTX9qInwPY12HsU52iBGx?si=Ks4cmi8_RtGnMS2MmOLQFA): Numbers 10:33 mentions that the Ark of the Covenant went _before_ the Israelites, while further up it says that it was in the middle of the people. A simple explanation is that it went in the middle during their normal desert wanderings, but at this point the Israelites thought they were just about to enter the Promised Land, so it went in front to lead the way and defeat their enemies (as later happened at Jericho).
+
+This explanation is more frugal, but also much less colourful, than the tradition referenced in the [Daily Tanach](https://open.spotify.com/episode/1DoDueBzrue867j0gP5vaG?si=YBnpyeQMQX6TNEagoUtvJg) that there were, in fact, _two_ Arks: one that went in front (containing the first, broken set of tablets) and one that went in the centre (which is the one that sat in the Mishkan).
+
+Further on in Numbers 11:5, the Israelites fondly reminisce about the fish they ate in Egypt [חִנָּ֑ם](https://biblehub.com/hebrew/2600.htm), i.e., "for nothing" or "for free". This seems like a strange case of warped memory, since they were slaves in Egypt and had to work for everything they got. But there is a fascinating alternative explanation: maybe they mean that back then they did not have to observe any mitzvot, so they could eat whatever they wanted without having to worry about kosher laws.
 
 ## Deuteronomy
 
