@@ -9,6 +9,16 @@ One verse from every chapter of every book of the Catholic Bible.
 - Latin: Vulgate via [vulgate.org](https://vulgate.org)
 - English: Revised Standard Version Catholic Edition via [biblegateway.com](https://www.biblegateway.com)
 
+## Psalms
+
+- 26:12
+
+    > אַל־תִּ֖תְּנֵנִי בְּנֶ֣פֶשׁ צָרָ֑י כִּ֥י קָֽמוּ־בִ֥י עֵֽדֵי־שֶׁ֜֗קֶר וִיפֵ֥חַ חָמָֽס:
+
+    > ne tradideris me in animas tribulantium me quoniam insurrexerunt in me testes iniqui et mentita est iniquitas sibi
+
+    > Give me not up to the will of my adversaries; for false witnesses have risen against me, and they breathe out violence.
+
 ## Zechariah
 
 - 2:5 
@@ -34,6 +44,14 @@ One verse from every chapter of every book of the Catholic Bible.
     > et ipse extruet templum Domino, et ipse portabit gloriam et sedebit et dominabitur super solio suo, et erit sacerdos super solio suo et consilium pacis erit inter duos illos.
 
     > It is he who shall build the temple of the Lord, and shall bear royal honor, and shall sit and rule upon his throne. And there shall be a priest by his throne, and peaceful understanding shall be between them both.
+
+- 12:10
+
+    > וְשָׁפַכְתִּי֩ עַל־בֵּ֨ית דָּוִ֜יד וְעַ֣ל | יוֹשֵׁ֣ב יְרֽוּשָׁלַ֗םִ ר֚וּחַ חֵן֙ וְתַ֣חֲנוּנִ֔ים וְהִבִּ֥יטוּ אֵלַ֖י אֵ֣ת אֲשֶׁר־דָּקָ֑רוּ וְסָֽפְד֣וּ עָלָ֗יו כְּמִסְפֵּד֙ עַל־הַיָּחִ֔יד וְהָמֵ֥ר עָלָ֖יו כְּהָמֵ֥ר עַֽל־הַבְּכֽוֹר:
+
+    > et effundam super domum David et super habitatores Hierusalem spiritum gratiae et precum, et aspicient ad me quem confixerunt, et plangent eum planctu quasi super unigenitum, et dolebunt super eum ut doleri solet in morte primogeniti.
+
+    > And I will pour out on the house of David and the inhabitants of Jerusalem a spirit of compassion and supplication, so that, when they look on him whom they have pierced, they shall mourn for him, as one mourns for an only child, and weep bitterly over him, as one weeps over a first-born.
 
 ## Wisdom
 
@@ -81,6 +99,22 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > For we are not, like so many, peddlers of God’s word; but as men of sincerity, as commissioned by God, in the sight of God we speak in Christ.
 
+- 3:6
+
+    > ὃς καὶ ἱκάνωσεν ἡμᾶς διακόνους καινῆς διαθήκης, οὐ γράμματος ἀλλὰ πνεύματος· τὸ γὰρ γράμμα ἀποκτέννει, τὸ δὲ πνεῦμα ζῳοποιεῖ.
+
+    > qui et idoneos nos fecit ministros novi testamenti, non litterae sed Spiritus: littera enim occidit Spiritus autem vivificat.
+
+    > who has qualified us to be ministers of a new covenant, not in a written code but in the Spirit; for the written code kills, but the Spirit gives life.
+
+- 4:17
+
+    > τὸ γὰρ παραυτίκα ἐλαφρὸν τῆς θλίψεως ἡμῶν καθ’ ὑπερβολὴν εἰς ὑπερβολὴν αἰώνιον βάρος δόξης κατεργάζεται ἡμῖν
+
+    > id enim quod in praesenti est momentaneum et leve tribulationis nostrae supra modum in sublimitatem aeternum gloriae pondus operatur nobis
+
+    > For this slight momentary affliction is preparing for us an eternal weight of glory beyond all comparison
+
 - 5:21
 
     > τὸν μὴ γνόντα ἁμαρτίαν ὑπὲρ ἡμῶν ἁμαρτίαν ἐποίησεν, ἵνα ἡμεῖς γενώμεθα δικαιοσύνη θεοῦ ἐν αὐτῷ.
@@ -88,6 +122,30 @@ One verse from every chapter of every book of the Catholic Bible.
     > eum, qui non noverat peccatum, pro nobis peccatum fecit, ut nos efficeremur justitia Dei in ipso.
 
     > For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.
+
+- 6:16
+
+    > τίς δὲ συγκατάθεσις ναῷ θεοῦ μετὰ εἰδώλων; ἡμεῖς γὰρ ναὸς θεοῦ ἐσμεν ζῶντος, καθὼς εἶπεν ὁ θεὸς ὅτι ἐνοικήσω ἐν αὐτοῖς καὶ ἐμπεριπατήσω καὶ ἔσομαι αὐτῶν θεὸς καὶ αὐτοὶ ἔσονταί μου λαός.
+
+    > qui autem consensus templo Dei cum idolis? vos enim estis templum Dei vivi, sicut dicit Deus quoniam inhabitabo in illis et inambulabo et ero illorum Deus et ipsi erunt mihi populus.
+
+    > What agreement has the temple of God with idols? For we are the temple of the living God; as God said, "I will live in them and move among them, and I will be their God, and they shall be my people."
+
+- 7:10
+
+    > ἡ γὰρ κατὰ θεὸν λύπη μετάνοιαν εἰς σωτηρίαν ἀμεταμέλητον ἐργάζεται· ἡ δὲ τοῦ κόσμου λύπη θάνατον κατεργάζεται.
+
+    > quae enim secundum Deum tristitia est paenitentiam in salutem stabilem operatur saeculi autem tristitia mortem operatur.
+
+    > For godly grief produces a repentance that leads to salvation and brings no regret, but worldly grief produces death. 
+
+- 8:9
+
+    > γινώσκετε γὰρ τὴν χάριν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὅτι δι’ ὑμᾶς ἐπτώχευσεν πλούσιος ὤν, ἵνα ὑμεῖς τῇ ἐκείνου πτωχείᾳ πλουτήσητε.
+
+    > scitis enim gratiam Domini nostri Iesu Christi, quoniam propter vos egenus factus est cum esset dives, ut illius inopia vos divites essetis.
+
+    > For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that by his poverty you might become rich.
 
 - 11:30
 
