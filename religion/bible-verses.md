@@ -19,6 +19,20 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Give me not up to the will of my adversaries; for false witnesses have risen against me, and they breathe out violence.
 
+## Habakkuk
+
+- 3:17f
+
+    > כִּֽי־תְאֵנָ֣ה לֹֽא־תִפְרָ֗ח וְאֵ֚ין יְבוּל֙ בַּגְּפָנִ֔ים כִּחֵשׁ֙ מַֽעֲשֵׂה־זַ֔יִת וּשְׁדֵמ֖וֹת לֹא־עָ֣שָׂה אֹ֑כֶל גָּזַ֚ר מִמִּכְלָה֙ צֹ֔אן וְאֵ֥ין בָּקָ֖ר בָּֽרְפָתִֽים:
+    > וַֽאֲנִ֖י בַּֽיהֹוָ֣ה אֶֽעֱל֑וֹזָה אָגִ֖ילָה בֵּֽאלֹהֵ֥י יִשְׁעִֽי:
+
+    > Ficus enim non florebit et non erit germen in vineis, mentietur opus olivae et arva non adferent cibum, abscidetur de ovili pecus et non erit armentum in praesepibus,
+    > ego autem in Domino gaudebo, exultabo in Deo Iesu meo.
+
+    > Though the fig tree do not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold
+    and there be no herd in the stalls,
+    > yet I will rejoice in the Lord, I will joy in the God of my salvation.
+
 ## Zechariah
 
 - 1:3
@@ -280,6 +294,14 @@ One verse from every chapter of every book of the Catholic Bible.
     > If I must boast, I will boast of the things that show my weakness.
 
 ## Galatians
+
+- 1:8
+
+    > ἀλλὰ καὶ ἐὰν ἡμεῖς ἢ ἄγγελος ἐξ οὐρανοῦ εὐαγγελίζηται ὑμῖν παρ’ ὃ εὐηγγελισάμεθα ὑμῖν, ἀνάθεμα ἔστω.
+
+    > Sed licet nos aut angelus de caelo evangelizet vobis praeterquam quod evangelizavimus vobis, anathema sit.
+
+    > But even if we, or an angel from heaven, should preach to you a gospel contrary to that which we preached to you, let him be accursed.
 
 - 2:20
 
