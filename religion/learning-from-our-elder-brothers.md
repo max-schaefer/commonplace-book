@@ -94,6 +94,8 @@ The opinion of Rashi is what I have more generally heard in Christian interpreta
 
 [The Tanakh Podcast](https://open.spotify.com/episode/0KKL9E29oRa51ntcVl5Emy?si=db2139acc45a47aa): Sennacherib’s siege of Jerusalem is described on the Taylor Prism, where he says that he shut up Hezekiah in Jerusalem like a "caged bird". Now cf Isaiah 31:5: "Like birds hovering overhead, the Lord Almighty will shield Jerusalem; he will shield it and deliver it." (NIV) For more than 2000 years one would have read this as a bland, general association of birds with freedom, but thanks to modern archaeology we can now see that it was perhaps a pointed rebuttal of Assyrian propaganda.
 
+[The Parashah Podcast](https://open.spotify.com/episode/1YKK7DRi0P5LnUINTUsTVM?si=r0XiFMuxQ8Gg32VmSNCKpg) brings down a fascinating little Midrash on why Sennacherib was killed by his sons: he was planning on sacrificing them to the gods in order to show his compassion with the many Assyrians who had lost their sons in the failed conquest of Jerusalem, but they found out and killed him first. Perhaps I'm being overly influenced by Game of Thrones, but I wouldn't have thought that there needed to be a particular reason for a king to be assassinated by his sons. (This episode of the podcast is a particularly unfortunate example of the puerile political discourse Livi and his students like to engage in, so the first half is best skipped.)
+
 ## Isaiah
 
 ### Chapter 7
