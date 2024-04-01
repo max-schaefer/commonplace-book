@@ -78,7 +78,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Say to all the people of the land and the priests, When you fasted and mourned in the fifth month and in the seventh, for these seventy years, was it for me that you fasted?
 
-> 8:3
+- 8:3
 
     > כֹּה אָמַ֣ר יְהֹוָ֔ה שַׁבְתִּי אֶל־צִיּ֔וֹן וְשָֽׁכַנְתִּ֖י בְּת֣וֹךְ יְרֽוּשָׁלִָ֑ם וְנִקְרְאָ֚ה יְרֽוּשָׁלִַ֙ם֙ עִ֣יר־הָֽאֱמֶ֔ת וְהַר־יְהֹוָ֥ה צְבָא֖וֹת הַ֥ר הַקֹּֽדֶשׁ:
 
@@ -329,7 +329,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Οὐχ ὅτι ἤδη ἔλαβον ἢ ἤδη τετελείωμαι, διώκω δὲ εἰ καὶ καταλάβω, ἐφ’ ᾧ καὶ κατελήμφθην ὑπὸ Χριστοῦ Ἰησοῦ.
 
-    > nNn quod iam acceperim aut iam perfectus sim, sequor autem si conprehendam, in quo et conprehensus sum a Christo Iesu.
+    > Non quod iam acceperim aut iam perfectus sim, sequor autem si conprehendam, in quo et conprehensus sum a Christo Iesu.
 
     > Not that I have already obtained this or am already perfect; but I press on to make it my own, because Christ Jesus has made me his own.
 
