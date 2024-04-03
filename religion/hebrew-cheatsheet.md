@@ -175,6 +175,7 @@ shlomo (ha-melekh) | שלמה (המלך) | Solomon (the king)
 shofetim | שופטים | (Book of) Judges
 shomer shabbat | שומר שבת | Sabbath observer
 shomron | שומרון | Samaria
+shoresh | שורש | (grammatical) root
 shulkhan | שולחן | table
 siyum | סיום | completion
 sofer (pl. soferim) | סופר (סופרים) | scribe
