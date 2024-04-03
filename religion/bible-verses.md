@@ -285,6 +285,14 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > The point is this: he who sows sparingly will also reap sparingly, and he who sows bountifully will also reap bountifully.
 
+- 10:17
+
+    > Ὁ δὲ καυχώμενος ἐν κυρίῳ καυχάσθω·
+
+    > Qui autem gloriatur in Domino glorietur.
+
+    > Let him who boasts, boast of the Lord.
+
 - 11:30
 
     > Εἰ καυχᾶσθαι δεῖ, τὰ τῆς ἀσθενείας μου καυχήσομαι.
@@ -292,6 +300,22 @@ One verse from every chapter of every book of the Catholic Bible.
     > Si gloriari oportet, quae infirmitatis meae sunt gloriabor.
 
     > If I must boast, I will boast of the things that show my weakness.
+
+- 12:9
+
+    > καὶ εἴρηκέν μοι· ἀρκεῖ σοι ἡ χάρις μου, ἡ γὰρ δύναμις ἐν ἀσθενείᾳ τελεῖται. Ἥδιστα οὖν μᾶλλον καυχήσομαι ἐν ταῖς ἀσθενείαις μου, ἵνα ἐπισκηνώσῃ ἐπ’ ἐμὲ ἡ δύναμις τοῦ Χριστοῦ.
+
+    > et dixit mihi: sufficit tibi gratia mea, nam virtus in infirmitate perficitur. Libenter igitur gloriabor in infirmitatibus meis, ut inhabitet in me virtus Christi.
+
+    > but he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” I will all the more gladly boast of my weaknesses, that the power of Christ may rest upon me.
+
+- 13:13 (13:14)
+
+    > Ἡ χάρις τοῦ κυρίου Ἰησοῦ Χριστοῦ καὶ ἡ ἀγάπη τοῦ θεοῦ καὶ ἡ κοινωνία τοῦ ἁγίου πνεύματος μετὰ πάντων ὑμῶν.
+
+    > Gratia Domini nostri Iesu Christi et caritas Dei et communicatio Sancti Spiritus cum omnibus vobis amen.
+
+    > The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.
 
 ## Galatians
 
@@ -310,6 +334,22 @@ One verse from every chapter of every book of the Catholic Bible.
     > Vivo autem iam non ego vivit vero in me Christus quod autem nunc vivo in carne in fide vivo Filii Dei qui dilexit me et tradidit se ipsum pro me
 
     > I have been crucified with Christ; it is no longer I who live, but Christ who lives in me; and the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
+
+- 3:13
+
+    > Χριστὸς ἡμᾶς ἐξηγόρασεν ἐκ τῆς κατάρας τοῦ νόμου γενόμενος ὑπὲρ ἡμῶν κατάρα, ὅτι γέγραπται· ἐπικατάρατος πᾶς ὁ κρεμάμενος ἐπὶ ξύλου.
+
+    > Christus nos redemit de maledicto legis factus pro nobis maledictum, quia scriptum est: maledictus omnis qui pendet in ligno.
+
+    > Christ redeemed us from the curse of the law, having become a curse for us—for it is written, “Cursed be every one who hangs on a tree”
+
+- 4:4
+
+    > ὅτε δὲ ἦλθεν τὸ πλήρωμα τοῦ χρόνου, ἐξαπέστειλεν ὁ θεὸς τὸν υἱὸν αὐτοῦ, γενόμενον ἐκ γυναικός, γενόμενον ὑπὸ νόμον
+
+    > at ubi venit plenitudo temporis, misit Deus Filium suum, factum ex muliere, factum sub lege
+
+    > But when the time had fully come, God sent forth his Son, born of woman, born under the law
 
 - 5:22
 
