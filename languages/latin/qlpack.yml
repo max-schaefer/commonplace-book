@@ -1,0 +1,7 @@
+---
+library: false
+warnOnImplicitThis: false
+name: latin
+version: 0.0.1
+dataExtensions:
+  - latinwordnet.yml
