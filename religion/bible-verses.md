@@ -193,7 +193,41 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > or rather, being good, I entered an undefiled body
 
+## Gospel of John
+
+- 1:1
+
+    > Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.
+
+    > In principio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum.
+
+    > In the beginning was the Word, and the Word was with God, and the Word was God.
+
+- 2:5
+
+    > λέγει ἡ μήτηρ αὐτοῦ τοῖς διακόνοις· ὅ τι ἂν λέγῃ ὑμῖν ποιήσατε.
+
+    > Dicit mater eius ministris: quodcumque dixerit vobis facite.
+
+    > His mother said to the servants, “Do whatever he tells you.”
+
+- 3:16
+
+    > οὕτως γὰρ ἠγάπησεν ὁ θεὸς τὸν κόσμον, ὥστε τὸν υἱὸν τὸν μονογενῆ ἔδωκεν, ἵνα πᾶς ὁ πιστεύων εἰς αὐτὸν μὴ ἀπόληται ἀλλ’ ἔχῃ ζωὴν αἰώνιον.
+
+    > Sic enim dilexit Deus mundum, ut Filium suum unigenitum daret, ut omnis qui credit in eum non pereat sed habeat vitam aeternam.
+
+    > For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life.
+
 ## 1 Corinthians
+
+- 1:23
+
+    > ἡμεῖς δὲ κηρύσσομεν Χριστὸν ἐσταυρωμένον, Ἰουδαίοις μὲν σκάνδαλον, ἔθνεσιν δὲ μωρίαν
+
+    > nos autem praedicamus Christum crucifixum Iudaeis quidem scandalum gentibus autem stultitiam
+
+    > but we preach Christ crucified, a stumbling block to Jews and folly to Gentiles
 
 - 13:13
 
@@ -369,6 +403,22 @@ One verse from every chapter of every book of the Catholic Bible.
 
 ## Ephesians
 
+- 1:3
+
+    > Εὐλογητὸς ὁ θεὸς καὶ πατὴρ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὁ εὐλογήσας ἡμᾶς ἐν πάσῃ εὐλογίᾳ πνευματικῇ ἐν τοῖς ἐπουρανίοις ἐν Χριστῷ
+
+    > Benedictus Deus et Pater Domini nostri Iesu Christi, qui benedixit nos in omni benedictione spiritali in caelestibus in Christo
+
+    > Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places
+
+- 2:19
+
+    > Ἄρα οὖν οὐκέτι ἐστὲ ξένοι καὶ πάροικοι ἀλλ’ ἐστὲ συμπολῖται τῶν ἁγίων καὶ οἰκεῖοι τοῦ θεοῦ
+
+    > Ergo iam non estis hospites et advenae sed estis cives sanctorum et domestici Dei
+
+    > So then you are no longer strangers and sojourners, but you are fellow citizens with the saints and members of the household of God
+
 - 4:26
 
     > ὀργίζεσθε καὶ μὴ ἁμαρτάνετε· ὁ ἥλιος μὴ ἐπιδυέτω ἐπὶ τῷ παροργισμῷ ὑμῶν,
@@ -417,6 +467,14 @@ One verse from every chapter of every book of the Catholic Bible.
     > I have fought the good fight, I have finished the race, I have kept the faith.
 
 ## 1 John
+
+- 1:5
+
+    > Καὶ ἔστιν αὕτη ἡ ἀγγελία ἣν ἀκηκόαμεν ἀπ’ αὐτοῦ καὶ ἀναγγέλλομεν ὑμῖν, ὅτι ὁ θεὸς φῶς ἐστιν καὶ σκοτία ἐν αὐτῷ οὐκ ἔστιν οὐδεμία.
+
+    > Et haec est adnuntiatio quam audivimus ab eo et adnuntiamus vobis, quoniam Deus lux est et tenebrae in eo non sunt ullae.
+
+    > This is the message we have heard from him and proclaim to you, that God is light and in him is no darkness at all.
 
 - 4:19
 
