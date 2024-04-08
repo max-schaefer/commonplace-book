@@ -19,6 +19,16 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > And say to the people of Israel, Whoever curses his God shall bear his sin.
 
+## Deuteronomy
+
+- 18:15
+
+    > נָבִ֨יא מִקִּרְבְּךָ֤ מֵֽאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן:
+
+    > Prophetam de gente tua et de fratribus tuis sicut me suscitabit tibi Dominus Deus tuus ipsum audies.
+
+    > The Lord your God will raise up for you a prophet like me from among you, from your brethren, him you shall heed.
+
 ## Psalms
 
 - 26:12
