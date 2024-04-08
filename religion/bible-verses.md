@@ -9,6 +9,16 @@ One verse from every chapter of every book of the Catholic Bible.
 - Latin: Vulgate via [vulgate.org](https://vulgate.org)
 - English: Revised Standard Version Catholic Edition via [biblegateway.com](https://www.biblegateway.com)
 
+## Leviticus
+
+- 24:15
+
+    > וְאֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר אִ֥ישׁ אִ֛ישׁ כִּֽי־יְקַלֵּ֥ל אֱלֹהָ֖יו וְנָשָׂ֥א חֶטְאֽוֹ:
+
+    > Et ad filios Israhel loqueris: homo qui maledixerit Deo suo portabit peccatum suum.
+
+    > And say to the people of Israel, Whoever curses his God shall bear his sin.
+
 ## Psalms
 
 - 26:12
@@ -219,6 +229,22 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life.
 
+- 4:22
+
+    > ὑμεῖς προσκυνεῖτε ὃ οὐκ οἴδατε, ἡμεῖς προσκυνοῦμεν ὃ οἴδαμεν, ὅτι ἡ σωτηρία ἐκ τῶν Ἰουδαίων ἐστίν.
+
+    > Vos adoratis quod nescitis; nos adoramus quod scimus, quia salus ex Iudaeis est.
+
+    > You worship what you do not know; we worship what we know, for salvation is from the Jews.
+
+- 5:19
+
+    > Ἀπεκρίνατο οὖν ὁ Ἰησοῦς καὶ ἔλεγεν αὐτοῖς· ἀμὴν ἀμὴν λέγω ὑμῖν, οὐ δύναται ὁ υἱὸς ποιεῖν ἀφ’ ἑαυτοῦ οὐδὲν ἐὰν μή τι βλέπῃ τὸν πατέρα ποιοῦντα· ἃ γὰρ ἂν ἐκεῖνος ποιῇ, ταῦτα καὶ ὁ υἱὸς ὁμοίως ποιεῖ.
+
+    > Respondit itaque Iesus et dixit eis: Amen amen dico vobis, non potest Filius a se facere quicquam nisi quod viderit Patrem facientem; quaecumque enim ille fecerit, haec et Filius similiter facit.
+
+    > Jesus said to them, “Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing; for whatever he does, that the Son does likewise.
+
 ## 1 Corinthians
 
 - 1:23
@@ -419,6 +445,14 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > So then you are no longer strangers and sojourners, but you are fellow citizens with the saints and members of the household of God
 
+- 3:20
+
+    > Τῷ δὲ δυναμένῳ ὑπὲρ πάντα ποιῆσαι ὑπερεκπερισσοῦ ὧν αἰτούμεθα ἢ νοοῦμεν κατὰ τὴν δύναμιν τὴν ἐνεργουμένην ἐν ἡμῖν
+
+    > Ei autem qui potens est omnia facere superabundanter quam petimus aut intellegimus secundum virtutem quae operatur in nobis
+
+    > Now to him who by the power at work within us is able to do far more abundantly than all that we ask or think
+
 - 4:26
 
     > ὀργίζεσθε καὶ μὴ ἁμαρτάνετε· ὁ ἥλιος μὴ ἐπιδυέτω ἐπὶ τῷ παροργισμῷ ὑμῶν,
@@ -475,6 +509,14 @@ One verse from every chapter of every book of the Catholic Bible.
     > Et haec est adnuntiatio quam audivimus ab eo et adnuntiamus vobis, quoniam Deus lux est et tenebrae in eo non sunt ullae.
 
     > This is the message we have heard from him and proclaim to you, that God is light and in him is no darkness at all.
+
+- 2:16
+
+    > ὅτι πᾶν τὸ ἐν τῷ κόσμῳ, ἡ ἐπιθυμία τῆς σαρκὸς καὶ ἡ ἐπιθυμία τῶν ὀφθαλμῶν καὶ ἡ ἀλαζονεία τοῦ βίου, οὐκ ἔστιν ἐκ τοῦ πατρὸς ἀλλ’ ἐκ τοῦ κόσμου ἐστίν.
+
+    > quoniam omne quod est in mundo, concupiscentia carnis et concupiscentia oculorum est et superbia vitae, quae non est ex Patre sed ex mundo est.
+
+    > For all that is in the world, the lust of the flesh and the lust of the eyes and the pride of life, is not of the Father but is of the world.
 
 - 4:19
 
