@@ -1,0 +1,4 @@
+diagnostic/
+log/
+db-yaml/default/cache
+db-yaml/default/pools
