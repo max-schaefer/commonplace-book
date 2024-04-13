@@ -76,6 +76,10 @@ In the story of the fiery snakes, the episode quotes an opinion that the proper 
 
 Finally, the podcast notes that in the confrontation with the king of Arad, the Israelites for the first time take the initiative and pray to God for success without obvious intervention from Moses. This is a sign of their growing maturity and independence, and a further indication that they are ready to enter the Promised Land.
 
+### Parashah Balak (Numbers 22:2-25:9)
+
+[The Parashah Podcast](https://open.spotify.com/episode/3u9SlqOTGVJtKFLnCKPrrq?si=_LAJcUeARgmI5RG1q5pblg) cites an opinion of the Ramban whereby the four prophecies of Balaam relate to, respectively, the period of the patriarchs, the exodus from Egypt, the time of King David, and the future coming of the Messiah. The latter agrees with Christian tradition, which sees in Balaam's final prophecy a prediction of the coming of Jesus.
+
 ## Deuteronomy
 
 ### Parashah Shoftim (Deuteronomy 16:18-21:9)
@@ -105,6 +109,12 @@ The opinion of Rashi is what I have more generally heard in Christian interpreta
 [The Tanakh Podcast](https://open.spotify.com/episode/0KKL9E29oRa51ntcVl5Emy?si=db2139acc45a47aa): Sennacherib’s siege of Jerusalem is described on the Taylor Prism, where he says that he shut up Hezekiah in Jerusalem like a "caged bird". Now cf Isaiah 31:5: "Like birds hovering overhead, the Lord Almighty will shield Jerusalem; he will shield it and deliver it." (NIV) For more than 2000 years one would have read this as a bland, general association of birds with freedom, but thanks to modern archaeology we can now see that it was perhaps a pointed rebuttal of Assyrian propaganda.
 
 [The Parashah Podcast](https://open.spotify.com/episode/1YKK7DRi0P5LnUINTUsTVM?si=r0XiFMuxQ8Gg32VmSNCKpg) brings down a fascinating little Midrash on why Sennacherib was killed by his sons: he was planning on sacrificing them to the gods in order to show his compassion with the many Assyrians who had lost their sons in the failed conquest of Jerusalem, but they found out and killed him first. Perhaps I'm being overly influenced by Game of Thrones, but I wouldn't have thought that there needed to be a particular reason for a king to be assassinated by his sons. (This episode of the podcast is a particularly unfortunate example of the puerile political discourse Livi and his students like to engage in, so the first half is best skipped.)
+
+## Chapter 20
+
+[The Parashah Podcast](https://open.spotify.com/episode/5QHW11KtnQvgCLGzso9HXw?si=YA_WPRNyTmGGrCt1TguO8w) mentions a funny Midrash explaning why the Babylonian king Merodach-Baladan reached out to Hezekiah: it was the king's custom to sleep until the ninth hour of the day. One day he awoke around 3pm as was his custom, but the sun was still high in the sky, having gone back ten steps as a sign of Hezekiah's miraculous healing. At first, Merodach-Baladan was furious with his servants, thinking they had let him sleep through the night and into the next morning, but when he found out about the astronomical miracle that had occurred and ascertained that Hezekiah was the cause, he sent him a letter and a gift.
+
+The story ends on a sombre note: this would have been Hezekiah's chance to extol the greatness of God, but instead he shows off his own wealth and power, thereby setting a train of events in motion that would lead to the Babylonian exile. If not for this misstep, the rabbis say, Hezekiah could have been the Messiah.
 
 ## Isaiah
 
