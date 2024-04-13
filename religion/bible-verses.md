@@ -6,7 +6,7 @@ One verse from every chapter of every book of the Catholic Bible.
 - Greek
   - Deuterocanonical Books: Septuagint via [katabiblon.com](https://en.katabiblon.com/us/index.php?text=LXX)
   - New Testament: Nestle-Aland 28th edition via [bibelwissenschaft.de](https://www.bibelwissenschaft.de/en/bible/NA28)
-- Latin: Vulgate via [vulgate.org](https://vulgate.org)
+- Latin: Vulgate via [sacred-texts.com](https://sacred-texts.com/bib/vul/)
 - English: Revised Standard Version Catholic Edition via [biblegateway.com](https://www.biblegateway.com)
 
 ## Leviticus
@@ -28,6 +28,16 @@ One verse from every chapter of every book of the Catholic Bible.
     > Prophetam de gente tua et de fratribus tuis sicut me suscitabit tibi Dominus Deus tuus ipsum audies.
 
     > The Lord your God will raise up for you a prophet like me from among you, from your brethren, him you shall heed.
+
+## 2 Samuel
+
+- 6:17
+
+    > וַיָּבִ֜אוּ אֶת־אֲר֣וֹן יְהֹוָ֗ה וַיַּצִּ֚גוּ אֹתוֹ֙ בִּמְקוֹמ֔וֹ בְּת֣וֹךְ הָאֹ֔הֶל אֲשֶׁ֥ר נָטָה־ל֖וֹ דָּוִ֑ד וַיַּ֨עַל דָּוִ֥ד עֹל֛וֹת לִפְנֵ֥י יְהֹוָ֖ה וּשְׁלָמִֽים:
+
+    > Et introduxerunt arcam Domini, et imposuerunt eam in loco suo in medio tabernaculi, quod tetenderat ei David: et obtulit David holocausta et pacifica coram Domino.
+
+    > And they brought in the ark of the Lord, and set it in its place, inside the tent which David had pitched for it; and David offered burnt offerings and peace offerings before the Lord.
 
 ## Psalms
 
@@ -203,6 +213,38 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > But for you who fear my name the sun of righteousness shall rise, with healing in its wings. You shall go forth leaping like calves from the stall.
 
+## Tobit
+
+- 1:3
+
+    > ἐγὼ Τωβιτ ὁδοῖς ἀληθείας ἐπορευόμην καὶ δικαιοσύνης πάσας τὰς ἡμέρας τῆς ζωῆς μου καὶ ἐλεημοσύνας πολλὰς ἐποίησα τοῖς ἀδελφοῖς μου καὶ τῷ ἔθνει τοῖς συμπορευθεῖσιν μετ’ ἐμοῦ εἰς χώραν Ἀσσυρίων εἰς Νινευη
+
+    > I, Tobit, walked in the ways of truth and righteousness all the days of my life, and I performed many acts of charity to my brethren and countrymen who went with me into the land of the Assyrians, to Nineveh.
+
+- 2:2
+
+    > καὶ ἐθεασάμην ὄψα πολλὰ καὶ εἶπα τῷ υἱῷ μου βάδισον καὶ ἄγαγε ὃν ἐὰν εὕρῃς τῶν ἀδελφῶν ἡμῶν ἐνδεῆ ὃς μέμνηται τοῦ κυρίου καὶ ἰδοὺ μενῶ σε
+
+    > Upon seeing the abundance of food I said to my son, “Go and bring whatever poor man of our brethren you may find who is mindful of the Lord, and I will wait for you.”
+
+- 3:2
+
+    > δίκαιος εἶ κύριε καὶ πάντα τὰ ἔργα σου καὶ πᾶσαι αἱ ὁδοί σου ἐλεημοσύναι καὶ ἀλήθεια καὶ κρίσιν ἀληθινὴν καὶ δικαίαν σὺ κρίνεις εἰς τὸν αἰῶνα
+
+    > Righteous art thou, O Lord; all thy deeds and all thy ways are mercy and truth, and thou dost render true and righteous judgment for ever.
+
+- 4:21
+
+    > καὶ μὴ φοβοῦ παιδίον ὅτι ἐπτωχεύσαμεν ὑπάρχει σοι πολλά ἐὰν φοβηθῇς τὸν θεὸν καὶ ἀποστῇς ἀπὸ πάσης ἁμαρτίας καὶ ποιήσῃς τὸ ἀρεστὸν ἐνώπιον αὐτοῦ
+
+    > Do not be afraid, my son, because we have become poor. You have great wealth if you fear God and refrain from every sin and do what is pleasing in his sight.
+
+- 5:1
+
+    > καὶ ἀποκριθεὶς Τωβιας εἶπεν αὐτῷ πάτερ ποιήσω πάντα ὅσα ἐντέταλσαί μοι
+
+    > Then Tobias answered him, “Father, I will do everything that you have commanded me.
+
 ## Wisdom
 
 - 8:20
@@ -212,6 +254,16 @@ One verse from every chapter of every book of the Catholic Bible.
     > et cum essem magis bonus veni ad corpus incoinquinatum
 
     > or rather, being good, I entered an undefiled body
+
+## Gospel of Matthew
+
+- 26:26
+
+    > Ἐσθιόντων δὲ αὐτῶν λαβὼν ὁ Ἰησοῦς ἄρτον καὶ εὐλογήσας ἔκλασεν καὶ δοὺς τοῖς μαθηταῖς εἶπεν· λάβετε φάγετε, τοῦτό ἐστιν τὸ σῶμά μου.
+
+    > Cœnantibus autem eis, accepit Jesus panem, et benedixit, ac fregit, deditque discipulis suis, et ait: Accipite, et comedite: hoc est corpus meum.
+
+    > Now as they were eating, Jesus took bread, and blessed, and broke it, and gave it to the disciples and said, “Take, eat; this is my body.”
 
 ## Gospel of John
 
@@ -254,6 +306,22 @@ One verse from every chapter of every book of the Catholic Bible.
     > Respondit itaque Iesus et dixit eis: Amen amen dico vobis, non potest Filius a se facere quicquam nisi quod viderit Patrem facientem; quaecumque enim ille fecerit, haec et Filius similiter facit.
 
     > Jesus said to them, “Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing; for whatever he does, that the Son does likewise.
+
+- 6:51
+
+    > ἐγώ εἰμι ὁ ἄρτος ὁ ζῶν ὁ ἐκ τοῦ οὐρανοῦ καταβάς· ἐάν τις φάγῃ ἐκ τούτου τοῦ ἄρτου ζήσει εἰς τὸν αἰῶνα, καὶ ὁ ἄρτος δὲ ὃν ἐγὼ δώσω ἡ σάρξ μού ἐστιν ὑπὲρ τῆς τοῦ κόσμου ζωῆς.
+
+    > Ego sum panis vivus, qui de cælo descendi. Si quis manducaverit ex hoc pane, vivet in æternum; et panis, quem ego dabo, caro mea est pro mundi vita.
+
+    > I am the living bread which came down from heaven; if any one eats of this bread, he will live for ever; and the bread which I shall give for the life of the world is my flesh.
+
+- 7:46
+
+    > ἀπεκρίθησαν οἱ ὑπηρέται· οὐδέποτε ἐλάλησεν οὕτως ἄνθρωπος.
+
+    > Responderunt ministri: Numquam sic locutus est homo, sicut hic homo.
+
+    > The officers answered, “No man ever spoke like this man!”
 
 ## 1 Corinthians
 
@@ -463,13 +531,29 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Now to him who by the power at work within us is able to do far more abundantly than all that we ask or think
 
-- 4:26
+- 4:5
 
-    > ὀργίζεσθε καὶ μὴ ἁμαρτάνετε· ὁ ἥλιος μὴ ἐπιδυέτω ἐπὶ τῷ παροργισμῷ ὑμῶν,
+    > εἷς κύριος, μία πίστις, ἓν βάπτισμα.
 
-    > Irascimini et nolite peccare: sol non occidat super iracundiam vestram.
+    > Unus Dominus, una fides, unum baptisma.
 
-    > Be angry but do not sin; do not let the sun go down on your anger.
+    > One Lord, one faith, one baptism.
+
+- 5:14
+
+    > πᾶν γὰρ τὸ φανερούμενον φῶς ἐστιν. διὸ λέγει· ἔγειρε, ὁ καθεύδων, καὶ ἀνάστα ἐκ τῶν νεκρῶν, καὶ ἐπιφαύσει σοι ὁ Χριστός.
+
+    > Propter quod dicit: Surge qui dormis, et exsurge a mortuis, et illuminabit te Christus.
+
+    > Therefore it is said, "Awake, O sleeper, and arise from the dead, and Christ shall give you light."
+
+- 6:12
+
+    > ὅτι οὐκ ἔστιν ἡμῖν ἡ πάλη πρὸς αἷμα καὶ σάρκα ἀλλὰ πρὸς τὰς ἀρχάς, πρὸς τὰς ἐξουσίας, πρὸς τοὺς κοσμοκράτορας τοῦ σκότους τούτου, πρὸς τὰ πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις.
+
+    > quoniam non est nobis colluctatio adversus carnem et sanguinem, sed adversus principes, et potestates, adversus mundi rectores tenebrarum harum, contra spiritualia nequitiæ, in cælestibus.
+
+    > For we are not contending against flesh and blood, but against the principalities, against the powers, against the world rulers of this present darkness, against the spiritual hosts of wickedness in the heavenly places.
 
 ## Philippians
 
@@ -527,6 +611,14 @@ One verse from every chapter of every book of the Catholic Bible.
     > quoniam omne quod est in mundo, concupiscentia carnis et concupiscentia oculorum est et superbia vitae, quae non est ex Patre sed ex mundo est.
 
     > For all that is in the world, the lust of the flesh and the lust of the eyes and the pride of life, is not of the Father but is of the world.
+
+- 3:2
+
+    > ἀγαπητοὶ νῦν τέκνα θεοῦ ἐσμεν, καὶ οὔπω ἐφανερώθη τί ἐσόμεθα. οἴδαμεν ὅτι ἐὰν φανερωθῇ, ὅμοιοι αὐτῷ ἐσόμεθα, ὅτι ὀψόμεθα αὐτόν, καθώς ἐστιν.
+
+    > Carissimi, nunc filii Dei sumus: et nondum apparuit quid erimus. Scimus quoniam cum apparuerit, similes ei erimus: quoniam videbimus eum sicuti est.
+
+    > Beloved, we are God’s children now; it does not yet appear what we shall be, but we know that when he appears we shall be like him, for we shall see him as he is.
 
 - 4:19
 
