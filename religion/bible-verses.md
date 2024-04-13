@@ -557,6 +557,14 @@ One verse from every chapter of every book of the Catholic Bible.
 
 ## Philippians
 
+- 1:21
+
+    > Ἐμοὶ γὰρ τὸ ζῆν Χριστὸς καὶ τὸ ἀποθανεῖν κέρδος.
+
+    > Mihi enim vivere Christus est, et mori lucrum.
+
+    > For to me to live is Christ, and to die is gain.
+
 - 2:13
 
     > θεὸς γάρ ἐστιν ὁ ἐνεργῶν ἐν ὑμῖν καὶ τὸ θέλειν καὶ τὸ ἐνεργεῖν ὑπὲρ τῆς εὐδοκίας.
