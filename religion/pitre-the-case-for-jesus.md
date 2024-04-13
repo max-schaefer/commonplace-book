@@ -18,3 +18,7 @@ But more importantly, the very first entry in the [List of New Testament papyri]
 In other words, we dive right into chapter 1, verse 1, without any title or mention of an author, no "Κατα Μαθθαιον" or anything. I can't see anything missing from the top of the papyrus either.
 
 In his search for an anonymous copy of the gospels, did Pitre really not think to look at "Papyrus 1"? Or does he consider it irrelevant for some other reason? It is really quite puzzling.
+
+I did enjoy other parts of the book, though, especially the connection between the blood and water coming from Jesus' side and Josephus' account of the blood of the temple sacrifice being disposed of in the Kidron valley, causing a stream of blood and water to flow from the temple. This made the significance of Jesus' body as the new temple much clearer to me.
+
+I also found the explanation of the "Sign of Jonah" very enlightening: Pitre contends that Jonah actually died when the fish swallowed him and was raised from the dead when he was spit out after three days, before proceeding to preach to the (gentile) Ninevites and converting them, even if temporarily. This combination of death and resurrection after three days followed by a conversion of the gentiles, Pitre claims, is what the Sign of Jonah refers to, and is fulfilled by Jesus on a much grander scale.
