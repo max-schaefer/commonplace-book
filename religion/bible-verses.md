@@ -245,6 +245,24 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Then Tobias answered him, “Father, I will do everything that you have commanded me.
 
+- 6:14
+
+    > καὶ νῦν ἐγὼ μόνος εἰμὶ τῷ πατρὶ καὶ φοβοῦμαι μὴ εἰσελθὼν ἀποθάνω καθὼς καὶ οἱ πρότεροι ὅτι δαιμόνιον φιλεῖ αὐτήν ὃ οὐκ ἀδικεῖ οὐδένα πλὴν τῶν προσαγόντων αὐτῇ καὶ νῦν ἐγὼ φοβοῦμαι μὴ ἀποθάνω καὶ κατάξω τὴν ζωὴν τοῦ πατρός μου καὶ τῆς μητρός μου μετ’ ὀδύνης ἐπ’ ἐμοὶ εἰς τὸν τάφον αὐτῶν καὶ υἱὸς ἕτερος οὐχ ὑπάρχει αὐτοῖς ὃς θάψει αὐτούς.
+
+    > Now I am the only son my father has, and I am afraid that if I go in I will die as those before me did, for a demon is in love with her, and he harms no one except those who approach her. So now I fear that I may die and bring the lives of my father and mother to the grave in sorrow on my account. And they have no other son to bury them.”
+
+- 7:18
+
+    > θάρσει τέκνον ὁ κύριος τοῦ οὐρανοῦ καὶ τῆς γῆς δῴη σοι χάριν ἀντὶ τῆς λύπης σου ταύτης θάρσει θύγατερ
+
+    > “Be brave, my child; the Lord of heaven and earth grant you joy[d] in place of this sorrow of yours. Be brave, my daughter.”
+
+- 8:7
+
+    > καὶ νῦν κύριε οὐ διὰ πορνείαν ἐγὼ λαμβάνω τὴν ἀδελφήν μου ταύτην ἀλλ’ ἐπ’ ἀληθείας ἐπίταξον ἐλεῆσαί με καὶ ταύτῃ συγκαταγηρᾶσαι
+
+    > And now, O Lord, I am not taking this sister of mine because of lust, but with sincerity. Grant that I may find mercy and may grow old together with her.
+
 ## Wisdom
 
 - 8:20
