@@ -263,6 +263,18 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > And now, O Lord, I am not taking this sister of mine because of lust, but with sincerity. Grant that I may find mercy and may grow old together with her.
 
+- 9:6
+
+    > καὶ ὤρθρευσαν κοινῶς καὶ ἤλθοσαν εἰς τὸν γάμον καὶ εὐλόγησεν Τωβιας τὴν γυναῖκα αὐτοῦ
+
+    > In the morning they both got up early and came to the wedding feast. And Gabael blessed Tobias and his wife.
+
+- 10:12
+
+    > καὶ εἶπεν τῇ θυγατρὶ αὐτοῦ τίμα τοὺς πενθερούς σου αὐτοὶ νῦν γονεῖς σού εἰσιν ἀκούσαιμί σου ἀκοὴν καλήν καὶ ἐφίλησεν αὐτήν. καὶ Εδνα εἶπεν πρὸς Τωβιαν ἄδελφε ἀγαπητέ ἀποκαταστήσαι σε ὁ κύριος τοῦ οὐρανοῦ καὶ δῴη μοι ἰδεῖν σου παιδία ἐκ Σαρρας τῆς θυγατρός μου ἵνα εὐφρανθῶ ἐνώπιον τοῦ κυρίου καὶ ἰδοὺ παρατίθεμαί σοι τὴν θυγατέρα μου ἐν παρακαταθήκῃ μὴ λυπήσῃς αὐτήν
+
+    > He said also to his daughter, “Honor your father-in-law and your mother-in-law; they are now your parents. Let me hear a good report of you.” And he kissed her. And Edna said to Tobias, “The Lord of heaven bring you back safely, dear brother, and grant me to see your children by my daughter Sarah, that I may rejoice before the Lord. See, I am entrusting my daughter to you; do nothing to grieve her.”
+
 ## Wisdom
 
 - 8:20
@@ -598,6 +610,14 @@ One verse from every chapter of every book of the Catholic Bible.
     > Non quod iam acceperim aut iam perfectus sim, sequor autem si conprehendam, in quo et conprehensus sum a Christo Iesu.
 
     > Not that I have already obtained this or am already perfect; but I press on to make it my own, because Christ Jesus has made me his own.
+
+- 4:4
+
+    > Χαίρετε ἐν κυρίῳ πάντοτε· πάλιν ἐρῶ, χαίρετε.
+
+    > Gaudete in Domino semper: iterum dico gaudete.
+
+    > Rejoice in the Lord always; again I will say, Rejoice.
 
 
 ## 1 Timothy
