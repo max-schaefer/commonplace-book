@@ -275,6 +275,12 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > He said also to his daughter, “Honor your father-in-law and your mother-in-law; they are now your parents. Let me hear a good report of you.” And he kissed her. And Edna said to Tobias, “The Lord of heaven bring you back safely, dear brother, and grant me to see your children by my daughter Sarah, that I may rejoice before the Lord. See, I am entrusting my daughter to you; do nothing to grieve her.”
 
+- 11:9
+
+    > καὶ προσδραμοῦσα Αννα ἐπέπεσεν ἐπὶ τὸν τράχηλον τοῦ υἱοῦ αὐτῆς καὶ εἶπεν αὐτῷ εἶδόν σε παιδίον ἀπὸ τοῦ νῦν ἀποθανοῦμαι καὶ ἔκλαυσαν ἀμφότεροι
+
+    > Then Anna ran to meet them, and embraced her son, and said to him, “I have seen you, my child; now I am ready to die.” And they both wept.
+
 ## Wisdom
 
 - 8:20
@@ -619,6 +625,13 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Rejoice in the Lord always; again I will say, Rejoice.
 
+## Colossians
+
+- 1:16
+
+    > ὅτι ἐν αὐτῷ ἐκτίσθη τὰ πάντα ἐν τοῖς οὐρανοῖς καὶ ἐπὶ τῆς γῆς, τὰ ὁρατὰ καὶ τὰ ἀόρατα, εἴτε θρόνοι εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι· τὰ πάντα δι’ αὐτοῦ καὶ εἰς αὐτὸν ἔκτισται·
+
+    > for in him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or principalities or authorities—all things were created through him and for him.
 
 ## 1 Timothy
 
