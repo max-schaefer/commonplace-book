@@ -281,6 +281,24 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Then Anna ran to meet them, and embraced her son, and said to him, “I have seen you, my child; now I am ready to die.” And they both wept.
 
+- 12:9
+
+    > ἐλεημοσύνη γὰρ ἐκ θανάτου ῥύεται καὶ αὐτὴ ἀποκαθαριεῖ πᾶσαν ἁμαρτίαν οἱ ποιοῦντες ἐλεημοσύνας καὶ δικαιοσύνας πλησθήσονται ζωῆς
+
+    > For almsgiving delivers from death, and it will purge away every sin. Those who perform deeds of charity and of righteousness will have fulness of life
+
+- 13:3
+
+    > ἐξομολογεῖσθε αὐτῷ οἱ υἱοὶ Ισραηλ ἐνώπιον τῶν ἐθνῶν ὅτι αὐτὸς διέσπειρεν ἡμᾶς ἐν αὐτοῖς
+
+    > Acknowledge him before the nations, O sons of Israel; for he has scattered us among them.
+
+- 14:6
+
+    > καὶ πάντα τὰ ἔθνη ἐπιστρέψουσιν ἀληθινῶς φοβεῖσθαι κύριον τὸν θεὸν καὶ κατορύξουσιν τὰ εἴδωλα αὐτῶν καὶ εὐλογήσουσιν πάντα τὰ ἔθνη τὸν κύριον
+
+    > Then all the Gentiles will turn to fear the Lord God in truth, and will bury their idols.
+
 ## Wisdom
 
 - 8:20
@@ -631,7 +649,17 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > ὅτι ἐν αὐτῷ ἐκτίσθη τὰ πάντα ἐν τοῖς οὐρανοῖς καὶ ἐπὶ τῆς γῆς, τὰ ὁρατὰ καὶ τὰ ἀόρατα, εἴτε θρόνοι εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι· τὰ πάντα δι’ αὐτοῦ καὶ εἰς αὐτὸν ἔκτισται·
 
+    > quoniam in ipso condita sunt universa in cælis, et in terra, visibilia, et invisibilia, sive throni, sive dominationes, sive principatus, sive potestates: omnia per ipsum et in ipso creata sunt:
+
     > for in him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or principalities or authorities—all things were created through him and for him.
+
+- 2:14
+
+    > ἐξαλείψας τὸ καθ’ ἡμῶν χειρόγραφον τοῖς δόγμασιν ὃ ἦν ὑπεναντίον ἡμῖν, καὶ αὐτὸ ἦρκεν ἐκ τοῦ μέσου προσηλώσας αὐτὸ τῷ σταυρῷ·
+
+    > delens quod adversus nos erat chirographum decreti, quod erat contrarium nobis, et ipsum tulit de medio, affigens illud cruci:
+
+    > having canceled the bond which stood against us with its legal demands; this he set aside, nailing it to the cross.
 
 ## 1 Timothy
 
