@@ -299,6 +299,14 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Then all the Gentiles will turn to fear the Lord God in truth, and will bury their idols.
 
+## Judith
+
+- 1:16
+
+    > καὶ ἀνέστρεψεν μετ’ αὐτῶν αὐτὸς καὶ πᾶς ὁ σύμμικτος αὐτοῦ πλῆθος ἀνδρῶν πολεμιστῶν πολὺ σφόδρα καὶ ἦν ἐκεῖ ῥᾳθυμῶν καὶ εὐωχούμενος αὐτὸς καὶ ἡ δύναμις αὐτοῦ ἐφ’ ἡμέρας ἑκατὸν εἴκοσι
+
+    > Then he returned with them to Nineveh, he and all his combined forces, a vast body of troops; and there he and his forces rested and feasted for one hundred and twenty days.
+
 ## Wisdom
 
 - 8:20
@@ -365,7 +373,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > ἐγώ εἰμι ὁ ἄρτος ὁ ζῶν ὁ ἐκ τοῦ οὐρανοῦ καταβάς· ἐάν τις φάγῃ ἐκ τούτου τοῦ ἄρτου ζήσει εἰς τὸν αἰῶνα, καὶ ὁ ἄρτος δὲ ὃν ἐγὼ δώσω ἡ σάρξ μού ἐστιν ὑπὲρ τῆς τοῦ κόσμου ζωῆς.
 
-    > Ego sum panis vivus, qui de cælo descendi. Si quis manducaverit ex hoc pane, vivet in æternum; et panis, quem ego dabo, caro mea est pro mundi vita.
+    > Ego sum panis vivus, qui de caelo descendi. Si quis manducaverit ex hoc pane, vivet in aeternum; et panis, quem ego dabo, caro mea est pro mundi vita.
 
     > I am the living bread which came down from heaven; if any one eats of this bread, he will live for ever; and the bread which I shall give for the life of the world is my flesh.
 
@@ -605,7 +613,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > ὅτι οὐκ ἔστιν ἡμῖν ἡ πάλη πρὸς αἷμα καὶ σάρκα ἀλλὰ πρὸς τὰς ἀρχάς, πρὸς τὰς ἐξουσίας, πρὸς τοὺς κοσμοκράτορας τοῦ σκότους τούτου, πρὸς τὰ πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις.
 
-    > quoniam non est nobis colluctatio adversus carnem et sanguinem, sed adversus principes, et potestates, adversus mundi rectores tenebrarum harum, contra spiritualia nequitiæ, in cælestibus.
+    > quoniam non est nobis colluctatio adversus carnem et sanguinem, sed adversus principes, et potestates, adversus mundi rectores tenebrarum harum, contra spiritualia nequitiae, in caelestibus.
 
     > For we are not contending against flesh and blood, but against the principalities, against the powers, against the world rulers of this present darkness, against the spiritual hosts of wickedness in the heavenly places.
 
@@ -649,7 +657,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > ὅτι ἐν αὐτῷ ἐκτίσθη τὰ πάντα ἐν τοῖς οὐρανοῖς καὶ ἐπὶ τῆς γῆς, τὰ ὁρατὰ καὶ τὰ ἀόρατα, εἴτε θρόνοι εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι· τὰ πάντα δι’ αὐτοῦ καὶ εἰς αὐτὸν ἔκτισται·
 
-    > quoniam in ipso condita sunt universa in cælis, et in terra, visibilia, et invisibilia, sive throni, sive dominationes, sive principatus, sive potestates: omnia per ipsum et in ipso creata sunt:
+    > quoniam in ipso condita sunt universa in caelis, et in terra, visibilia, et invisibilia, sive throni, sive dominationes, sive principatus, sive potestates: omnia per ipsum et in ipso creata sunt:
 
     > for in him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or principalities or authorities—all things were created through him and for him.
 
@@ -660,6 +668,40 @@ One verse from every chapter of every book of the Catholic Bible.
     > delens quod adversus nos erat chirographum decreti, quod erat contrarium nobis, et ipsum tulit de medio, affigens illud cruci:
 
     > having canceled the bond which stood against us with its legal demands; this he set aside, nailing it to the cross.
+
+- 3:3
+
+    > ἀπεθάνετε γὰρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ θεῷ.
+
+    > mortui enim estis, et vita vestra est abscondita cum Christo in Deo.
+
+    > For you have died, and your life is hid with Christ in God.
+
+- 4:6
+
+    > ὁ λόγος ὑμῶν πάντοτε ἐν χάριτι, ἅλατι ἠρτυμένος, εἰδέναι πῶς δεῖ ὑμῖν ἑνὶ ἑκάστῳ ἀποκρίνεσθαι.
+
+    > sermo vester semper in gratia, sale conditus, ut sciatis quomodo oporteat vos unicuique respondere.
+
+    > Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer every one.
+
+## 1 Thessalonians
+
+- 1:3
+
+    > μνημονεύοντες ὑμῶν τοῦ ἔργου τῆς πίστεως καὶ τοῦ κόπου τῆς ἀγάπης καὶ τῆς ὑπομονῆς τῆς ἐλπίδος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἔμπροσθεν τοῦ θεοῦ καὶ πατρὸς ἡμῶν,
+
+    > memores operis fidei vestrae, et laboris, et caritatis, et sustinentiae spei Domini nostri Jesu Christi, ante Deum et Patrem nostrum:
+
+    > remembering before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ.
+
+- 2:13
+
+    > Καὶ διὰ τοῦτο καὶ ἡμεῖς εὐχαριστοῦμεν τῷ θεῷ ἀδιαλείπτως, ὅτι παραλαβόντες λόγον ἀκοῆς παρ’ ἡμῶν τοῦ θεοῦ ἐδέξασθε οὐ λόγον ἀνθρώπων ἀλλὰ καθώς ἐστιν ἀληθῶς λόγον θεοῦ, ὃς καὶ ἐνεργεῖται ἐν ὑμῖν τοῖς πιστεύουσιν.
+
+    > Ideo et nos gratias agimus Deo sine intermissione: quoniam cum accepissetis a nobis verbum auditus Dei, accepistis illud, non ut verbum hominum, sed (sicut est vere) verbum Dei, qui operatur in vobis, qui credidistis:
+
+    > And we also thank God constantly for this, that when you received the word of God which you heard from us, you accepted it not as the word of men but as what it really is, the word of God, which is at work in you believers.
 
 ## 1 Timothy
 
