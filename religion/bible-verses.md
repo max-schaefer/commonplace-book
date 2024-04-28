@@ -307,6 +307,42 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Then he returned with them to Nineveh, he and all his combined forces, a vast body of troops; and there he and his forces rested and feasted for one hundred and twenty days.
 
+- 2:3
+
+    > καὶ αὐτοὶ ἔκριναν ὀλεθρεῦσαι πᾶσαν σάρκα οἳ οὐκ ἠκολούθησαν τῷ λόγῳ τοῦ στόματος αὐτοῦ
+
+    > and it was decided that every one who had not obeyed his command should be destroyed.
+
+- 3:8
+
+    > καὶ κατέσκαψεν πάντα τὰ ὅρια αὐτῶν καὶ τὰ ἄλση αὐτῶν ἐξέκοψεν καὶ ἦν δεδομένον αὐτῷ ἐξολεθρεῦσαι πάντας τοὺς θεοὺς τῆς γῆς ὅπως αὐτῷ μόνῳ τῷ Ναβουχοδονοσορ λατρεύσωσι πάντα τὰ ἔθνη καὶ πᾶσαι αἱ γλῶσσαι καὶ αἱ φυλαὶ αὐτῶν ἐπικαλέσωνται αὐτὸν εἰς θεόν
+
+    > And he demolished all their shrines and cut down their sacred groves; for it had been given to him to destroy all the gods of the land, so that all nations should worship Nebuchadnezzar only, and all their tongues and tribes should call upon him as god.
+
+- 4:10
+
+    > αὐτοὶ καὶ αἱ γυναῖκες αὐτῶν καὶ τὰ νήπια αὐτῶν καὶ τὰ κτήνη αὐτῶν καὶ πᾶς πάροικος καὶ μισθωτὸς καὶ ἀργυρώνητος αὐτῶν ἐπέθεντο σάκκους ἐπὶ τὰς ὀσφύας αὐτῶν
+
+    > They and their wives and their children and their cattle and every resident alien and hired laborer and purchased slave—they all girded themselves with sackcloth.
+
+- 5:17
+
+    > καὶ ἕως οὐχ ἥμαρτον ἐνώπιον τοῦ θεοῦ αὐτῶν ἦν μετ’ αὐτῶν τὰ ἀγαθά ὅτι θεὸς μισῶν ἀδικίαν μετ’ αὐτῶν ἐστιν
+
+    > As long as they did not sin against their God they prospered, for the God who hates iniquity is with them.
+
+- 6:19
+
+    > κύριε ὁ θεὸς τοῦ οὐρανοῦ κάτιδε ἐπὶ τὰς ὑπερηφανίας αὐτῶν καὶ ἐλέησον τὴν ταπείνωσιν τοῦ γένους ἡμῶν καὶ ἐπίβλεψον ἐπὶ τὸ πρόσωπον τῶν ἡγιασμένων σοι ἐν τῇ ἡμέρᾳ ταύτῃ
+
+    > O Lord God of heaven, behold their arrogance, and have pity on the humiliation of our people, and look this day upon the faces of those who are consecrated to thee.
+
+- 7:22
+
+    > καὶ ἠθύμησεν τὰ νήπια αὐτῶν καὶ αἱ γυναῖκες καὶ οἱ νεανίσκοι ἐξέλιπον ἀπὸ τῆς δίψης καὶ ἔπιπτον ἐν ταῖς πλατείαις τῆς πόλεως καὶ ἐν ταῖς διόδοις τῶν πυλῶν καὶ οὐκ ἦν κραταίωσις ἔτι ἐν αὐτοῖς
+
+    > Their children lost heart, and the women and young men fainted from thirst and fell down in the streets of the city and in the passages through the gates; there was no strength left in them any longer.
+
 ## Wisdom
 
 - 8:20
@@ -402,6 +438,14 @@ One verse from every chapter of every book of the Catholic Bible.
     > Nunc autem manet fides, spes, caritas, tria haec: maior autem horum est caritas.
 
     > So faith, hope, love abide, these three; but the greatest of these is love.
+
+- 15:14
+
+    > εἰ δὲ Χριστὸς οὐκ ἐγήγερται, κενὸν ἄρα καὶ τὸ κήρυγμα ἡμῶν, κενὴ καὶ ἡ πίστις ὑμῶν·
+
+    > Si autem Christus non resurrexit, inanis est ergo praedicatio nostra, inanis est et fides vestra:
+
+    > If Christ has not been raised, then our preaching is in vain and your faith is in vain.
 
 - 16:22
 
@@ -702,6 +746,22 @@ One verse from every chapter of every book of the Catholic Bible.
     > Ideo et nos gratias agimus Deo sine intermissione: quoniam cum accepissetis a nobis verbum auditus Dei, accepistis illud, non ut verbum hominum, sed (sicut est vere) verbum Dei, qui operatur in vobis, qui credidistis:
 
     > And we also thank God constantly for this, that when you received the word of God which you heard from us, you accepted it not as the word of men but as what it really is, the word of God, which is at work in you believers.
+
+- 3:3
+
+    > τὸ μηδένα σαίνεσθαι ἐν ταῖς θλίψεσιν ταύταις. αὐτοὶ γὰρ οἴδατε ὅτι εἰς τοῦτο κείμεθα·
+
+    > ut nemo moveatur in tribulationibus istis: ipsi enim scitis quod in hoc positi sumus.
+
+    > that no one be moved by these afflictions. You yourselves know that this is to be our lot.
+
+- 4:16
+
+    > ὅτι αὐτὸς ὁ κύριος ἐν κελεύσματι, ἐν φωνῇ ἀρχαγγέλου καὶ ἐν σάλπιγγι θεοῦ, καταβήσεται ἀπ’ οὐρανοῦ καὶ οἱ νεκροὶ ἐν Χριστῷ ἀναστήσονται πρῶτον.
+
+    > Quoniam ipse Dominus in jussu, et in voce archangeli, et in tuba Dei descendet de caelo: et mortui, qui in Christo sunt, resurgent primi.
+
+    > For the Lord himself will descend from heaven with a cry of command, with the archangel’s call, and with the sound of the trumpet of God. And the dead in Christ will rise first.
 
 ## 1 Timothy
 
