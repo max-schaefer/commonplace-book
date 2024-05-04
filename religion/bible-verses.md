@@ -343,6 +343,42 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Their children lost heart, and the women and young men fainted from thirst and fell down in the streets of the city and in the passages through the gates; there was no strength left in them any longer.
 
+- 8:16
+
+    > ὑμεῖς δὲ μὴ ἐνεχυράζετε τὰς βουλὰς κυρίου τοῦ θεοῦ ἡμῶν ὅτι οὐχ ὡς ἄνθρωπος ὁ θεὸς ἀπειληθῆναι οὐδ’ ὡς υἱὸς ἀνθρώπου διαιτηθῆναι
+
+    > Do not try to bind the purposes of the Lord our God; for God is not like man, to be threatened, nor like a human being, to be won over by pleading.
+
+- 9:6
+
+    > καὶ παρέστησαν ἃ ἐβουλεύσω καὶ εἶπαν ἰδοὺ πάρεσμεν πᾶσαι γὰρ αἱ ὁδοί σου ἕτοιμοι καὶ ἡ κρίσις σου ἐν προγνώσει
+
+    > and the things thou didst will presented themselves and said, ‘Lo, we are here’; for all thy ways are prepared in advance, and thy judgment is with foreknowledge.
+
+- 10:8
+
+    > ὁ θεὸς τῶν πατέρων ἡμῶν δῴη σε εἰς χάριν καὶ τελειώσαι τὰ ἐπιτηδεύματά σου εἰς γαυρίαμα υἱῶν Ισραηλ καὶ ὕψωμα Ιερουσαλημ
+
+    > “May the God of our fathers grant you favor and fulfil your plans, that the people of Israel may glory and Jerusalem may be exalted.”
+
+- 11:7
+
+    > ζῇ γὰρ βασιλεὺς Ναβουχοδονοσορ πάσης τῆς γῆς καὶ ζῇ τὸ κράτος αὐτοῦ ὃς ἀπέστειλέν σε εἰς κατόρθωσιν πάσης ψυχῆς ὅτι οὐ μόνον ἄνθρωποι διὰ σὲ δουλεύουσιν αὐτῷ ἀλλὰ καὶ τὰ θηρία τοῦ ἀγροῦ καὶ τὰ κτήνη καὶ τὰ πετεινὰ τοῦ οὐρανοῦ διὰ τῆς ἰσχύος σου ζήσονται ἐπὶ Ναβουχοδονοσορ καὶ πάντα τὸν οἶκον αὐτοῦ
+
+    > Nebuchadnezzar the king of the whole earth lives, and as his power endures, who had sent you to direct every living soul, not only do men serve him because of you, but also the beasts of the field and the cattle and the birds of the air will live by your power under Nebuchadnezzar and all his house.
+
+- 12:18
+
+    > καὶ εἶπεν Ιουδιθ πίομαι δή κύριε ὅτι ἐμεγαλύνθη τὸ ζῆν μου ἐν ἐμοὶ σήμερον παρὰ πάσας τὰς ἡμέρας τῆς γενέσεώς μου
+
+    > Judith said, “I will drink now, my lord, because my life means more to me today than in all the days since I was born.”
+
+- 13:5
+
+    > ὅτι νῦν καιρὸς ἀντιλαβέσθαι τῆς κληρονομίας σου καὶ ποιῆσαι τὸ ἐπιτήδευμά μου εἰς θραῦσμα ἐχθρῶν οἳ ἐπανέστησαν ἡμῖν
+
+    > “For now is the time to help thy inheritance, and to carry out my undertaking for the destruction of the enemies who have risen up against us.”
+
 ## Wisdom
 
 - 8:20
