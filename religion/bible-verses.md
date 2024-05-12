@@ -87,7 +87,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Et dixit Dominus ad Satan: increpet Dominus in te, Satan, et increpet Dominus in te qui elegit Hierusalem. Numquid non iste torris est erutus de igne?
 
-    > And the Lord said to Satan, “The Lord rebuke you, O Satan! The Lord who has chosen Jerusalem rebuke you! Is not this a brand plucked from the fire?”
+    > And the Lord said to Satan, "The Lord rebuke you, O Satan! The Lord who has chosen Jerusalem rebuke you! Is not this a brand plucked from the fire?"
 
 - 4:10
 
@@ -152,7 +152,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Et dixit Dominus ad me: proice illud ad statuarium, decorum pretium, quod adpretiatus sum ab eis; et tuli triginta argenteos et proieci illos in domo Domini ad statuarium.
 
-    > Then the Lord said to me, “Cast it into the treasury”—the lordly price at which I was paid off by them. So I took the thirty shekels of silver and cast them into the treasury in the house of the Lord.
+    > Then the Lord said to me, "Cast it into the treasury"—the lordly price at which I was paid off by them. So I took the thirty shekels of silver and cast them into the treasury in the house of the Lord.
 
 - 12:10
 
@@ -225,7 +225,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > καὶ ἐθεασάμην ὄψα πολλὰ καὶ εἶπα τῷ υἱῷ μου βάδισον καὶ ἄγαγε ὃν ἐὰν εὕρῃς τῶν ἀδελφῶν ἡμῶν ἐνδεῆ ὃς μέμνηται τοῦ κυρίου καὶ ἰδοὺ μενῶ σε
 
-    > Upon seeing the abundance of food I said to my son, “Go and bring whatever poor man of our brethren you may find who is mindful of the Lord, and I will wait for you.”
+    > Upon seeing the abundance of food I said to my son, "Go and bring whatever poor man of our brethren you may find who is mindful of the Lord, and I will wait for you."
 
 - 3:2
 
@@ -243,19 +243,19 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > καὶ ἀποκριθεὶς Τωβιας εἶπεν αὐτῷ πάτερ ποιήσω πάντα ὅσα ἐντέταλσαί μοι
 
-    > Then Tobias answered him, “Father, I will do everything that you have commanded me.
+    > Then Tobias answered him, "Father, I will do everything that you have commanded me.
 
 - 6:14
 
     > καὶ νῦν ἐγὼ μόνος εἰμὶ τῷ πατρὶ καὶ φοβοῦμαι μὴ εἰσελθὼν ἀποθάνω καθὼς καὶ οἱ πρότεροι ὅτι δαιμόνιον φιλεῖ αὐτήν ὃ οὐκ ἀδικεῖ οὐδένα πλὴν τῶν προσαγόντων αὐτῇ καὶ νῦν ἐγὼ φοβοῦμαι μὴ ἀποθάνω καὶ κατάξω τὴν ζωὴν τοῦ πατρός μου καὶ τῆς μητρός μου μετ’ ὀδύνης ἐπ’ ἐμοὶ εἰς τὸν τάφον αὐτῶν καὶ υἱὸς ἕτερος οὐχ ὑπάρχει αὐτοῖς ὃς θάψει αὐτούς.
 
-    > Now I am the only son my father has, and I am afraid that if I go in I will die as those before me did, for a demon is in love with her, and he harms no one except those who approach her. So now I fear that I may die and bring the lives of my father and mother to the grave in sorrow on my account. And they have no other son to bury them.”
+    > Now I am the only son my father has, and I am afraid that if I go in I will die as those before me did, for a demon is in love with her, and he harms no one except those who approach her. So now I fear that I may die and bring the lives of my father and mother to the grave in sorrow on my account. And they have no other son to bury them."
 
 - 7:18
 
     > θάρσει τέκνον ὁ κύριος τοῦ οὐρανοῦ καὶ τῆς γῆς δῴη σοι χάριν ἀντὶ τῆς λύπης σου ταύτης θάρσει θύγατερ
 
-    > “Be brave, my child; the Lord of heaven and earth grant you joy[d] in place of this sorrow of yours. Be brave, my daughter.”
+    > "Be brave, my child; the Lord of heaven and earth grant you joy[d] in place of this sorrow of yours. Be brave, my daughter."
 
 - 8:7
 
@@ -273,13 +273,13 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > καὶ εἶπεν τῇ θυγατρὶ αὐτοῦ τίμα τοὺς πενθερούς σου αὐτοὶ νῦν γονεῖς σού εἰσιν ἀκούσαιμί σου ἀκοὴν καλήν καὶ ἐφίλησεν αὐτήν. καὶ Εδνα εἶπεν πρὸς Τωβιαν ἄδελφε ἀγαπητέ ἀποκαταστήσαι σε ὁ κύριος τοῦ οὐρανοῦ καὶ δῴη μοι ἰδεῖν σου παιδία ἐκ Σαρρας τῆς θυγατρός μου ἵνα εὐφρανθῶ ἐνώπιον τοῦ κυρίου καὶ ἰδοὺ παρατίθεμαί σοι τὴν θυγατέρα μου ἐν παρακαταθήκῃ μὴ λυπήσῃς αὐτήν
 
-    > He said also to his daughter, “Honor your father-in-law and your mother-in-law; they are now your parents. Let me hear a good report of you.” And he kissed her. And Edna said to Tobias, “The Lord of heaven bring you back safely, dear brother, and grant me to see your children by my daughter Sarah, that I may rejoice before the Lord. See, I am entrusting my daughter to you; do nothing to grieve her.”
+    > He said also to his daughter, "Honor your father-in-law and your mother-in-law; they are now your parents. Let me hear a good report of you." And he kissed her. And Edna said to Tobias, "The Lord of heaven bring you back safely, dear brother, and grant me to see your children by my daughter Sarah, that I may rejoice before the Lord. See, I am entrusting my daughter to you; do nothing to grieve her."
 
 - 11:9
 
     > καὶ προσδραμοῦσα Αννα ἐπέπεσεν ἐπὶ τὸν τράχηλον τοῦ υἱοῦ αὐτῆς καὶ εἶπεν αὐτῷ εἶδόν σε παιδίον ἀπὸ τοῦ νῦν ἀποθανοῦμαι καὶ ἔκλαυσαν ἀμφότεροι
 
-    > Then Anna ran to meet them, and embraced her son, and said to him, “I have seen you, my child; now I am ready to die.” And they both wept.
+    > Then Anna ran to meet them, and embraced her son, and said to him, "I have seen you, my child; now I am ready to die." And they both wept.
 
 - 12:9
 
@@ -359,7 +359,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > ὁ θεὸς τῶν πατέρων ἡμῶν δῴη σε εἰς χάριν καὶ τελειώσαι τὰ ἐπιτηδεύματά σου εἰς γαυρίαμα υἱῶν Ισραηλ καὶ ὕψωμα Ιερουσαλημ
 
-    > “May the God of our fathers grant you favor and fulfil your plans, that the people of Israel may glory and Jerusalem may be exalted.”
+    > "May the God of our fathers grant you favor and fulfil your plans, that the people of Israel may glory and Jerusalem may be exalted."
 
 - 11:7
 
@@ -371,15 +371,73 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > καὶ εἶπεν Ιουδιθ πίομαι δή κύριε ὅτι ἐμεγαλύνθη τὸ ζῆν μου ἐν ἐμοὶ σήμερον παρὰ πάσας τὰς ἡμέρας τῆς γενέσεώς μου
 
-    > Judith said, “I will drink now, my lord, because my life means more to me today than in all the days since I was born.”
+    > Judith said, "I will drink now, my lord, because my life means more to me today than in all the days since I was born."
 
 - 13:5
 
     > ὅτι νῦν καιρὸς ἀντιλαβέσθαι τῆς κληρονομίας σου καὶ ποιῆσαι τὸ ἐπιτήδευμά μου εἰς θραῦσμα ἐχθρῶν οἳ ἐπανέστησαν ἡμῖν
 
-    > “For now is the time to help thy inheritance, and to carry out my undertaking for the destruction of the enemies who have risen up against us.”
+    > "For now is the time to help thy inheritance, and to carry out my undertaking for the destruction of the enemies who have risen up against us."
+
+- 14:10
+
+    > ἰδὼν δὲ Αχιωρ πάντα ὅσα ἐποίησεν ὁ θεὸς τοῦ Ισραηλ ἐπίστευσεν τῷ θεῷ σφόδρα καὶ περιετέμετο τὴν σάρκα τῆς ἀκροβυστίας αὐτοῦ καὶ προσετέθη εἰς τὸν οἶκον Ισραηλ ἕως τῆς ἡμέρας ταύτης
+
+    > And when Achior saw all that the God of Israel had done, he believed firmly in God, and was circumcised, and joined the house of Israel, remaining so to this day.
+
+- 15:10
+
+    > ἐποίησας ταῦτα πάντα ἐν χειρί σου ἐποίησας τὰ ἀγαθὰ μετὰ Ισραηλ καὶ εὐδόκησεν ἐπ’ αὐτοῖς ὁ θεός εὐλογημένη γίνου παρὰ τῷ παντοκράτορι κυρίῳ εἰς τὸν αἰῶνα χρόνον καὶ εἶπεν πᾶς ὁ λαός γένοιτο
+
+    > "You have done all this singlehanded; you have done great good to Israel, and God is well pleased with it. May the Almighty Lord bless you for ever!" And all the people said, "So be it!"
+
+- 16:16
+
+    > ὅτι μικρὸν πᾶσα θυσία εἰς ὀσμὴν εὐωδίας καὶ ἐλάχιστον πᾶν στέαρ εἰς ὁλοκαύτωμά σοι ὁ δὲ φοβούμενος τὸν κύριον μέγας διὰ παντός
+
+    > For every sacrifice as a fragrant offering is a small thing, and all fat for burnt offerings to thee is a very little thing, but he who fears the Lord shall be great for ever.
 
 ## Wisdom
+
+- 1:13
+
+    > ὅτι ὁ θεὸς θάνατον οὐκ ἐποίησεν οὐδὲ τέρπεται ἐπ’ ἀπωλείᾳ ζώντων
+
+    > quoniam Deus mortem non fecit, nec laetatur in perditione vivorum.
+
+    > because God did not make death, and he does not delight in the destruction of the living.
+
+- 2:23
+
+    > ὅτι ὁ θεὸς ἔκτισεν τὸν ἄνθρωπον ἐπ’ ἀφθαρσίᾳ καὶ εἰκόνα τῆς ἰδίας ἀϊδιότητος ἐποίησεν αὐτόν
+
+    > quoniam Deus creavit hominem inexterminabilem, et ad imaginem similitudinis suae fecit eum.
+
+    > for God created man for incorruption, and made him in the image of his own eternity
+
+- 3:1
+
+    > δικαίων δὲ ψυχαὶ ἐν χειρὶ θεοῦ καὶ οὐ μὴ ἅψηται αὐτῶν βάσανος
+
+    > Justorum autem animae in manu Dei sunt, et non tanget illos tormentum mortis.
+
+    > But the souls of the righteous are in the hand of God, and no torment will ever touch them.
+
+- 4:8
+
+    > γῆρας γὰρ τίμιον οὐ τὸ πολυχρόνιον οὐδὲ ἀριθμῷ ἐτῶν μεμέτρηται
+
+    > Senectus enim venerabilis est non diuturna, neque annorum numero computata
+
+    > For old age is not honored for length of time, nor measured by number of years
+
+- 5:2
+
+    > ἰδόντες ταραχθήσονται φόβῳ δεινῷ καὶ ἐκστήσονται ἐπὶ τῷ παραδόξῳ τῆς σωτηρίας
+
+    > Videntes turbabuntur timore horribili, et mirabuntur in subitatione insperatae salutis;
+
+    > When they see him, they will be shaken with dreadful fear, and they will be amazed at his unexpected salvation.
 
 - 8:20
 
@@ -397,7 +455,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Cœnantibus autem eis, accepit Jesus panem, et benedixit, ac fregit, deditque discipulis suis, et ait: Accipite, et comedite: hoc est corpus meum.
 
-    > Now as they were eating, Jesus took bread, and blessed, and broke it, and gave it to the disciples and said, “Take, eat; this is my body.”
+    > Now as they were eating, Jesus took bread, and blessed, and broke it, and gave it to the disciples and said, "Take, eat; this is my body."
 
 ## Gospel of John
 
@@ -415,7 +473,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Dicit mater eius ministris: quodcumque dixerit vobis facite.
 
-    > His mother said to the servants, “Do whatever he tells you.”
+    > His mother said to the servants, "Do whatever he tells you."
 
 - 3:16
 
@@ -439,7 +497,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Respondit itaque Iesus et dixit eis: Amen amen dico vobis, non potest Filius a se facere quicquam nisi quod viderit Patrem facientem; quaecumque enim ille fecerit, haec et Filius similiter facit.
 
-    > Jesus said to them, “Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing; for whatever he does, that the Son does likewise.
+    > Jesus said to them, "Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing; for whatever he does, that the Son does likewise.
 
 - 6:51
 
@@ -455,7 +513,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Responderunt ministri: Numquam sic locutus est homo, sicut hic homo.
 
-    > The officers answered, “No man ever spoke like this man!”
+    > The officers answered, "No man ever spoke like this man!"
 
 ## 1 Corinthians
 
@@ -587,7 +645,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > et dixit mihi: sufficit tibi gratia mea, nam virtus in infirmitate perficitur. Libenter igitur gloriabor in infirmitatibus meis, ut inhabitet in me virtus Christi.
 
-    > but he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” I will all the more gladly boast of my weaknesses, that the power of Christ may rest upon me.
+    > but he said to me, "My grace is sufficient for you, for my power is made perfect in weakness." I will all the more gladly boast of my weaknesses, that the power of Christ may rest upon me.
 
 - 13:13 (13:14)
 
@@ -621,7 +679,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Christus nos redemit de maledicto legis factus pro nobis maledictum, quia scriptum est: maledictus omnis qui pendet in ligno.
 
-    > Christ redeemed us from the curse of the law, having become a curse for us—for it is written, “Cursed be every one who hangs on a tree”
+    > Christ redeemed us from the curse of the law, having become a curse for us—for it is written, "Cursed be every one who hangs on a tree"
 
 - 4:4
 
@@ -799,7 +857,39 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > For the Lord himself will descend from heaven with a cry of command, with the archangel’s call, and with the sound of the trumpet of God. And the dead in Christ will rise first.
 
+- 5:
+
+## 2 Thessalonians
+
+- 1:11
+
+    > Εἰς ὃ καὶ προσευχόμεθα πάντοτε περὶ ὑμῶν, ἵνα ὑμᾶς ἀξιώσῃ τῆς κλήσεως ὁ θεὸς ἡμῶν καὶ πληρώσῃ πᾶσαν εὐδοκίαν ἀγαθωσύνης καὶ ἔργον πίστεως ἐν δυνάμει.
+
+    > In quo etiam oramus semper pro vobis: ut dignetur vos vocatione sua Deus noster, et impleat omnem voluntatem bonitatis, et opus fidei in virtute.
+
+    > To this end we always pray for you, that our God may make you worthy of his call, and may fulfil every good resolve and work of faith by his power.
+
+- 2:15
+
+    > Ἄρα οὖν, ἀδελφοί, στήκετε καὶ κρατεῖτε τὰς παραδόσεις ἃς ἐδιδάχθητε εἴτε διὰ λόγου εἴτε δι’ ἐπιστολῆς ἡμῶν.
+
+    > Itaque fratres, state: et tenete traditiones, quas didicistis, sive per sermonem, sive per epistolam nostram.
+
+    > So then, brethren, stand firm and hold to the traditions which you were taught by us, either by word of mouth or by letter.
+
+- 3:3
+
+    > Πιστὸς δέ ἐστιν ὁ κύριος, ὃς στηρίξει ὑμᾶς καὶ φυλάξει ἀπὸ τοῦ πονηροῦ.
+
+    > Fidelis autem Deus est, qui confirmabit vos, et custodiet a malo.
+
+    > But the Lord is faithful; he will strengthen you and guard you from evil.
+
 ## 1 Timothy
+
+- 1:9
+
+- 2:5
 
 - 3:15
 
@@ -808,6 +898,8 @@ One verse from every chapter of every book of the Catholic Bible.
     > Si autem tardavero, ut scias quomodo oporteat te in domo Dei conversari, quae est ecclesia Dei vivi, columna et firmamentum veritatis.
 
     > if I am delayed, you may know how one ought to behave in the household of God, which is the church of the living God, the pillar and bulwark of the truth.
+
+- 4:4
 
 ## 2 Timothy
 
