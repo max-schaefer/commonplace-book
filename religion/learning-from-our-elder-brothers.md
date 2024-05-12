@@ -98,6 +98,10 @@ In the former case, the Canaanite cities first have to be offered peace. Only if
 
 The opinion of Rashi is what I have more generally heard in Christian interpretation. To a modern mind Ramban's interpretation is undeniably more palatable, but I wonder whether it is not just the easy way out.
 
+## Parashah Ki Teitzei (Deuteronomy 21:10-25:19)
+
+[The Parashah Podcast](https://open.spotify.com/episode/0JgpIj1cBT9tkDaesutjyD?si=Fhld6Z9cSF-10ALD2dz4XQ) discusses a curious Gemara on the Mitzvah of sending away the mother bird before taking her eggs (Deuteronomy 22:6-7): [Berakhot 33b.16](https://www.sefaria.org/Berakhot.33b.16?lang=bi) says that anyone who prays that God should have mercy on him like on the mother bird should be silenced. Some suggest that this is because the prayer assumes that the reason for the mitzvah is mercy on the mother bird, but this is presumptuous: we cannot know the reasons for the mitzvot, or whether they even have reasons at all, so this prayer is an undue rationalisation and therefore dangerous.
+
 ## 2 Kings
 
 ### Chapter 2
