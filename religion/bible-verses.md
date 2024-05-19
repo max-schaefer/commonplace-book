@@ -439,13 +439,25 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > When they see him, they will be shaken with dreadful fear, and they will be amazed at his unexpected salvation.
 
-- 8:20
+- 6:8
 
-    > μᾶλλον δὲ ἀγαθὸς ὢν ἦλθον εἰς σῶμα ἀμίαντον
+    > τοῖς δὲ κραταιοῖς ἰσχυρὰ ἐφίσταται ἔρευνα
 
-    > et cum essem magis bonus veni ad corpus incoinquinatum
+- 7:25
 
-    > or rather, being good, I entered an undefiled body
+    > ἀτμὶς γάρ ἐστιν τῆς τοῦ θεοῦ δυνάμεως καὶ ἀπόρροια τῆς τοῦ παντοκράτορος δόξης εἰλικρινής διὰ τοῦτο οὐδὲν μεμιαμμένον εἰς αὐτὴν παρεμπίπτει
+
+    > For she is a breath of the power of God, and a pure emanation of the glory of the Almighty; therefore nothing defiled gains entrance into her.
+
+- 8:16
+
+    > εἰσελθὼν εἰς τὸν οἶκόν μου προσαναπαύσομαι αὐτῇ οὐ γὰρ ἔχει πικρίαν ἡ συναναστροφὴ αὐτῆς οὐδὲ ὀδύνην ἡ συμβίωσις αὐτῆς ἀλλὰ εὐφροσύνην καὶ χαράν
+
+    > When I enter my house, I shall find rest with her, for companionship with her has no bitterness, and life with her has no pain, but gladness and joy.
+
+- 9:16
+
+    > We can hardly guess at what is on earth, and what is at hand we find with labor; but who has traced out what is in the heavens?
 
 ## Gospel of Matthew
 
