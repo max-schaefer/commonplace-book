@@ -207,6 +207,8 @@ yehoshua | יהושע | Joshua
 yehudah | יהודה | Judah
 yeshayahu | ישעיהו | Isaiah
 yeshivah | ישיבה | academy
+yetzer hara | יצר הרע | evil inclination
+yetzer tov | יצר טוב | good inclination
 yetzi'at mitzrayim | יציאת מצרים | exodus from Egypt
 yirmiyahu | ירמיהו | Jeremiah
 yitzkhak (avinu) | יצחק (אבינו) | Isaac (our father)

@@ -443,9 +443,15 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > τοῖς δὲ κραταιοῖς ἰσχυρὰ ἐφίσταται ἔρευνα
 
+    > Fortioribus autem fortior instat cruciatio.
+
+    > But a strict inquiry is in store for the mighty.
+
 - 7:25
 
     > ἀτμὶς γάρ ἐστιν τῆς τοῦ θεοῦ δυνάμεως καὶ ἀπόρροια τῆς τοῦ παντοκράτορος δόξης εἰλικρινής διὰ τοῦτο οὐδὲν μεμιαμμένον εἰς αὐτὴν παρεμπίπτει
+
+    > Vapor est enim virtutis Dei, et emanatio quaedam est claritatis omnipotentis Dei sincera, et ideo nihil inquinatum in eam incurrit:
 
     > For she is a breath of the power of God, and a pure emanation of the glory of the Almighty; therefore nothing defiled gains entrance into her.
 
@@ -453,11 +459,49 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > εἰσελθὼν εἰς τὸν οἶκόν μου προσαναπαύσομαι αὐτῇ οὐ γὰρ ἔχει πικρίαν ἡ συναναστροφὴ αὐτῆς οὐδὲ ὀδύνην ἡ συμβίωσις αὐτῆς ἀλλὰ εὐφροσύνην καὶ χαράν
 
+    > Intrans in domum meam, conquiescam cum illa: non enim habet amaritudinem conversatio illius, nec taedium convictus illius, sed laetitiam et gaudium.
+
     > When I enter my house, I shall find rest with her, for companionship with her has no bitterness, and life with her has no pain, but gladness and joy.
 
 - 9:16
 
+    > καὶ μόλις εἰκάζομεν τὰ ἐπὶ γῆς καὶ τὰ ἐν χερσὶν εὑρίσκομεν μετὰ πόνου τὰ δὲ ἐν οὐρανοῖς τίς ἐξιχνίασεν
+
+    > Et difficile aestimamus quae in terra sunt, et quae in prospectu sunt invenimus cum labore: quae autem in caelis sunt, quis investigabit?
+
     > We can hardly guess at what is on earth, and what is at hand we find with labor; but who has traced out what is in the heavens?
+
+- 14:7
+
+    > εὐλόγηται γὰρ ξύλον δι’ οὗ γίνεται δικαιοσύνη
+
+    > Benedictum est enim lignum per quod fit justitia;
+
+    > For blessed is the wood by which righteousness comes.
+
+- 17:12
+
+    > οὐθὲν γάρ ἐστιν φόβος εἰ μὴ προδοσία τῶν ἀπὸ λογισμοῦ βοηθημάτων
+
+    > nihil enim est timor nisi proditio cogitationis auxiliorum.
+
+    > For fear is nothing but surrender of the helps that come from reason;
+
+- 18:1
+
+    > τοῖς δὲ ὁσίοις σου μέγιστον ἦν φῶς ὧν φωνὴν μὲν ἀκούοντες μορφὴν δὲ οὐχ ὁρῶντες ὅτι μὲν οὐ κἀκεῖνοι ἐπεπόνθεισαν ἐμακάριζον
+
+    > Sanctis autem tuis maxima erat lux, et horum quidem vocem audiebant, sed figuram non videbant. Et quia non et ipsi eadem passi erant, magnificabant te;
+
+    > But for thy holy ones there was very great light. Their enemies heard their voices but did not see their forms,
+
+- 19:4
+
+    > εἷλκεν γὰρ αὐτοὺς ἡ ἀξία ἐπὶ τοῦτο τὸ πέρας ἀνάγκη καὶ τῶν συμβεβηκότων ἀμνηστίαν ἐνέβαλεν ἵνα τὴν λείπουσαν ταῖς βασάνοις προσαναπληρώσωσιν κόλασιν
+
+    > Ducebat enim illos ad hunc finem digna necessitas; et horum quae acciderant commemorationem amittebant, ut quae deerant tormentis repleret punitio:
+
+    > For the fate they deserved drew them on to this end, and made them forget what had happened, in order that they might fill up the punishment which their torments still lacked,
 
 ## Gospel of Matthew
 
@@ -465,7 +509,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Ἐσθιόντων δὲ αὐτῶν λαβὼν ὁ Ἰησοῦς ἄρτον καὶ εὐλογήσας ἔκλασεν καὶ δοὺς τοῖς μαθηταῖς εἶπεν· λάβετε φάγετε, τοῦτό ἐστιν τὸ σῶμά μου.
 
-    > Cœnantibus autem eis, accepit Jesus panem, et benedixit, ac fregit, deditque discipulis suis, et ait: Accipite, et comedite: hoc est corpus meum.
+    > Coenantibus autem eis, accepit Jesus panem, et benedixit, ac fregit, deditque discipulis suis, et ait: Accipite, et comedite: hoc est corpus meum.
 
     > Now as they were eating, Jesus took bread, and blessed, and broke it, and gave it to the disciples and said, "Take, eat; this is my body."
 
@@ -915,6 +959,12 @@ One verse from every chapter of every book of the Catholic Bible.
 
 ## 2 Timothy
 
+- 1:9
+
+- 2:14
+
+- 3:16
+
 - 4:7
 
     > τὸν καλὸν ἀγῶνα ἠγώνισμαι, τὸν δρόμον τετέλεκα, τὴν πίστιν τετήρηκα·
@@ -922,6 +972,10 @@ One verse from every chapter of every book of the Catholic Bible.
     > Bonum certamen certavi, cursum consummavi, fidem servavi.
 
     > I have fought the good fight, I have finished the race, I have kept the faith.
+
+## Titus
+
+- 1:15
 
 ## 1 John
 
