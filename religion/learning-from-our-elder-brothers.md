@@ -22,6 +22,8 @@ All three podcasts are squarely aimed at a Jewish audience and make frequent use
 
 On the whole I cannot recommend listening to this episode, however: Livi, like many others before him, takes it upon himself to critique the theory of evolution and, again like many others before him, mostly ends up revealing his own ignorance of even high-school level science. (Did you know that plants are not alive, for example?)
 
+[Another episode](https://open.spotify.com/episode/1ftahn1vQI4cBFj9erjiZp?si=f4uVcrpxQ2yrfQgiC711Qw) of the Parashah Podcast makes a fascinating observation on the question God asks Adam after the Fall: "Where are you?" The Hebrew is "אַיֶּכָּה" (ayekah), and the same wording is used in two other places in the Torah: God asks Cain "Where is Abel your brother?" (Genesis 4:9), and Isaac asks his father "Where is the lamb for the burnt offering?" (Genesis 22:7). In all three cases, the question is not so much about the location of something but about the reason for its absence, asking for an explanation rather than information.
+
 ## Exodus
 
 ### Parashah Terumah (Exodus 25:1-27:19)
