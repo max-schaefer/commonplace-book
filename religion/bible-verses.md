@@ -59,8 +59,7 @@ One verse from every chapter of every book of the Catholic Bible.
     > Ficus enim non florebit et non erit germen in vineis, mentietur opus olivae et arva non adferent cibum, abscidetur de ovili pecus et non erit armentum in praesepibus,
     > ego autem in Domino gaudebo, exultabo in Deo Iesu meo.
 
-    > Though the fig tree do not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold
-    and there be no herd in the stalls,
+    > Though the fig tree do not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold and there be no herd in the stalls,
     > yet I will rejoice in the Lord, I will joy in the God of my salvation.
 
 ## Zechariah
@@ -73,7 +72,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Therefore say to them, Thus says the Lord of hosts: Return to me, says the Lord of hosts, and I will return to you, says the Lord of hosts.
 
-- 2:5 
+- 2:5
 
     > וַאֲנִ֥י אֱהְיֶ-לָּהּ נְאֻם־יְהוָ֖ה חוֹמַת אֵ֔שׁ סָבִ֖יב וּלְכָבֹ֥וד אֶהְוֶֽה׃
 
@@ -168,8 +167,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > framea suscitare super pastorem meum et super virum coherentem mihi, dicit Dominus exercituum: percute pastorem et dispergantur oves et convertam manum meam ad parvulos.
 
-    > Awake, O sword, against my shepherd, against the man who stands next to me, says the Lord of hosts. Strike the shepherd, that the sheep may be scattered;
-    I will turn my hand against the little ones.
+    > Awake, O sword, against my shepherd, against the man who stands next to me, says the Lord of hosts. Strike the shepherd, that the sheep may be scattered; I will turn my hand against the little ones.
 
 - 14:9
 
@@ -471,6 +469,38 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > We can hardly guess at what is on earth, and what is at hand we find with labor; but who has traced out what is in the heavens?
 
+- 10:9
+
+    > σοφία δὲ τοὺς θεραπεύοντας αὐτὴν ἐκ πόνων ἐρρύσατο
+
+    > Sapientia autem hos qui se observant a doloribus liberavit.
+
+    > Wisdom rescued from troubles those who served her.
+
+- 11:24
+
+    > ἀγαπᾷς γὰρ τὰ ὄντα πάντα καὶ οὐδὲν βδελύσσῃ ὧν ἐποίησας οὐδὲ γὰρ ἂν μισῶν τι κατεσκεύασας
+
+    > Diligis enim omnia quae sunt, et nihil odisti eorum quae fecisti; nec enim odiens aliquid constituisti aut fecisti.
+
+    > For thou lovest all things that exist, and hast loathing for none of the things which thou hast made, for thou wouldst not have made anything if thou hadst hated it.
+
+- 12:16
+
+    > ἡ γὰρ ἰσχύς σου δικαιοσύνης ἀρχή καὶ τὸ πάντων σε δεσπόζειν πάντων φείδεσθαί σε ποιεῖ
+
+    > Virtus enim tua justitiae initium est, et ob hoc quod Dominus es, omnibus te parcere facis.
+
+    > For thy strength is the source of righteousness, and thy sovereignty over all causes thee to spare all.
+
+- 13:5
+
+    > ἐκ γὰρ μεγέθους καὶ καλλονῆς κτισμάτων ἀναλόγως ὁ γενεσιουργὸς αὐτῶν θεωρεῖται
+
+    > a magnitudine enim speciei et creaturae cognoscibiliter poterit creator horum videri.
+
+    > For from the greatness and beauty of created things comes a corresponding perception of their Creator.
+
 - 14:7
 
     > εὐλόγηται γὰρ ξύλον δι’ οὗ γίνεται δικαιοσύνη
@@ -478,6 +508,22 @@ One verse from every chapter of every book of the Catholic Bible.
     > Benedictum est enim lignum per quod fit justitia;
 
     > For blessed is the wood by which righteousness comes.
+
+- 15:1
+
+    > σὺ δέ ὁ θεὸς ἡμῶν χρηστὸς καὶ ἀληθής μακρόθυμος καὶ ἐλέει διοικῶν τὰ πάντα
+
+    > Tu autem, Deus noster, suavis et verus es, patiens, et in misericordia disponens omnia.
+
+    > But thou, our God, art kind and true, patient, and ruling all things in mercy.
+
+- 16:20
+
+    > ἀνθ’ ὧν ἀγγέλων τροφὴν ἐψώμισας τὸν λαόν σου καὶ ἕτοιμον ἄρτον ἀπ’ οὐρανοῦ παρέσχες αὐτοῖς ἀκοπιάτως πᾶσαν ἡδονὴν ἰσχύοντα καὶ πρὸς πᾶσαν ἁρμόνιον γεῦσιν
+
+    > Pro quibus angelorum esca nutrivisti populum tuum, et paratum panem de caelo praestitisti illis sine labore, omne delectamentum in se habentem, et omnis saporis suavitatem.
+
+    > Instead of these things thou didst give thy people food of angels, and without their toil thou didst supply them from heaven with bread ready to eat, providing every pleasure and suited to every taste.
 
 - 17:12
 
@@ -502,6 +548,48 @@ One verse from every chapter of every book of the Catholic Bible.
     > Ducebat enim illos ad hunc finem digna necessitas; et horum quae acciderant commemorationem amittebant, ut quae deerant tormentis repleret punitio:
 
     > For the fate they deserved drew them on to this end, and made them forget what had happened, in order that they might fill up the punishment which their torments still lacked,
+
+## Sirach
+
+- Prologue:22
+
+    > οὐ γὰρ ἰσοδυναμεῖ αὐτὰ ἐν ἑαυτοῖς Εβραϊστὶ λεγόμενα καὶ ὅταν μεταχθῇ εἰς ἑτέραν γλῶσσαν
+
+    > Nam deficiunt verba hebraica, quando fuerint translata ad alteram linguam.
+
+    > For what was originally expressed in Hebrew does not have exactly the same sense when translated into another language.
+
+- 1:20
+
+    > ῥίζα σοφίας φοβεῖσθαι τὸν κύριον καὶ οἱ κλάδοι αὐτῆς μακροημέρευσις
+
+    > Radix sapientiae est timere Dominum, et rami illius longaevi.
+
+    > To fear the Lord is the root of wisdom, and her branches are long life.
+
+- 2:1
+
+    > τέκνον εἰ προσέρχῃ δουλεύειν κυρίῳ ἑτοίμασον τὴν ψυχήν σου εἰς πειρασμόν
+
+    > Fili, accedens ad servitutem Dei sta in justitia et timore, et praepara animam tuam ad tentationem.
+
+    > My son, if you come forward to serve the Lord, prepare yourself for temptation.
+
+- 3:30
+
+    > πῦρ φλογιζόμενον ἀποσβέσει ὕδωρ καὶ ἐλεημοσύνη ἐξιλάσεται ἁμαρτίας
+
+    > Ignem ardentem exstinguit aqua, et eleemosyna resistit peccatis:
+
+    > Water extinguishes a blazing fire: so almsgiving atones for sin.
+
+- 4:31
+
+    > μὴ ἔστω ἡ χείρ σου ἐκτεταμένη εἰς τὸ λαβεῖν καὶ ἐν τῷ ἀποδιδόναι συνεσταλμένη
+
+    > Non sit porrecta manus tua ad accipiendum, et ad dandum collecta.
+
+    > Let not your hand be extended to receive, but withdrawn when it is time to repay.
 
 ## Gospel of Matthew
 
@@ -661,7 +749,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Quae enim secundum Deum tristitia est paenitentiam in salutem stabilem operatur, saeculi autem tristitia mortem operatur.
 
-    > For godly grief produces a repentance that leads to salvation and brings no regret, but worldly grief produces death. 
+    > For godly grief produces a repentance that leads to salvation and brings no regret, but worldly grief produces death.
 
 - 8:9
 
@@ -913,7 +1001,13 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > For the Lord himself will descend from heaven with a cry of command, with the archangel’s call, and with the sound of the trumpet of God. And the dead in Christ will rise first.
 
-- 5:
+- 5:2
+
+    > αὐτοὶ γὰρ ἀκριβῶς οἴδατε ὅτι ἡμέρα κυρίου ὡς κλέπτης ἐν νυκτὶ οὕτως ἔρχεται.
+
+    > Ipsi enim diligenter scitis quia dies Domini, sicut fur in nocte, ita veniet:
+
+    > For you yourselves know well that the day of the Lord will come like a thief in the night.
 
 ## 2 Thessalonians
 
@@ -945,7 +1039,19 @@ One verse from every chapter of every book of the Catholic Bible.
 
 - 1:9
 
+    > εἰδὼς τοῦτο, ὅτι δικαίῳ νόμος οὐ κεῖται, ἀνόμοις δὲ καὶ ἀνυποτάκτοις, ἀσεβέσιν καὶ ἁμαρτωλοῖς, ἀνοσίοις καὶ βεβήλοις, πατρολῴαις καὶ μητρολῴαις, ἀνδροφόνοις
+
+    > sciens hoc quia lex justo non est posita, sed injustis, et non subditis, impiis, et peccatoribus, sceleratis, et contaminatis, parricidis, et matricidis, homicidis,
+
+    > understanding this, that the law is not laid down for the just but for the lawless and disobedient, for the ungodly and sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,
+
 - 2:5
+
+    > Εἷς γὰρ θεός, εἷς καὶ μεσίτης θεοῦ καὶ ἀνθρώπων, ἄνθρωπος Χριστὸς Ἰησοῦς,
+
+    > Unus enim Deus, unus et mediator Dei et hominum homo Christus Jesus:
+
+    > For there is one God, and there is one mediator between God and men, the man Christ Jesus,
 
 - 3:15
 
@@ -957,13 +1063,53 @@ One verse from every chapter of every book of the Catholic Bible.
 
 - 4:4
 
+    > ὅτι πᾶν κτίσμα θεοῦ καλὸν καὶ οὐδὲν ἀπόβλητον μετὰ εὐχαριστίας λαμβανόμενον·
+
+    > Quia omnis creatura Dei bona est, et nihil rejiciendum quod cum gratiarum actione percipitur:
+
+    > For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving;
+
+- 5:22
+
+    > χεῖρας ταχέως μηδενὶ ἐπιτίθει μηδὲ κοινώνει ἁμαρτίαις ἀλλοτρίαις· σεαυτὸν ἁγνὸν τήρει.
+
+    > Manus cito nemini imposueris, neque communicaveris peccatis alienis. Teipsum castum custodi.
+
+    > Do not be hasty in the laying on of hands, nor participate in another man’s sins; keep yourself pure.
+
+- 6:1
+
+    > Ὅσοι εἰσὶν ὑπὸ ζυγὸν δοῦλοι, τοὺς ἰδίους δεσπότας πάσης τιμῆς ἀξίους ἡγείσθωσαν, ἵνα μὴ τὸ ὄνομα τοῦ θεοῦ καὶ ἡ διδασκαλία βλασφημῆται.
+
+    > Quicumque sunt sub jugo servi, dominos suos omni honore dignos arbitrentur, ne nomen Domini et doctrina blasphemetur.
+
+    > Let all who are under the yoke of slavery regard their masters as worthy of all honor, so that the name of God and the teaching may not be defamed.
+
 ## 2 Timothy
 
 - 1:9
 
+    > τοῦ σώσαντος ἡμᾶς καὶ καλέσαντος κλήσει ἁγίᾳ, οὐ κατὰ τὰ ἔργα ἡμῶν ἀλλὰ κατὰ ἰδίαν πρόθεσιν καὶ χάριν, τὴν δοθεῖσαν ἡμῖν ἐν Χριστῷ Ἰησοῦ πρὸ χρόνων αἰωνίων,
+
+    > qui nos liberavit, et vocavit vocatione sua sancta, non secundum opera nostra, sed secundum propositum suum, et gratiam, quae data est nobis in Christo Jesu ante tempora saecularia.
+
+    > who saved us and called us with a holy calling, not in virtue of our works but in virtue of his own purpose and the grace which he gave us in Christ Jesus ages ago,
+
 - 2:14
 
+    > Ταῦτα ὑπομίμνῃσκε διαμαρτυρόμενος ἐνώπιον τοῦ θεοῦ μὴ λογομαχεῖν, ἐπ’ οὐδὲν χρήσιμον, ἐπὶ καταστροφῇ τῶν ἀκουόντων.
+
+    > Haec commone, testificans coram Domino. Noli contendere verbis: ad nihil enim utile est, nisi ad subversionem audientium.
+
+    > Remind them of this, and charge them before the Lord[a] to avoid disputing about words, which does no good, but only ruins the hearers.
+
 - 3:16
+
+    > πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ,
+
+    > Omnis Scriptura divinitus inspirata utilis est ad docendum, ad arguendum, ad corripiendum, et erudiendum in justitia:
+
+    > All scripture is inspired by God and profitable for teaching, for reproof, for correction, and for training in righteousness,
 
 - 4:7
 
@@ -976,6 +1122,28 @@ One verse from every chapter of every book of the Catholic Bible.
 ## Titus
 
 - 1:15
+
+    > πάντα καθαρὰ τοῖς καθαροῖς· τοῖς δὲ μεμιαμμένοις καὶ ἀπίστοις οὐδὲν καθαρόν, ἀλλὰ μεμίανται αὐτῶν καὶ ὁ νοῦς καὶ ἡ συνείδησις.
+
+    > Omnia munda mundis: coinquinatis autem et infidelibus, nihil est mundum, sed inquinatae sunt eorum et mens et conscientia.
+
+    > To the pure all things are pure, but to the corrupt and unbelieving nothing is pure; their very minds and consciences are corrupted.
+
+- 2:13
+
+    > προσδεχόμενοι τὴν μακαρίαν ἐλπίδα καὶ ἐπιφάνειαν τῆς δόξης τοῦ μεγάλου θεοῦ καὶ σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ,
+
+    > exspectantes beatam spem, et adventum gloriae magni Dei, et Salvatoris nostri Jesu Christi:
+
+    > awaiting our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ,
+
+- 3:5
+
+    > οὐκ ἐξ ἔργων τῶν ἐν δικαιοσύνῃ ἃ ἐποιήσαμεν ἡμεῖς ἀλλὰ κατὰ τὸ αὐτοῦ ἔλεος ἔσωσεν ἡμᾶς διὰ λουτροῦ παλιγγενεσίας καὶ ἀνακαινώσεως πνεύματος ἁγίου,
+
+    > non ex operibus justitiae, quae fecimus nos, sed secundum suam misericordiam salvos nos fecit per lavacrum regenerationis et renovationis Spiritus Sancti,
+
+    > he saved us, not because of deeds done by us in righteousness, but in virtue of his own mercy, by the washing of regeneration and renewal in the Holy Spirit,
 
 ## 1 John
 
