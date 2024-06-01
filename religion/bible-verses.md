@@ -591,6 +591,10 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Let not your hand be extended to receive, but withdrawn when it is time to repay.
 
+- 5:12
+
+- 6:6
+
 ## Gospel of Matthew
 
 - 26:26
