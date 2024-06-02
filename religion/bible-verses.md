@@ -593,7 +593,27 @@ One verse from every chapter of every book of the Catholic Bible.
 
 - 5:12
 
+    > εἰ ἔστιν σοι σύνεσις ἀποκρίθητι τῷ πλησίον εἰ δὲ μή ἡ χείρ σου ἔστω ἐπὶ τῷ στόματί σου
+
+    > Si est tibi intellectus, responde proximo: sin autem, sit manus tua super os tuum.
+
+    > If you have understanding, answer your neighbor; but if not, put your hand on your mouth.
+
 - 6:6
+
+    > οἱ εἰρηνεύοντές σοι ἔστωσαν πολλοί οἱ δὲ σύμβουλοί σου εἷς ἀπὸ χιλίων
+
+    > Multi pacifici sint tibi: et consiliarius sit tibi unus de mille.
+
+    > Let those that are at peace with you be many, but let your advisers be one in a thousand.
+
+- 7:14
+
+    > μὴ ἀδολέσχει ἐν πλήθει πρεσβυτέρων καὶ μὴ δευτερώσῃς λόγον ἐν προσευχῇ σου
+
+    > Noli verbosus esse in multitudine presbyterorum, et non iteres verbum in oratione tua.
+
+    > Do not prattle in the assembly of the elders, nor repeat yourself in your prayer.
 
 ## Gospel of Matthew
 
