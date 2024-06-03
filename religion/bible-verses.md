@@ -615,6 +615,14 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Do not prattle in the assembly of the elders, nor repeat yourself in your prayer.
 
+- 8:5
+
+    > μὴ ὀνείδιζε ἄνθρωπον ἀποστρέφοντα ἀπὸ ἁμαρτίας μνήσθητι ὅτι πάντες ἐσμὲν ἐν ἐπιτίμοις
+
+    > Ne despicias hominem avertentem se a peccato, neque improperes ei: memento quoniam omnes in correptione sumus.
+
+    > Do not reproach a man who is turning away from sin; remember that we all deserve punishment.
+
 ## Gospel of Matthew
 
 - 26:26
