@@ -623,6 +623,14 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Do not reproach a man who is turning away from sin; remember that we all deserve punishment.
 
+- 9:9
+
+- 10:6
+
+- 11:1
+
+- 12:6
+
 ## Gospel of Matthew
 
 - 26:26
