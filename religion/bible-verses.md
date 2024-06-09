@@ -625,11 +625,51 @@ One verse from every chapter of every book of the Catholic Bible.
 
 - 9:9
 
+    > μετὰ ὑπάνδρου γυναικὸς μὴ κάθου τὸ σύνολον καὶ μὴ συμβολοκοπήσῃς μετ’ αὐτῆς ἐν οἴνῳ μήποτε ἐκκλίνῃ ἡ ψυχή σου ἐπ’ αὐτὴν καὶ τῷ πνεύματί σου ὀλίσθῃς εἰς ἀπώλειαν
+
+    > Cum aliena muliere ne sedeas omnino, nec accumbas cum ea super cubitum: et non alterceris cum illa in vino, ne forte declinet cor tuum in illam, et sanguine tuo labaris in perditionem.
+
+    > Never dine with another man’s wife, nor revel with her at wine; lest your heart turn aside to her, and in blood you be plunged into destruction.
+
 - 10:6
+
+    > ἐπὶ παντὶ ἀδικήματι μὴ μηνιάσῃς τῷ πλησίον καὶ μὴ πρᾶσσε μηδὲν ἐν ἔργοις ὕβρεως
+
+    > Omnis injuriæ proximi ne memineris, et nihil agas in operibus injuriæ.
+
+    > Do not be angry with your neighbor for any injury, and do not attempt anything by acts of insolence.
 
 - 11:1
 
+    > σοφία ταπεινοῦ ἀνυψώσει κεφαλὴν αὐτοῦ καὶ ἐν μέσῳ μεγιστάνων καθίσει αὐτόν
+
+    > Sapientia humiliati exaltabit caput illius, et in medio magnatorum consedere illum faciet.
+
+    > The wisdom of a humble man will lift up his head, and will seat him among the great.
+
 - 12:6
+
+    > ὅτι καὶ ὁ ὕψιστος ἐμίσησεν ἁμαρτωλοὺς καὶ τοῖς ἀσεβέσιν ἀποδώσει ἐκδίκησιν
+
+    > quoniam et Altissimus odio habet peccatores, et impiis reddet vindictam.
+
+    > For the Most High also hates sinners and will inflict punishment on the ungodly.
+
+- 13:15
+
+    > πᾶν ζῷον ἀγαπᾷ τὸ ὅμοιον αὐτῷ καὶ πᾶς ἄνθρωπος τὸν πλησίον αὐτοῦ
+
+    > Omne animal diligit simile sibi, sic et omnis homo proximum sibi.
+
+    > Every creature loves its like, and every person his neighbor;
+
+- 14:14
+
+    > μὴ ἀφυστερήσῃς ἀπὸ ἀγαθῆς ἡμέρας καὶ μερὶς ἐπιθυμίας ἀγαθῆς μή σε παρελθάτω
+
+    > Non defrauderis a die bono, et particula boni doni non te prætereat.
+
+    > Do not deprive yourself of a happy day; let not your share of desired good pass by you.
 
 ## Gospel of Matthew
 
