@@ -671,6 +671,8 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > Do not deprive yourself of a happy day; let not your share of desired good pass by you.
 
+- 15:11
+
 ## Gospel of Matthew
 
 - 26:26
