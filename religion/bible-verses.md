@@ -1227,6 +1227,10 @@ One verse from every chapter of every book of the Catholic Bible.
 
     > he saved us, not because of deeds done by us in righteousness, but in virtue of his own mercy, by the washing of regeneration and renewal in the Holy Spirit,
 
+## Hebrews
+
+- 1:3
+
 ## 1 John
 
 - 1:5
