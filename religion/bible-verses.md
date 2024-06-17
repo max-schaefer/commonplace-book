@@ -679,6 +679,8 @@ One verse from every chapter of every book of the Catholic Bible.
 
 - 18:13
 
+- 22:27
+
 ## Gospel of Matthew
 
 - 26:26
