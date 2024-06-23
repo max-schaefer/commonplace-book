@@ -634,7 +634,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > ἐπὶ παντὶ ἀδικήματι μὴ μηνιάσῃς τῷ πλησίον καὶ μὴ πρᾶσσε μηδὲν ἐν ἔργοις ὕβρεως
 
-  > Omnis injuriæ proximi ne memineris, et nihil agas in operibus injuriæ.
+  > Omnis injuriae proximi ne memineris, et nihil agas in operibus injuriae.
 
   > Do not be angry with your neighbor for any injury, and do not attempt anything by acts of insolence.
 
@@ -666,25 +666,121 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > μὴ ἀφυστερήσῃς ἀπὸ ἀγαθῆς ἡμέρας καὶ μερὶς ἐπιθυμίας ἀγαθῆς μή σε παρελθάτω
 
-  > Non defrauderis a die bono, et particula boni doni non te prætereat.
+  > Non defrauderis a die bono, et particula boni doni non te praetereat.
 
   > Do not deprive yourself of a happy day; let not your share of desired good pass by you.
 
 - 15:11
 
+  > μὴ εἴπῃς ὅτι διὰ κύριον ἀπέστην ἃ γὰρ ἐμίσησεν οὐ ποιήσει
+
+  > Non dixeris: Per Deum abest: quae enim odit ne feceris.
+
+  > Do not say, “Because of the Lord I left the right way”; for he will not do what he hates.
+
 - 16:17
+
+  > μὴ εἴπῃς ὅτι ἀπὸ κυρίου κρυβήσομαι καὶ ἐξ ὕψους τίς μου μνησθήσεται ἐν λαῷ πλείονι οὐ μὴ γνωσθῶ τίς γὰρ ἡ ψυχή μου ἐν ἀμετρήτῳ κτίσει
+
+  > Non dicas: A Deo abscondar: et ex summo, quis mei memorabitur? in populo magno non agnoscar: quae est enim anima mea in tam immensa creatura?
+
+  > Do not say, “I shall be hidden from the Lord, and who from on high will remember me? Among so many people I shall not be known, for what is my soul in the boundless creation?
 
 - 17:24
 
+  > πλὴν μετανοοῦσιν ἔδωκεν ἐπάνοδον καὶ παρεκάλεσεν ἐκλείποντας ὑπομονήν
+
+  > Pœnitentibus autem dedit viam justitiae, et confirmavit deficientes sustinere
+
+  > Yet to those who repent he grants a return, and he encourages those whose endurance is failing.
+
 - 18:13
+
+  > ἔλεος ἀνθρώπου ἐπὶ τὸν πλησίον αὐτοῦ ἔλεος δὲ κυρίου ἐπὶ πᾶσαν σάρκα ἐλέγχων καὶ παιδεύων καὶ διδάσκων καὶ ἐπιστρέφων ὡς ποιμὴν τὸ ποίμνιον αὐτοῦ
+
+  > Miseratio hominis circa proximum suum: misericordia autem Dei super omnem carnem. Qui misericordiam habet, docet et erudit quasi pastor gregem suum.
+
+  > The compassion of man is for his neighbor, but the compassion of the Lord is for all living beings. He rebukes and trains and teaches them, and turns them back, as a shepherd his flock.
 
 - 19:10
 
+  > ἀκήκοας λόγον συναποθανέτω σοι θάρσει οὐ μή σε ῥήξει
+
+  > Audisti verbum adversus proximum tuum? commoriatur in te, fidens quoniam non te dirumpet.
+
+  > Have you heard a word? Let it die with you. Be brave! It will not make you burst!
+
 - 20:16
+
+  > μωρὸς ἐρεῖ οὐχ ὑπάρχει μοι φίλος καὶ οὐκ ἔστιν χάρις τοῖς ἀγαθοῖς μου
+
+  > Fatuo non erit amicus, et non erit gratia bonis illius:
+
+  > A fool will say, “I have no friend, and there is no gratitude for my good deeds.”
 
 - 21:26
 
+  > ἐν στόματι μωρῶν ἡ καρδία αὐτῶν καρδία δὲ σοφῶν στόμα αὐτῶν
+
+  > In ore fatuorum cor illorum, et in corde sapientium os illorum.
+
+  > The mind of fools is in their mouth, but the mouth of wise men is in their mind.
+
 - 22:27
+
+  > τίς δώσει ἐπὶ στόμα μου φυλακὴν καὶ ἐπὶ τῶν χειλέων μου σφραγῖδα πανοῦργον ἵνα μὴ πέσω ἀπ’ αὐτῆς καὶ ἡ γλῶσσά μου ἀπολέσῃ με
+
+  > Quis dabit ori meo custodiam, et super labia mea signaculum certum, ut non cadam ab ipsis, et lingua mea perdat me?
+
+  > O that a guard were set over my mouth, and a seal of prudence upon my lips, that it may keep me from falling, so that my tongue may not destroy me!
+
+- 23:6
+
+  > κοιλίας ὄρεξις καὶ συνουσιασμὸς μὴ καταλαβέτωσάν με καὶ ψυχῇ ἀναιδεῖ μὴ παραδῷς με
+
+  > Aufer a me ventris concupiscentias, et concubitus concupiscentiae ne apprehendant me, et animae irreverenti et infrunitae ne tradas me.
+
+  > Let neither gluttony nor lust overcome me, and do not surrender me to a shameless soul.
+
+- 24:9
+
+  > πρὸ τοῦ αἰῶνος ἀπ’ ἀρχῆς ἔκτισέν με καὶ ἕως αἰῶνος οὐ μὴ ἐκλίπω
+
+  > Ab initio et ante saecula creata sum, et usque ad futurum saeculum non desinam:
+
+  > From eternity, in the beginning, he created me, and for eternity I shall not cease to exist.
+
+- 25:24
+
+  > ἀπὸ γυναικὸς ἀρχὴ ἁμαρτίας καὶ δι’ αὐτὴν ἀποθνῄσκομεν πάντες
+
+  > A muliere initium factum est peccati, et per illam omnes morimur.
+
+  > From a woman sin had its beginning, and because of her we all die.
+
+- 26:4
+
+  > πλουσίου δὲ καὶ πτωχοῦ καρδία ἀγαθή ἐν παντὶ καιρῷ πρόσωπον ἱλαρόν
+
+  > divitis autem et pauperis cor bonum, in omni tempore vultus illorum hilaris.
+
+  > Whether rich or poor, his heart is glad, and at all times his face is cheerful.
+
+- 27:2
+
+  > ἀνὰ μέσον ἁρμῶν λίθων παγήσεται πάσσαλος καὶ ἀνὰ μέσον πράσεως καὶ ἀγορασμοῦ συντριβήσεται ἁμαρτία
+
+  > Sicut in medio compaginis lapidum palus figitur, sic et inter medium venditionis et emptionis angustiabitur peccatum:
+
+  > As a stake is driven firmly into a fissure between stones, so sin is wedged in between selling and buying.
+
+- 28:2
+
+  > ἄφες ἀδίκημα τῷ πλησίον σου καὶ τότε δεηθέντος σου αἱ ἁμαρτίαι σου λυθήσονται
+
+  > Relinque proximo tuo nocenti te, et tunc deprecanti tibi peccata solventur.
+
+  > Forgive your neighbor the wrong he has done, and then your sins will be pardoned when you pray.
 
 ## Gospel of Matthew
 
@@ -1240,11 +1336,41 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > he saved us, not because of deeds done by us in righteousness, but in virtue of his own mercy, by the washing of regeneration and renewal in the Holy Spirit,
 
+## Philemon
+
+- 6
+
+  > ὅπως ἡ κοινωνία τῆς πίστεώς σου ἐνεργὴς γένηται ἐν ἐπιγνώσει παντὸς ἀγαθοῦ τοῦ ἐν ἡμῖν εἰς Χριστόν.
+
+  > ut communicatio fidei tuae evidens fiat in agnitione omnis operis boni, quod est in vobis in Christo Jesu.
+
+  > and I pray that the sharing of your faith may promote the knowledge of all the good that is ours in Christ.
+
 ## Hebrews
 
 - 1:3
 
+  > ὃς ὢν ἀπαύγασμα τῆς δόξης καὶ χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ, φέρων τε τὰ πάντα τῷ ῥήματι τῆς δυνάμεως αὐτοῦ, καθαρισμὸν τῶν ἁμαρτιῶν ποιησάμενος ἐκάθισεν ἐν δεξιᾷ τῆς μεγαλωσύνης ἐν ὑψηλοῖς,
+
+  > qui cum sit splendor gloriae, et figura substantiae ejus, portansque omnia verbo virtutis suae, purgationem peccatorum faciens, sedet ad dexteram majestatis in excelsis:
+
+  > He reflects the glory of God and bears the very stamp of his nature, upholding the universe by his word of power. When he had made purification for sins, he sat down at the right hand of the Majesty on high,
+
 - 2:18
+
+  > ἐν ᾧ γὰρ πέπονθεν αὐτὸς πειρασθείς, δύναται τοῖς πειραζομένοις βοηθῆσαι.
+
+  > In eo enim, in quo passus est ipse et tentatus, potens est et eis, qui tentantur, auxiliari.
+
+  > For because he himself has suffered and been tempted, he is able to help those who are tempted.
+
+- 3:3
+
+  > πλείονος γὰρ οὗτος δόξης παρὰ Μωϋσῆν ἠξίωται, καθ’ ὅσον πλείονα τιμὴν ἔχει τοῦ οἴκου ὁ κατασκευάσας αὐτόν·
+
+  > Amplioris enim gloriae iste prae Moyse dignus est habitus, quanto ampliorem honorem habet domus, qui fabricavit illam.
+
+  > Yet Jesus has been counted worthy of as much more glory than Moses as the builder of a house has more honor than the house.
 
 ## 1 John
 
