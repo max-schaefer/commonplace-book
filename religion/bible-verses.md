@@ -782,7 +782,23 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > Forgive your neighbor the wrong he has done, and then your sins will be pardoned when you pray.
 
-- 32:2
+- 29:19
+
+  > ἀπόλεσον ἀργύριον δι’ ἀδελφὸν καὶ φίλον καὶ μὴ ἰωθήτω ὑπὸ τὸν λίθον εἰς ἀπώλειαν
+
+  > Perde pecuniam propter fratrem et amicum tuum, et non abscondas illam sub lapide in perditionem.
+
+  > Lose your silver for the sake of a brother or a friend, and do not let it rust under a stone and be lost.
+
+- 30:24
+
+  > ζῆλος καὶ θυμὸς ἐλαττοῦσιν ἡμέρας καὶ πρὸ καιροῦ γῆρας ἄγει μέριμνα
+
+- 31:2
+
+- 32:19
+
+- 33:31
 
 ## Gospel of Matthew
 
