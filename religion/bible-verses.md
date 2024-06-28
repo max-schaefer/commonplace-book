@@ -782,6 +782,8 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > Forgive your neighbor the wrong he has done, and then your sins will be pardoned when you pray.
 
+- 32:2
+
 ## Gospel of Matthew
 
 - 26:26
