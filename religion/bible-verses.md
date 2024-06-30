@@ -794,11 +794,49 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > ζῆλος καὶ θυμὸς ἐλαττοῦσιν ἡμέρας καὶ πρὸ καιροῦ γῆρας ἄγει μέριμνα
 
+  > Zelus et iracundia minuunt dies, et ante tempus senectam adducet cogitatus.
+
+  > Jealousy and anger shorten life, and anxiety brings on old age too soon.
+
 - 31:2
+
+  > μέριμνα ἀγρυπνίας ἀποστήσει νυσταγμόν καὶ ἀρρώστημα βαρὺ ἐκνήψει ὕπνον
+
+  > Vigilia honestatis tabefaciet carnes, et cogitatus illius auferet somnum.
+
+  > Wakeful anxiety prevents slumber, and a severe illness carries off sleep.
 
 - 32:19
 
+  > ἄνευ βουλῆς μηθὲν ποιήσῃς καὶ ἐν τῷ ποιῆσαί σε μὴ μεταμελοῦ
+
+  > Fili, sine consilio nihil facias, et post factum non pœnitebis.
+
+  > Do nothing without deliberation; and when you have acted, do not regret it.
+
 - 33:31
+
+  > εἰ ἔστιν σοι οἰκέτης ἄγε αὐτὸν ὡς ἀδελφόν ὅτι ὡς ἡ ψυχή σου ἐπιδεήσεις αὐτῷ
+
+  > Si est tibi servus fidelis, sit tibi quasi anima tua: quasi fratrem sic eum tracta, quoniam in sanguine animæ comparasti illum.
+
+  > If you have a servant, treat him as a brother, for as your own soul you will need him.
+
+- 34:2
+
+  > ὡς δρασσόμενος σκιᾶς καὶ διώκων ἄνεμον οὕτως ὁ ἐπέχων ἐνυπνίοις
+
+  > Quasi qui apprehendit umbram et persequitur ventum, sic et qui attendit ad visa mendacia.
+
+  > As one who catches at a shadow and pursues the wind, so is he who gives heed to dreams.
+
+- 35:2
+
+  > ἀνταποδιδοὺς χάριν προσφέρων σεμίδαλιν καὶ ὁ ποιῶν ἐλεημοσύνην θυσιάζων αἰνέσεως
+
+  > Retribuet gratiam qui offert similaginem: et qui facit misericordiam offert sacrificium.
+
+  > He who returns a kindness offers fine flour, and he who gives alms sacrifices a thank offering.
 
 ## Gospel of Matthew
 
