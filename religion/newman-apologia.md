@@ -23,3 +23,5 @@
 ## Position of my Mind since 1845
 
 > Ten thousand difficulties do not make one doubt, as I understand the subject; difficulty and doubt are incommensurate.
+
+> In reading ecclesiastical history [...] it used to be forcibly brought home to me, how the initial error of what afterwards became heresy was the urging forward some truth against the prohibition of authority at an unseasonable time. There is a time for every thing, and many a man desires a reformation of an abuse, or the fuller development of a doctrine, of the adoptions of a particular policy, but forgets to ask himself whether the right time for it is come: and, knowing that there is no one who will be doing any thing towards its accomplishment in his own lifetime unless he does it himself, he will not listen to the voice of authority, and he spoils a good work in his own century, in order that another man, as yet unborn, may not have the opportunity of bringing it happily to perfection in the next.

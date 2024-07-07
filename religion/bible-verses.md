@@ -818,7 +818,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > εἰ ἔστιν σοι οἰκέτης ἄγε αὐτὸν ὡς ἀδελφόν ὅτι ὡς ἡ ψυχή σου ἐπιδεήσεις αὐτῷ
 
-  > Si est tibi servus fidelis, sit tibi quasi anima tua: quasi fratrem sic eum tracta, quoniam in sanguine animæ comparasti illum.
+  > Si est tibi servus fidelis, sit tibi quasi anima tua: quasi fratrem sic eum tracta, quoniam in sanguine animae comparasti illum.
 
   > If you have a servant, treat him as a brother, for as your own soul you will need him.
 
@@ -837,6 +837,62 @@ One verse from every chapter of every book of the Catholic Bible.
   > Retribuet gratiam qui offert similaginem: et qui facit misericordiam offert sacrificium.
 
   > He who returns a kindness offers fine flour, and he who gives alms sacrifices a thank offering.
+
+- 36:3
+
+  > ὥσπερ ἐνώπιον αὐτῶν ἡγιάσθης ἐν ἡμῖν οὕτως ἐνώπιον ἡμῶν μεγαλυνθείης ἐν αὐτοῖς
+
+  > Sicut enim in conspectu eorum sanctificatus es in nobis, sic in conspectu nostro magnificaberis in eis:
+
+  > As in us thou hast been sanctified before them, so in them be thou magnified before us;
+
+- 37:16
+
+  > ἀρχὴ παντὸς ἔργου λόγος καὶ πρὸ πάσης πράξεως βουλή
+
+  > Ante omnia opera verbum verax praecedat te, et ante omnem actum consilium stabile.
+
+  > Reason is the beginning of every work, and counsel precedes every undertaking.
+
+- 38:15
+
+  > ὁ ἁμαρτάνων ἔναντι τοῦ ποιήσαντος αὐτὸν ἐμπέσοι εἰς χεῖρας ἰατροῦ
+
+  > Qui delinquit in conspectu ejus qui fecit eum, incidet in manus medici.
+
+  > He who sins before his Maker, may he fall into the care of a physician.
+
+- 39:34
+
+  > καὶ οὐκ ἔστιν εἰπεῖν τοῦτο τούτου πονηρότερον πάντα γὰρ ἐν καιρῷ εὐδοκιμηθήσεται
+
+  > Non est dicere: Hoc illo nequius est: omnia enim in tempore suo comprobabuntur.
+
+  > And no one can say, “This is worse than that,” for all things will prove good in their season.
+
+- 40:20
+
+  > οἶνος καὶ μουσικὰ εὐφραίνουσιν καρδίαν καὶ ὑπὲρ ἀμφότερα ἀγάπησις σοφίας
+
+  > Vinum et musica laetificant cor: et super utraque dilectio sapientiae.
+
+  > Wine and music gladden the heart, but the love of wisdom is better than both.
+
+- 41:2
+
+  > ὦ θάνατε καλόν σου τὸ κρίμα ἐστὶν ἀνθρώπῳ ἐπιδεομένῳ καὶ ἐλασσουμένῳ ἰσχύι ἐσχατογήρῳ καὶ περισπωμένῳ περὶ πάντων καὶ ἀπειθοῦντι καὶ ἀπολωλεκότι ὑπομονήν
+
+  > O mors, bonum est judicium tuum homini indigenti, et qui minoratur viribus, defecto aetate, et cui de omnibus cura est, et incredibili, qui perdit patientiam!
+
+  > O death, how welcome is your sentence to one who is in need and is failing in strength, very old and distracted over everything; to one who is contrary, and has lost his patience!
+
+- 42:25
+
+  > ἓν τοῦ ἑνὸς ἐστερέωσεν τὰ ἀγαθά καὶ τίς πλησθήσεται ὁρῶν δόξαν αὐτοῦ
+
+  > Uniuscujusque confirmavit bona: et quis satiabitur videns gloriam ejus?
+
+  > One confirms the good things of the other, and who can have enough of beholding his glory?
 
 ## Gospel of Matthew
 
@@ -1427,6 +1483,14 @@ One verse from every chapter of every book of the Catholic Bible.
   > Amplioris enim gloriae iste prae Moyse dignus est habitus, quanto ampliorem honorem habet domus, qui fabricavit illam.
 
   > Yet Jesus has been counted worthy of as much more glory than Moses as the builder of a house has more honor than the house.
+
+- 4:15
+
+  > οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθ’ ὁμοιότητα χωρὶς ἁμαρτίας.
+
+  > Non enim habemus pontificem qui non possit compati infirmitatibus nostris: tentatum autem per omnia pro similitudine absque peccato.
+
+  > For we have not a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sinning.
 
 ## 1 John
 
