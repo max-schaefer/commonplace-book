@@ -690,7 +690,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > πλὴν μετανοοῦσιν ἔδωκεν ἐπάνοδον καὶ παρεκάλεσεν ἐκλείποντας ὑπομονήν
 
-  > Pœnitentibus autem dedit viam justitiae, et confirmavit deficientes sustinere
+  > Poenitentibus autem dedit viam justitiae, et confirmavit deficientes sustinere
 
   > Yet to those who repent he grants a return, and he encourages those whose endurance is failing.
 
@@ -810,7 +810,7 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > ἄνευ βουλῆς μηθὲν ποιήσῃς καὶ ἐν τῷ ποιῆσαί σε μὴ μεταμελοῦ
 
-  > Fili, sine consilio nihil facias, et post factum non pœnitebis.
+  > Fili, sine consilio nihil facias, et post factum non poenitebis.
 
   > Do nothing without deliberation; and when you have acted, do not regret it.
 
@@ -893,6 +893,62 @@ One verse from every chapter of every book of the Catholic Bible.
   > Uniuscujusque confirmavit bona: et quis satiabitur videns gloriam ejus?
 
   > One confirms the good things of the other, and who can have enough of beholding his glory?
+
+- 43:27
+
+  > πολλὰ ἐροῦμεν καὶ οὐ μὴ ἀφικώμεθα καὶ συντέλεια λόγων τὸ πᾶν ἐστιν αὐτός
+
+  > Multa dicemus, et deficiemus in verbis: consummatio autem sermonum ipse est in omnibus.
+
+  > Though we speak much we cannot reach the end, and the sum of our words is: “He is the all.”
+
+- 44:1
+
+  > αἰνέσωμεν δὴ ἄνδρας ἐνδόξους καὶ τοὺς πατέρας ἡμῶν τῇ γενέσει
+
+  > Laudemus viros gloriosos, et parentes nostros in generatione sua.
+
+  > Let us now praise famous men, and our fathers in their generations.
+
+- 45:1
+
+  > καὶ ἐξήγαγεν ἐξ αὐτοῦ ἄνδρα ἐλέους εὑρίσκοντα χάριν ἐν ὀφθαλμοῖς πάσης σαρκὸς ἠγαπημένον ὑπὸ θεοῦ καὶ ἀνθρώπων Μωυσῆν οὗ τὸ μνημόσυνον ἐν εὐλογίαις
+
+  > Dilectus Deo et hominibus Moyses, cujus memoria in benedictione est.
+
+  > From his descendants the Lord brought forth a man of mercy, who found favor in the sight of all flesh and was beloved by God and man Moses, whose memory is blessed.
+
+- 46:20
+
+  > καὶ μετὰ τὸ ὑπνῶσαι αὐτὸν προεφήτευσεν καὶ ὑπέδειξεν βασιλεῖ τὴν τελευτὴν αὐτοῦ καὶ ἀνύψωσεν ἐκ γῆς τὴν φωνὴν αὐτοῦ ἐν προφητείᾳ ἐξαλεῖψαι ἀνομίαν λαοῦ
+
+  > Et post hoc dormivit: et notum fecit regi, et ostendit illi finem vitae suae: et exaltavit vocem suam de terra in prophetia, delere impietatem gentis.
+
+  > Even after he had fallen asleep he prophesied and revealed to the king his death, and lifted up his voice out of the earth in prophecy, to blot out the wickedness of the people.
+
+- 47:19
+
+  > παρανέκλινας τὰς λαγόνας σου γυναιξὶν καὶ ἐνεξουσιάσθης ἐν τῷ σώματί σου
+
+  > et inclinasti femora tua mulieribus: potestatem habuisti in corpore tuo.
+
+  > But you laid your loins beside women, and through your body you were brought into subjection.
+
+- 48:25
+
+  > ἕως τοῦ αἰῶνος ὑπέδειξεν τὰ ἐσόμενα καὶ τὰ ἀπόκρυφα πρὶν ἢ παραγενέσθαι αὐτά
+
+  > Ostendit futura, et abscondita antequam evenirent.
+
+  > He revealed what was to occur to the end of time, and the hidden things before they came to pass.
+
+- 49:16
+
+  > Σημ καὶ Σηθ ἐν ἀνθρώποις ἐδοξάσθησαν καὶ ὑπὲρ πᾶν ζῷον ἐν τῇ κτίσει Αδαμ
+
+  > Seth et Sem apud homines gloriam adepti sunt, et super omnem animam in origine Adam.
+
+  > Shem and Seth were honored among men, and Adam above every living being in the creation.
 
 ## Gospel of Matthew
 
