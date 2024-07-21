@@ -950,6 +950,72 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > Shem and Seth were honored among men, and Adam above every living being in the creation.
 
+- 50:23
+
+  > δῴη ἡμῖν εὐφροσύνην καρδίας καὶ γενέσθαι εἰρήνην ἐν ἡμέραις ἡμῶν ἐν Ισραηλ κατὰ τὰς ἡμέρας τοῦ αἰῶνος
+
+  > det nobis jucunditatem cordis, et fieri pacem in diebus nostris in Israel per dies sempiternos:
+
+  > May he give us gladness of heart, and grant that peace may be in our days in Israel, as in the days of old.
+
+- 51:10
+
+  > ἐπεκαλεσάμην κύριον πατέρα κυρίου μου μή με ἐγκαταλιπεῖν ἐν ἡμέραις θλίψεως ἐν καιρῷ ὑπερηφανιῶν ἀβοηθησίας αἰνέσω τὸ ὄνομά σου ἐνδελεχῶς καὶ ὑμνήσω ἐν ἐξομολογήσει
+
+  > Invocavi Dominum patrem Domini mei, ut non derelinquat me in die tribulationis meae, et in tempore superborum, sine adjutorio.
+
+  > I appealed to the Lord, the Father of my lord, not to forsake me in the days of affliction, at the time when there is no help against the proud.
+
+## Baruch
+
+- 1:21
+
+  > καὶ οὐκ ἠκούσαμεν τῆς φωνῆς κυρίου τοῦ θεοῦ ἡμῶν κατὰ πάντας τοὺς λόγους τῶν προφητῶν ὧν ἀπέστειλεν πρὸς ἡμᾶς
+
+  > Et non audivimus vocem Domini Dei nostri, secundum omnia verba prophetarum quos misit ad nos:
+
+  > We did not heed the voice of the Lord our God in all the words of the prophets whom he sent to us
+
+- 2:13
+
+  > ἀποστραφήτω ὁ θυμός σου ἀφ’ ἡμῶν ὅτι κατελείφθημεν ὀλίγοι ἐν τοῖς ἔθνεσιν οὗ διέσπειρας ἡμᾶς ἐκεῖ
+
+  > Avertatur ira tua a nobis, quia derelicti sumus pauci inter gentes ubi dispersisti nos.
+
+  > Let thy anger turn away from us, for we are left, few in number, among the nations where thou hast scattered us.
+
+- 3:38
+
+  > μετὰ τοῦτο ἐπὶ τῆς γῆς ὤφθη καὶ ἐν τοῖς ἀνθρώποις συνανεστράφη
+
+  > Post haec in terris visus est, et cum hominibus conversatus est.
+
+  > Afterward she appeared upon earth and lived among men.
+
+- 4:18
+
+  > ὁ γὰρ ἐπαγαγὼν τὰ κακὰ ὑμῖν ἐξελεῖται ὑμᾶς ἐκ χειρὸς ἐχθρῶν ὑμῶν
+
+  > qui enim adduxit super vos mala, ipse vos eripiet de manibus inimicorum vestrorum.
+
+  > For he who brought these calamities upon you will deliver you from the hand of your enemies.
+
+- 5:5
+
+  > ἀνάστηθι Ιερουσαλημ καὶ στῆθι ἐπὶ τοῦ ὑψηλοῦ καὶ περίβλεψαι πρὸς ἀνατολὰς καὶ ἰδέ σου συνηγμένα τὰ τέκνα ἀπὸ ἡλίου δυσμῶν ἕως ἀνατολῶν τῷ ῥήματι τοῦ ἁγίου χαίροντας τῇ τοῦ θεοῦ μνείᾳ
+
+  > Exsurge, Jerusalem, et sta in excelso: et circumspice ad orientem, et vide collectos filios tuos ab oriente sole usque ad occidentem, in verbo Sancti, gaudentes Dei memoria.
+
+  > Arise, O Jerusalem, stand upon the height and look toward the east, and see your children gathered from west and east, at the word of the Holy One, rejoicing that God has remembered them.
+
+- 6:72
+
+  > κρείσσων οὖν ἄνθρωπος δίκαιος οὐκ ἔχων εἴδωλα ἔσται γὰρ μακρὰν ἀπὸ ὀνειδισμοῦ
+
+  > Melior est homo justus qui non habet simulacra, nam erit longe ab opprobriis.
+
+  > Better therefore is a just man who has no idols, for he will be far from reproach.
+
 ## Gospel of Matthew
 
 - 26:26
@@ -1017,6 +1083,32 @@ One verse from every chapter of every book of the Catholic Bible.
   > Responderunt ministri: Numquam sic locutus est homo, sicut hic homo.
 
   > The officers answered, "No man ever spoke like this man!"
+
+## Romans
+
+- 1:16
+
+  > Οὐ γὰρ ἐπαισχύνομαι τὸ εὐαγγέλιον, δύναμις γὰρ θεοῦ ἐστιν εἰς σωτηρίαν παντὶ τῷ πιστεύοντι, Ἰουδαίῳ τε πρῶτον καὶ Ἕλληνι.
+
+  > Non enim erubesco Evangelium. Virtus enim Dei est in salutem omni credenti, Judaeo primum, et Graeco.
+
+  > For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile.
+
+- 2:13
+
+  > οὐ γὰρ οἱ ἀκροαταὶ νόμου δίκαιοι παρὰ τῷ θεῷ, ἀλλ’ οἱ ποιηταὶ νόμου δικαιωθήσονται.
+
+  > Non enim auditores legis justi sunt apud Deum, sed factores legis justificabuntur.
+
+  > For it is not those who hear the law who are righteous in God’s sight, but it is those who obey the law who will be declared righteous.
+
+- 3:28
+
+  > λογιζόμεθα γὰρ δικαιοῦσθαι πίστει ἄνθρωπον χωρὶς ἔργων νόμου.
+
+  > Arbitramur enim justificari hominem per fidem sine operibus legis.
+
+  > For we maintain that a person is justified by faith apart from the works of the law.
 
 ## 1 Corinthians
 
