@@ -102,6 +102,7 @@ malkhut | מלכות | kingdom
 mamash | ממש | really
 mamzer | ממזר | bastard
 mashal (pl. meshalim) | משל (משלים) | parable
+masoret | מָסוֹרֶת | tradition
 medinat israel | מדינת ישראל | state of Israel
 mefarshim | מפרשים | commentators on the Torah
 megillah | מגילה | scroll
