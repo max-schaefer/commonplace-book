@@ -49,6 +49,32 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > Give me not up to the will of my adversaries; for false witnesses have risen against me, and they breathe out violence.
 
+## Daniel
+
+- 3:39
+
+  > ἀλλ’ ἐν ψυχῇ συντετριμμένῃ καὶ πνεύματι ταπεινώσεως προσδεχθείημεν ὡς ἐν ὁλοκαυτώμασιν κριῶν καὶ ταύρων καὶ ὡς ἐν μυριάσιν ἀρνῶν πιόνων
+
+  > sed in animo contrito, et spiritu humilitatis suscipiamur sicut in holocausto arietum, et taurorum, et sicut in millibus agnorum pinguium,
+
+  > Yet with a contrite heart and a humble spirit may we be accepted, as though it were with burnt offerings of rams and bulls, and with tens of thousands of fat lambs;
+
+- 13:42
+
+  > ἀνεβόησεν δὲ φωνῇ μεγάλῃ Σουσαννα καὶ εἶπεν ὁ θεὸς ὁ αἰώνιος ὁ τῶν κρυπτῶν γνώστης ὁ εἰδὼς τὰ πάντα πρὶν γενέσεως αὐτῶν
+
+  > Exclamavit autem voce magna Susanna, et dixit: Deus aeterne, qui absconditorum es cognitor, qui nosti omnia antequam fiant,
+
+  > Then Susanna cried out with a loud voice, and said, “O eternal God, who dost discern what is secret, who art aware of all things before they come to be,
+
+- 14:37
+
+  > καὶ ἐβόησεν Αμβακουμ λέγων Δανιηλ Δανιηλ λαβὲ τὸ ἄριστον ὃ ἀπέστειλέν σοι ὁ θεός
+
+  > Et clamavit Habacuc, dicens: Daniel serve Dei, tolle prandium quod misit tibi Deus.
+
+  > Then Habakkuk shouted, “Daniel, Daniel! Take the dinner which God has sent you.”
+
 ## Habakkuk
 
 - 3:17f
@@ -1015,6 +1041,218 @@ One verse from every chapter of every book of the Catholic Bible.
   > Melior est homo justus qui non habet simulacra, nam erit longe ab opprobriis.
 
   > Better therefore is a just man who has no idols, for he will be far from reproach.
+
+## 1 Maccabees
+
+- 1:63
+
+  > καὶ ἐπεδέξαντο ἀποθανεῖν ἵνα μὴ μιανθῶσιν τοῖς βρώμασιν καὶ μὴ βεβηλώσωσιν διαθήκην ἁγίαν καὶ ἀπέθανον
+
+  > et elegerunt magis mori, quam cibis coinquinari immundis: et noluerunt infringere legem Dei sanctam, et trucidati sunt:
+
+  > They chose to die rather than to be defiled by food or to profane the holy covenant; and they did die.
+
+- 2:40
+
+  > καὶ εἶπεν ἀνὴρ τῷ πλησίον αὐτοῦ ἐὰν πάντες ποιήσωμεν ὡς οἱ ἀδελφοὶ ἡμῶν ἐποίησαν καὶ μὴ πολεμήσωμεν πρὸς τὰ ἔθνη ὑπὲρ τῆς ψυχῆς ἡμῶν καὶ τῶν δικαιωμάτων ἡμῶν νῦν τάχιον ὀλεθρεύσουσιν ἡμᾶς ἀπὸ τῆς γῆς
+
+  > Et dixit vir proximo suo: Si omnes fecerimus sicut fratres nostri fecerunt, et non pugnaverimus adversus gentes pro animabus nostris et justificationibus nostris, nunc citius disperdent nos a terra.
+
+  > And each said to his neighbor: “If we all do as our brethren have done and refuse to fight with the Gentiles for our lives and for our ordinances, they will quickly destroy us from the earth.”
+
+- 3:19
+
+  > ὅτι οὐκ ἐν πλήθει δυνάμεως νίκη πολέμου ἐστίν ἀλλ’ ἐκ τοῦ οὐρανοῦ ἡ ἰσχύς
+
+  > quoniam non in multitudine exercitus victoria belli, sed de caelo fortitudo est.
+
+  > It is not on the size of the army that victory in battle depends, but strength comes from Heaven.
+
+- 4:54
+
+  > κατὰ τὸν καιρὸν καὶ κατὰ τὴν ἡμέραν ἐν ᾗ ἐβεβήλωσαν αὐτὸ τὰ ἔθνη ἐν ἐκείνῃ ἐνεκαινίσθη ἐν ᾠδαῖς καὶ κιθάραις καὶ κινύραις καὶ κυμβάλοις
+
+  > Secundum tempus et secundum diem in qua contaminaverunt illud gentes, in ipsa renovatum est in canticis, et citharis, et cinyris, et in cymbalis.
+
+  > At the very season and on the very day that the Gentiles had profaned it, it was dedicated with songs and harps and lutes and cymbals.
+
+- 5:32
+
+  > καὶ εἶπεν τοῖς ἀνδράσιν τῆς δυνάμεως πολεμήσατε σήμερον ὑπὲρ τῶν ἀδελφῶν ἡμῶν
+
+  > et dixit exercitui suo: Pugnate hodie pro fratribus vestris.
+
+  > and he said to the men of his forces, “Fight today for your brethren!”
+
+- 6:13
+
+  > ἔγνων ὅτι χάριν τούτων εὗρέν με τὰ κακὰ ταῦτα καὶ ἰδοὺ ἀπόλλυμαι λύπῃ μεγάλῃ ἐν γῇ ἀλλοτρίᾳ
+
+  > Cognovi ergo quia propterea invenerunt me mala ista: et ecce pereo tristitia magna in terra aliena.
+
+  > I know that it is because of this that these evils have come upon me; and behold, I am perishing of deep grief in a strange land.
+
+- 7:38
+
+  > ποίησον ἐκδίκησιν ἐν τῷ ἀνθρώπῳ τούτῳ καὶ ἐν τῇ παρεμβολῇ αὐτοῦ καὶ πεσέτωσαν ἐν ῥομφαίᾳ μνήσθητι τῶν δυσφημιῶν αὐτῶν καὶ μὴ δῷς αὐτοῖς μονήν
+
+  > fac vindictam in homine isto et exercitu ejus, et cadant in gladio: memento blasphemias eorum, et ne dederis eis ut permaneant.
+
+  > Take vengeance on this man and on his army, and let them fall by the sword; remember their blasphemies, and let them live no longer.
+
+- 8:14
+
+  > καὶ ἐν πᾶσιν τούτοις οὐκ ἐπέθεντο αὐτῶν οὐδὲ εἷς διάδημα οὐδὲ περιεβάλοντο πορφύραν ὥστε ἁδρυνθῆναι ἐν αὐτῇ
+
+  > Et in omnibus istis nemo portabat diadema, nec induebatur purpura, ut magnificaretur in ea.
+
+  > Yet for all this not one of them has put on a crown or worn purple as a mark of pride
+
+- 9:22
+
+  > καὶ τὰ περισσὰ τῶν λόγων Ιουδου καὶ τῶν πολέμων καὶ τῶν ἀνδραγαθιῶν ὧν ἐποίησεν καὶ τῆς μεγαλωσύνης αὐτοῦ οὐ κατεγράφη πολλὰ γὰρ ἦν σφόδρα
+
+  > Et cetera verba bellorum Judae, et virtutum, quas fecit, et magnitudinis ejus, non sunt descripta: multa enim erant valde.
+
+  > Now the rest of the acts of Judas, and his wars and the brave deeds that he did, and his greatness, have not been recorded, for they were very many.
+
+- 10:21
+
+  > καὶ ἐνεδύσατο Ιωναθαν τὴν ἁγίαν στολὴν τῷ ἑβδόμῳ μηνὶ ἔτους ἑξηκοστοῦ καὶ ἑκατοστοῦ ἐν ἑορτῇ σκηνοπηγίας καὶ συνήγαγεν δυνάμεις καὶ κατεσκεύασεν ὅπλα πολλά
+
+  > Et induit se Jonathas stola sancta septimo mense, anno centesimo sexagesimo, in die solemni scenopegiae: et congregavit exercitum, et fecit arma copiosa.
+
+  > So Jonathan put on the holy garments in the seventh month of the one hundred and sixtieth year, at the feast of tabernacles, and he recruited troops and equipped them with arms in abundance.
+
+- 11:50
+
+  > δὸς ἡμῖν δεξιὰς καὶ παυσάσθωσαν οἱ Ιουδαῖοι πολεμοῦντες ἡμᾶς καὶ τὴν πόλιν
+
+  > Da nobis dextras, et cessent Judaei oppugnare nos, et civitatem.
+
+  > Grant us peace, and make the Jews stop fighting against us and our city.
+
+- 12:53
+
+  > καὶ ἐζήτησαν πάντα τὰ ἔθνη τὰ κύκλῳ αὐτῶν ἐκτρῖψαι αὐτούς εἶπον γάρ οὐκ ἔχουσιν ἄρχοντα καὶ βοηθοῦντα νῦν οὖν πολεμήσωμεν αὐτοὺς καὶ ἐξάρωμεν ἐξ ἀνθρώπων τὸ μνημόσυνον αὐτῶν
+
+  > Et quaesierunt omnes gentes quae erant in circuitu eorum conterere eos: dixerunt enim: Non habent principem et adjuvantem: nunc ergo expugnemus illos, et tollamus de hominibus memoriam eorum.
+
+  > And all the nations round about them tried to destroy them, for they said, “They have no leader or helper. Now therefore let us make war on them and blot out the memory of them from among men.”
+
+- 13:42
+
+  > καὶ ἤρξατο ὁ λαὸς γράφειν ἐν ταῖς συγγραφαῖς καὶ συναλλάγμασιν ἔτους πρώτου ἐπὶ Σιμωνος ἀρχιερέως μεγάλου καὶ στρατηγοῦ καὶ ἡγουμένου Ιουδαίων
+
+  > Et coepit populus Israel scribere in tabulis, et gestis publicis, anno primo sub Simone summo sacerdote, magno duce, et principe Judaeorum.
+
+  > and the people began to write in their documents and contracts, “In the first year of Simon the great high priest and commander and leader of the Jews.”
+
+- 14:29
+
+  > ἐπεὶ πολλάκις ἐγενήθησαν πόλεμοι ἐν τῇ χώρᾳ Σιμων δὲ υἱὸς Ματταθιου ἱερεὺς τῶν υἱῶν Ιωαριβ καὶ οἱ ἀδελφοὶ αὐτοῦ ἔδωκαν αὑτοὺς τῷ κινδύνῳ καὶ ἀντέστησαν τοῖς ὑπεναντίοις τοῦ ἔθνους αὐτῶν ὅπως σταθῇ τὰ ἅγια αὐτῶν καὶ ὁ νόμος καὶ δόξῃ μεγάλῃ ἐδόξασαν τὸ ἔθνος αὐτῶν
+
+  > quoniam frequenter facta sunt praelia in regione nostra, Simon autem Mathathiae filius, ex filiis Jarib, et fratres ejus, dederunt se periculo, et restiterunt adversariis gentis suae, ut starent sancta ipsorum, et lex: et gloria magna glorificaverunt gentem suam.
+
+  > “Since wars often occurred in the country, Simon the son of Mattathias, a priest of the sons of Joarib, and his brothers, exposed themselves to danger and resisted the enemies of their nation, in order that their sanctuary and the law might be perserved; and they brought great glory to their nation.
+
+- 15:33
+
+  > καὶ ἀποκριθεὶς Σιμων εἶπεν αὐτῷ οὔτε γῆν ἀλλοτρίαν εἰλήφαμεν οὔτε ἀλλοτρίων κεκρατήκαμεν ἀλλὰ τῆς κληρονομίας τῶν πατέρων ἡμῶν ὑπὸ δὲ ἐχθρῶν ἡμῶν ἀκρίτως ἔν τινι καιρῷ κατεκρατήθη
+
+  > Et respondit ei Simon, et dixit ei: Neque alienam terram sumpsimus, neque aliena detinemus: sed haereditatem patrum nostrorum, quae injuste ab inimicis nostris aliquo tempore possessa est.
+
+  > but Simon gave him this reply: “We have neither taken foreign land nor seized foreign property, but only the inheritance of our fathers, which at one time had been unjustly taken by our enemies.
+
+- 16:2
+
+  > καὶ ἐκάλεσεν Σιμων τοὺς δύο υἱοὺς αὐτοῦ τοὺς πρεσβυτέρους Ιουδαν καὶ Ιωαννην καὶ εἶπεν αὐτοῖς ἐγὼ καὶ οἱ ἀδελφοί μου καὶ ὁ οἶκος τοῦ πατρός μου ἐπολεμήσαμεν τοὺς πολέμους Ισραηλ ἀπὸ νεότητος ἕως τῆς σήμερον ἡμέρας καὶ εὐοδώθη ἐν ταῖς χερσὶν ἡμῶν ῥύσασθαι τὸν Ισραηλ πλεονάκις
+
+  > Et vocavit Simon duos filios seniores, Judam et Joannem, et ait illis: Ego, et fratres mei, et domus patris mei expugnavimus hostes Israel ab adolescentia usque in hunc diem: et prosperatum est in manibus nostris liberare Israel aliquoties.
+
+  > And Simon called in his two older sons Judas and John, and said to them: “I and my brothers and the house of my father have fought the wars of Israel from our youth until this day, and things have prospered in our hands so that we have delivered Israel many times.
+
+## 2 Maccabees
+
+- 1:27
+
+  > ἐπισυνάγαγε τὴν διασπορὰν ἡμῶν ἐλευθέρωσον τοὺς δουλεύοντας ἐν τοῖς ἔθνεσιν τοὺς ἐξουθενημένους καὶ βδελυκτοὺς ἔπιδε καὶ γνώτωσαν τὰ ἔθνη ὅτι σὺ εἶ ὁ θεὸς ἡμῶν
+
+  > Congrega dispersionem nostram, libera eos qui serviunt gentibus, et contemptos et abominatos respice, ut sciant gentes quia tu es Deus noster.
+
+  > Gather together our scattered people, set free those who are slaves among the Gentiles, look upon those who are rejected and despised, and let the Gentiles know that thou art our God.
+
+- 2:4
+
+  > ἦν δὲ ἐν τῇ γραφῇ ὡς τὴν σκηνὴν καὶ τὴν κιβωτὸν ἐκέλευσεν ὁ προφήτης χρηματισμοῦ γενηθέντος αὐτῷ συνακολουθεῖν ὡς δὲ ἐξῆλθεν εἰς τὸ ὄρος οὗ ὁ Μωυσῆς ἀναβὰς ἐθεάσατο τὴν τοῦ θεοῦ κληρονομίαν
+
+  > Erat autem in ipsa scriptura, quomodo tabernaculum et arcam jussit propheta divino responso ad se facto comitari secum, usquequo exiit in montem in quo Moyses ascendit, et vidit Dei haereditatem.
+
+  > It was also in the writing that the prophet, having received an oracle, ordered that the tent and the ark should follow with him, and that he went out to the mountain where Moses had gone up and had seen the inheritance of God.
+
+- 3:38
+
+  > εἴ τινα ἔχεις πολέμιον ἢ πραγμάτων ἐπίβουλον πέμψον αὐτὸν ἐκεῖ καὶ μεμαστιγωμένον αὐτὸν προσδέξῃ ἐάνπερ καὶ διασωθῇ διὰ τὸ περὶ τὸν τόπον ἀληθῶς εἶναί τινα θεοῦ δύναμιν
+
+  > Si quem habes hostem, aut regni tui insidiatorem, mitte illuc, et flagellatum eum recipies, si tamen evaserit: eo quod in loco sit vere Dei quaedam virtus.
+
+  > If you have any enemy or plotter against your government, send him there, for you will get him back thoroughly scourged, if he escapes at all, for there certainly is about the place some power of God.
+
+- 4:16
+
+  > ὧν καὶ χάριν περιέσχεν αὐτοὺς χαλεπὴ περίστασις καὶ ὧν ἐζήλουν τὰς ἀγωγὰς καὶ καθ’ ἅπαν ἤθελον ἐξομοιοῦσθαι τούτους πολεμίους καὶ τιμωρητὰς ἔσχον
+
+  > quarum gratia periculosa eos contentio habebat, et eorum instituta aemulabantur, ac per omnia his consimiles esse cupiebant, quos hoste et peremptores habuerant.
+
+  > For this reason heavy disaster overtook them, and those whose ways of living they admired and wished to imitate completely became their enemies and punished them.
+
+- 5:19
+
+  > ἀλλ’ οὐ διὰ τὸν τόπον τὸ ἔθνος ἀλλὰ διὰ τὸ ἔθνος τὸν τόπον ὁ κύριος ἐξελέξατο
+
+  > Verum non propter locum, gentem: sed propter gentem, locum Deus elegit.
+
+  > But the Lord did not choose the nation for the sake of the holy place, but the place for the sake of the nation.
+
+- 6:24
+
+  > οὐ γὰρ τῆς ἡμετέρας ἡλικίας ἄξιόν ἐστιν ὑποκριθῆναι ἵνα πολλοὶ τῶν νέων ὑπολαβόντες Ελεαζαρον τὸν ἐνενηκονταετῆ μεταβεβηκέναι εἰς ἀλλοφυλισμὸν
+
+  > Non enim aetati nostrae dignum est, inquit, fingere: ut multi adolescentium, arbitrantes Eleazarum nonaginta annorum transisse ad vitam alienigenarum,
+
+  > “Such pretense is not worthy of our time of life,” he said, “lest many of the young should suppose that Eleazar in his ninetieth year has gone over to an alien religion
+
+- 7:37
+
+  > ἐγὼ δέ καθάπερ οἱ ἀδελφοί καὶ σῶμα καὶ ψυχὴν προδίδωμι περὶ τῶν πατρίων νόμων ἐπικαλούμενος τὸν θεὸν ἵλεως ταχὺ τῷ ἔθνει γενέσθαι καὶ σὲ μετὰ ἐτασμῶν καὶ μαστίγων ἐξομολογήσασθαι διότι μόνος αὐτὸς θεός ἐστιν
+
+  > Ego autem, sicut fratres mei, animam et corpus meum trado pro patriis legibus, invocans Deum maturius genti nostrae propitium fieri, teque cum tormentis et verberibus confiteri quod ipse est Deus solus.
+
+  > I, like my brothers, give up body and life for the laws of our fathers, appealing to God to show mercy soon to our nation and by afflictions and plagues to make you confess that he alone is God
+
+- 8:18
+
+  > οἱ μὲν γὰρ ὅπλοις πεποίθασιν ἅμα καὶ τόλμαις ἔφησεν ἡμεῖς δὲ ἐπὶ τῷ παντοκράτορι θεῷ δυναμένῳ καὶ τοὺς ἐρχομένους ἐφ’ ἡμᾶς καὶ τὸν ὅλον κόσμον ἑνὶ νεύματι καταβαλεῖν πεποίθαμεν
+
+  > Nam illi quidem armis confidunt, ait, simul et audacia: nos autem in omnipotente Domino, qui potest et venientes adversum nos, et universum mundum, uno nutu delere, confidimus.
+
+  > “For they trust to arms and acts of daring,” he said, “but we trust in the Almighty God, who is able with a single nod to strike down those who are coming against us and even the whole world.”
+
+- 9:7
+
+  > ὁ δ’ οὐδαμῶς τῆς ἀγερωχίας ἔληγεν ἔτι δὲ καὶ τῆς ὑπερηφανίας ἐπεπλήρωτο πῦρ πνέων τοῖς θυμοῖς ἐπὶ τοὺς Ιουδαίους καὶ κελεύων ἐποξύνειν τὴν πορείαν συνέβη δὲ καὶ πεσεῖν αὐτὸν ἀπὸ τοῦ ἅρματος φερομένου ῥοίζῳ καὶ δυσχερεῖ πτώματι περιπεσόντα πάντα τὰ μέλη τοῦ σώματος ἀποστρεβλοῦσθαι
+
+  > Super hoc autem superbia repletus, ignem spirans animo in Judaeos, et praecipiens accelerari negotium, contigit illum impetu euntem de curru cadere, et gravi corporis collisione membra vexari.
+
+  > Yet he did not in any way stop his insolence, but was even more filled with arrogance, breathing fire in his rage against the Jews, and giving orders to hasten the journey. And so it came about that he fell out of his chariot as it was rushing along, and the fall was so hard as to torture every limb of his body.
+
+- 10:4
+
+  > ταῦτα δὲ ποιήσαντες ἠξίωσαν τὸν κύριον πεσόντες ἐπὶ κοιλίαν μηκέτι περιπεσεῖν τοιούτοις κακοῖς ἀλλ’ ἐάν ποτε καὶ ἁμάρτωσιν ὑπ’ αὐτοῦ μετὰ ἐπιεικείας παιδεύεσθαι καὶ μὴ βλασφήμοις καὶ βαρβάροις ἔθνεσιν παραδίδοσθαι
+
+  > Quibus gestis, rogabant Dominum prostrati in terram, ne amplius talibus malis inciderent: sed et, siquando peccassent, ut ab ipso mitius corriperentur, et non barbaris ac blasphemis hominibus traderentur.
+
+  > And when they had done this, they fell prostrate and besought the Lord that they might never again fall into such misfortunes, but that, if they should ever sin, they might be disciplined by him with forbearance and not be handed over to blasphemous and barbarous nations.
 
 ## Gospel of Matthew
 
