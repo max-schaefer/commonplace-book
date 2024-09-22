@@ -1254,7 +1254,143 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > And when they had done this, they fell prostrate and besought the Lord that they might never again fall into such misfortunes, but that, if they should ever sin, they might be disciplined by him with forbearance and not be handed over to blasphemous and barbarous nations.
 
+- 11:9
+
+  > ὁμοῦ δὲ πάντες εὐλόγησαν τὸν ἐλεήμονα θεὸν καὶ ἐπερρώσθησαν ταῖς ψυχαῖς οὐ μόνον ἀνθρώπους θῆρας δὲ τοὺς ἀγριωτάτους καὶ σιδηρᾶ τείχη τιτρώσκειν ὄντες ἕτοιμοι
+
+  > Tunc omnes simul benedixerunt misericordem Dominum, et convaluerunt animis: non solum homines, sed et bestias ferocissimas, et muros ferreos parati penetrare.
+
+  > And they all together praised the merciful God, and were strengthened in heart, ready to assail not only men but the wildest beasts or walls of iron.
+
+- 12:45
+
+  > εἶτε’ ἐμβλέπων τοῖς μετ’ εὐσεβείας κοιμωμένοις κάλλιστον ἀποκείμενον χαριστήριον ὁσία καὶ εὐσεβὴς ἡ ἐπίνοια ὅθεν περὶ τῶν τεθνηκότων τὸν ἐξιλασμὸν ἐποιήσατο τῆς ἁμαρτίας ἀπολυθῆναι
+
+  > et quia considerabat quod hi qui cum pietate dormitionem acceperant, optimam haberent repositam gratiam. Sancta ergo et salubris est cogitatio pro defunctis exorare, ut a peccatis solvantur.
+
+  > But if he was looking to the splendid reward that is laid up for those who fall asleep in godliness, it was a holy and pious thought. Therefore he made atonement for the dead, that they might be delivered from their sin.
+
+- 13:8
+
+  > πάνυ δικαίως ἐπεὶ γὰρ συνετελέσατο πολλὰ περὶ τὸν βωμὸν ἁμαρτήματα οὗ τὸ πῦρ ἁγνὸν ἦν καὶ ἡ σποδός ἐν σποδῷ τὸν θάνατον ἐκομίσατο
+
+  > Et quidem satis juste: nam quia multa erga aram Dei delicta commisit, cujus ignis et cinis erat sanctus: ipse in cineris morte damnatus est.
+
+  > And this was eminently just; because he had committed many sins against the altar whose fire and ashes were holy, he met his death in ashes.
+
+- 14:46
+
+  > παντελῶς ἔξαιμος ἤδη γινόμενος προβαλὼν τὰ ἔντερα καὶ λαβὼν ἑκατέραις ταῖς χερσὶν ἐνέσεισε τοῖς ὄχλοις καὶ ἐπικαλεσάμενος τὸν δεσπόζοντα τῆς ζωῆς καὶ τοῦ πνεύματος ταῦτα αὐτῷ πάλιν ἀποδοῦναι τόνδε τὸν τρόπον μετήλλαξεν
+
+  > et stans supra quamdam petram praeruptam, et jam exsanguis effectus, complexus intestina sua, utrisque manibus projecit super turbas, invocans dominatorem vitae ac spiritus ut haec illi iterum redderet: atque ita vita defunctus est.
+
+  > with his blood now completely drained from him, he tore out his entrails, took them with both hands and hurled them at the crowd, calling upon the Lord of life and spirit to give them back to him again. This was the manner of his death.
+
 ## Gospel of Matthew
+
+- 1:25
+
+  > καὶ οὐκ ἐγίνωσκεν αὐτὴν ἕως οὗ ἔτεκεν υἱόν· καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰησοῦν.
+
+  > Et non cognoscebat eam donec peperit filium suum primogenitum: et vocavit nomen ejus Jesum.
+
+  > but knew her not until she had borne a son; and he called his name Jesus.
+
+- 2:11
+
+  > καὶ ἐλθόντες εἰς τὴν οἰκίαν εἶδον τὸ παιδίον μετὰ Μαρίας τῆς μητρὸς αὐτοῦ, καὶ πεσόντες προσεκύνησαν αὐτῷ καὶ ἀνοίξαντες τοὺς θησαυροὺς αὐτῶν προσήνεγκαν αὐτῷ δῶρα, χρυσὸν καὶ λίβανον καὶ σμύρναν.
+
+  > Et intrantes domum, invenerunt puerum cum Maria matre ejus, et procidentes adoraverunt eum: et apertis thesauris suis obtulerunt ei munera, aurum, thus, et myrrham.
+
+  > and going into the house they saw the child with Mary his mother, and they fell down and worshiped him. Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh.
+
+- 3:17
+
+  > καὶ ἰδοὺ φωνὴ ἐκ τῶν οὐρανῶν λέγουσα· οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα.
+
+  > Et ecce vox de caelis dicens: Hic est Filius meus dilectus, in quo mihi complacui.
+
+  > and lo, a voice from heaven, saying, “This is my beloved Son, with whom I am well pleased.”
+
+- 4:17
+
+  > Ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς κηρύσσειν καὶ λέγειν· μετανοεῖτε· ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν.
+
+  > Exinde coepit Jesus praedicare, et dicere: Poenitentiam agite: appropinquavit enim regnum caelorum.
+
+  > From that time Jesus began to preach, saying, “Repent, for the kingdom of heaven is at hand.”
+
+- 5:17
+
+  > Μὴ νομίσητε ὅτι ἦλθον καταλῦσαι τὸν νόμον ἢ τοὺς προφήτας· οὐκ ἦλθον καταλῦσαι ἀλλὰ πληρῶσαι.
+
+  > Nolite putare quoniam veni solvere legem aut prophetas: non veni solvere, sed adimplere.
+
+  > Think not that I have come to abolish the law and the prophets; I have come not to abolish them but to fulfil them.
+
+- 6:8
+
+  > μὴ οὖν ὁμοιωθῆτε αὐτοῖς· οἶδεν γὰρ ὁ πατὴρ ὑμῶν ὧν χρείαν ἔχετε πρὸ τοῦ ὑμᾶς αἰτῆσαι αὐτόν.
+
+  > Nolite ergo assimilari eis: scit enim Pater vester, quid opus sit vobis, antequam petatis eum.
+
+  > Do not be like them, for your Father knows what you need before you ask him.
+
+- 7:12
+
+  > Πάντα οὖν ὅσα ἐὰν θέλητε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι, οὕτως καὶ ὑμεῖς ποιεῖτε αὐτοῖς· οὗτος γάρ ἐστιν ὁ νόμος καὶ οἱ προφῆται.
+
+  > Omnia ergo quaecumque vultis ut faciant vobis homines, et vos facite illis. Haec est enim lex, et prophetae.
+
+  > So whatever you wish that men would do to you, do so to them; for this is the law and the prophets.
+
+- 8:8
+
+  > καὶ ἀποκριθεὶς ὁ ἑκατόνταρχος ἔφη· κύριε, οὐκ εἰμὶ ἱκανὸς ἵνα μου ὑπὸ τὴν στέγην εἰσέλθῃς, ἀλλὰ μόνον εἰπὲ λόγῳ, καὶ ἰαθήσεται ὁ παῖς μου.
+
+  > Et respondens centurio, ait: Domine, non sum dignus ut intres sub tectum meum: sed tantum dic verbo, et sanabitur puer meus.
+
+  > But the centurion answered him, “Lord, I am not worthy to have you come under my roof; but only say the word, and my servant will be healed.
+
+- 9:13
+
+  > πορευθέντες δὲ μάθετε τί ἐστιν· ἔλεος θέλω καὶ οὐ θυσίαν· οὐ γὰρ ἦλθον καλέσαι δικαίους ἀλλ’ ἁμαρτωλούς.
+
+  > Euntes autem discite quid est: Misericordiam volo, et non sacrificium. Non enim veni vocare justos, sed peccatores.
+
+  > Go and learn what this means, ‘I desire mercy, and not sacrifice.’ For I came not to call the righteous, but sinners.”
+
+- 10:16
+
+  > Ἰδοὺ ἐγὼ ἀποστέλλω ὑμᾶς ὡς πρόβατα ἐν μέσῳ λύκων· γίνεσθε οὖν φρόνιμοι ὡς οἱ ὄφεις καὶ ἀκέραιοι ὡς αἱ περιστεραί.
+
+  > Ecce ego mitto vos sicut oves in medio luporum. Estote ergo prudentes sicut serpentes, et simplices sicut columbae.
+
+  > Behold, I send you out as sheep in the midst of wolves; so be wise as serpents and innocent as doves.
+
+- 11:30
+
+  > ὁ γὰρ ζυγός μου χρηστὸς καὶ τὸ φορτίον μου ἐλαφρόν ἐστιν.
+
+  > Jugum enim meum suave est, et onus meum leve.
+
+  > For my yoke is easy, and my burden is light.
+
+- 12:31
+
+  - Διὰ τοῦτο λέγω ὑμῖν, πᾶσα ἁμαρτία καὶ βλασφημία ἀφεθήσεται τοῖς ἀνθρώποις, ἡ δὲ τοῦ πνεύματος βλασφημία οὐκ ἀφεθήσεται.
+
+  - Ideo dico vobis: Omne peccatum et blasphemia remittetur hominibus, Spiritus autem blasphemia non remittetur.
+
+  - Therefore I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven.
+
+- 13:17
+
+  - ἀμὴν γὰρ λέγω ὑμῖν ὅτι πολλοὶ προφῆται καὶ δίκαιοι ἐπεθύμησαν ἰδεῖν ἃ βλέπετε καὶ οὐκ εἶδαν, καὶ ἀκοῦσαι ἃ ἀκούετε καὶ οὐκ ἤκουσαν.
+
+  - Amen quippe dico vobis, quia multi prophetae et justi cupierunt videre quae videtis, et non viderunt: et audire quae auditis, et non audierunt.
+
+  - Truly, I say to you, many prophets and righteous men longed to see what you see, and did not see it, and to hear what you hear, and did not hear it.
 
 - 26:26
 
@@ -1322,6 +1458,86 @@ One verse from every chapter of every book of the Catholic Bible.
 
   > The officers answered, "No man ever spoke like this man!"
 
+- 8:7
+
+  > ὡς δὲ ἐπέμενον ἐρωτῶντες αὐτόν, ἀνέκυψεν καὶ εἶπεν αὐτοῖς· ὁ ἀναμάρτητος ὑμῶν πρῶτος ἐπ’ αὐτὴν βαλέτω λίθον.
+
+  > Cum ergo perseverarent interrogantes eum, erexit se, et dixit eis: Qui sine peccato est vestrum, primus in illam lapidem mittat.
+
+  > When they kept on questioning him, he straightened up and said to them, “Let any one of you who is without sin be the first to throw a stone at her.”
+
+- 9:39
+
+  > Καὶ εἶπεν ὁ Ἰησοῦς· εἰς κρίμα ἐγὼ εἰς τὸν κόσμον τοῦτον ἦλθον, ἵνα οἱ μὴ βλέποντες βλέπωσιν καὶ οἱ βλέποντες τυφλοὶ γένωνται.
+
+  > Et dixit Jesus: In judicium ego in hunc mundum veni: ut qui non vident videant, et qui vident caeci fiant.
+
+  > Jesus said, “For judgment I have come into this world, so that the blind will see and those who see will become blind.”
+
+- 10:30
+
+  > ἐγὼ καὶ ὁ πατὴρ ἕν ἐσμεν.
+
+  > Ego et Pater unum sumus.
+
+  > I and the Father are one.
+
+- 11:35
+
+  > ἐδάκρυσεν ὁ Ἰησοῦς.
+
+  > Et lacrimatus est Jesus.
+
+  > Jesus wept.
+
+- 12:24
+
+  > ἀμὴν ἀμὴν λέγω ὑμῖν, ἐὰν μὴ ὁ κόκκος τοῦ σίτου πεσὼν εἰς τὴν γῆν ἀποθάνῃ, αὐτὸς μόνος μένει· ἐὰν δὲ ἀποθάνῃ, πολὺν καρπὸν φέρει.
+
+  > Amen, amen dico vobis, nisi granum frumenti cadens in terram, mortuum fuerit, ipsum solum manet: si autem mortuum fuerit, multum fructum affert.
+
+  > Truly, truly, I say to you, unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit.
+
+- 13:34
+
+  > Ἐντολὴν καινὴν δίδωμι ὑμῖν, ἵνα ἀγαπᾶτε ἀλλήλους, καθὼς ἠγάπησα ὑμᾶς ἵνα καὶ ὑμεῖς ἀγαπᾶτε ἀλλήλους.
+
+  > Mandatum novum do vobis: ut diligatis invicem: sicut dilexi vos, ut et vos diligatis invicem.
+
+  > A new commandment I give to you, that you love one another; even as I have loved you, that you also love one another.
+
+- 14:6
+
+  > λέγει αὐτῷ ὁ Ἰησοῦς· ἐγώ εἰμι ἡ ὁδὸς καὶ ἡ ἀλήθεια καὶ ἡ ζωή· οὐδεὶς ἔρχεται πρὸς τὸν πατέρα εἰ μὴ δι’ ἐμοῦ.
+
+  > Dicit ei Jesus: Ego sum via, et veritas, et vita. Nemo venit ad Patrem, nisi per me.
+
+  > Jesus said to him, “I am the way, and the truth, and the life; no one comes to the Father, but by me.
+
+- 15:5
+
+  > ἐγώ εἰμι ἡ ἄμπελος, ὑμεῖς τὰ κλήματα. ὁ μένων ἐν ἐμοὶ κἀγὼ ἐν αὐτῷ οὗτος φέρει καρπὸν πολύν, ὅτι χωρὶς ἐμοῦ οὐ δύνασθε ποιεῖν οὐδέν.
+
+  > Ego sum vitis, vos palmites: qui manet in me, et ego in eo, hic fert fructum multum, quia sine me nihil potestis facere.
+
+  > I am the vine, you are the branches. He who abides in me, and I in him, he it is that bears much fruit, for apart from me you can do nothing.
+
+- 16:22
+
+  > καὶ ὑμεῖς οὖν νῦν μὲν λύπην ἔχετε· πάλιν δὲ ὄψομαι ὑμᾶς, καὶ χαρήσεται ὑμῶν ἡ καρδία, καὶ τὴν χαρὰν ὑμῶν οὐδεὶς αἴρει ἀφ’ ὑμῶν.
+
+  > Et vos igitur nunc quidem tristitiam habetis, iterum autem videbo vos, et gaudebit cor vestrum: et gaudium vestrum nemo tollet a vobis.
+
+  > So you have sorrow now, but I will see you again and your hearts will rejoice, and no one will take your joy from you.
+
+- 17:21
+
+  > ἵνα πάντες ἓν ὦσιν, καθὼς σύ, πάτερ, ἐν ἐμοὶ κἀγὼ ἐν σοί, ἵνα καὶ αὐτοὶ ἐν ἡμῖν ὦσιν, ἵνα ὁ κόσμος πιστεύῃ ὅτι σύ με ἀπέστειλας.
+
+  > ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et ipsi in nobis unum sint: ut credat mundus, quia tu me misisti.
+
+  > that they may all be one; even as thou, Father, art in me, and I in thee, that they also may be in us, so that the world may believe that thou hast sent me.
+
 ## Romans
 
 - 1:16
@@ -1347,6 +1563,78 @@ One verse from every chapter of every book of the Catholic Bible.
   > Arbitramur enim justificari hominem per fidem sine operibus legis.
 
   > For we maintain that a person is justified by faith apart from the works of the law.
+
+- 4:15
+
+  > ὁ γὰρ νόμος ὀργὴν κατεργάζεται· οὗ δὲ οὐκ ἔστιν νόμος οὐδὲ παράβασις.
+
+  > Lex enim iram operatur. Ubi enim non est lex, nec praevaricatio.
+
+  > because the law brings wrath. And where there is no law there is no transgression.
+
+- 5:8
+
+  > συνίστησιν δὲ τὴν ἑαυτοῦ ἀγάπην εἰς ἡμᾶς ὁ θεός, ὅτι ἔτι ἁμαρτωλῶν ὄντων ἡμῶν Χριστὸς ὑπὲρ ἡμῶν ἀπέθανεν.
+
+  > Commendat autem caritatem suam Deus in nobis: quoniam cum adhuc peccatores essemus, secundum tempus, Christus pro nobis mortuus est:
+
+  > But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.
+
+- 6:23
+
+  > τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ θεοῦ ζωὴ αἰώνιος ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν.
+
+  > Stipendia enim peccati, mors. Gratia autem Dei, vita aeterna, in Christo Jesu Domino nostro.
+
+  > For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
+
+- 7:15
+
+  > ὃ γὰρ κατεργάζομαι οὐ γινώσκω· οὐ γὰρ ὃ θέλω τοῦτο πράσσω, ἀλλ’ ὃ μισῶ τοῦτο ποιῶ.
+
+  > Quod enim operor, non intelligo: non enim quod volo bonum, hoc ago: sed quod odi malum, illud facio.
+
+  > I do not understand what I do. For what I want to do I do not do, but what I hate I do.
+
+- 8:28
+
+  > Οἴδαμεν δὲ ὅτι τοῖς ἀγαπῶσιν τὸν θεὸν πάντα συνεργεῖ εἰς ἀγαθόν, τοῖς κατὰ πρόθεσιν κλητοῖς οὖσιν.
+
+  > Scimus autem quoniam diligentibus Deum omnia cooperantur in bonum, iis qui secundum propositum vocati sunt sancti.
+
+  > And we know that in all things God works for the good of those who love him, who have been called according to his purpose.
+
+- 9:30
+
+  > Τί οὖν ἐροῦμεν; ὅτι ἔθνη τὰ μὴ διώκοντα δικαιοσύνην κατέλαβεν δικαιοσύνην, δικαιοσύνην δὲ τὴν ἐκ πίστεως,
+
+  > Quid ergo dicemus? Quod gentes, quae non sectabantur justitiam, apprehenderunt justitiam: justitiam autem, quae ex fide est.
+
+  > What then shall we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith;
+
+- 10:9
+
+  > ὅτι ἐὰν ὁμολογήσῃς ἐν τῷ στόματί σου κύριον Ἰησοῦν καὶ πιστεύσῃς ἐν τῇ καρδίᾳ σου ὅτι ὁ θεὸς αὐτὸν ἤγειρεν ἐκ νεκρῶν, σωθήσῃ
+
+  > Quia si confitearis in ore tuo Dominum Jesum, et in corde tuo credideris quod Deus illum suscitavit a mortuis, salvus eris.
+
+  > If you declare with your mouth, "Jesus is Lord," and believe in your heart that God raised him from the dead, you will be saved.
+
+- 15:7
+
+  > Διὸ προσλαμβάνεσθε ἀλλήλους, καθὼς καὶ ὁ Χριστὸς προσελάβετο ὑμᾶς εἰς δόξαν τοῦ θεοῦ.
+
+  > Propter quod suscipite invicem, sicut et Christus suscepit vos in honorem Dei.
+
+  > Welcome one another, therefore, as Christ has welcomed you, for the glory of God.
+
+- 16:18
+
+  > οἱ γὰρ τοιοῦτοι τῷ κυρίῳ ἡμῶν Χριστῷ οὐ δουλεύουσιν ἀλλὰ τῇ ἑαυτῶν κοιλίᾳ, καὶ διὰ τῆς χρηστολογίας καὶ εὐλογίας ἐξαπατῶσιν τὰς καρδίας τῶν ἀκάκων.
+
+  > Hujuscemodi enim Christo Domino nostro non serviunt, sed suo ventri: et per dulces sermones et benedictiones seducunt corda innocentium.
+
+  > For such persons do not serve our Lord Christ, but their own appetites, and by fair and flattering words they deceive the hearts of the simple-minded.
 
 ## 1 Corinthians
 
@@ -1911,3 +2199,23 @@ One verse from every chapter of every book of the Catholic Bible.
   > Nos ergo diligamus quoniam Deus prior dilexit nos.
 
   > We love, because he first loved us.
+
+## 2 John
+
+- 6
+
+  > καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ· αὕτη ἡ ἐντολή ἐστιν, καθὼς ἠκούσατε ἀπ’ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.
+
+  > Et haec est caritas, ut ambulemus secundum mandata ejus. Hoc est enim mandatum, ut quemadmodum audistis ab initio, in eo ambuletis.
+
+  > And this is love, that we follow his commandments; this is the commandment, as you have heard from the beginning, that you follow love.
+
+## 3 John
+
+- 11
+
+  > Ἀγαπητέ, μὴ μιμοῦ τὸ κακὸν ἀλλὰ τὸ ἀγαθόν. ὁ ἀγαθοποιῶν ἐκ τοῦ θεοῦ ἐστιν· ὁ κακοποιῶν οὐχ ἑώρακεν τὸν θεόν.
+
+  > Carissime, noli imitari malum, sed quod bonum est. Qui benefacit, ex Deo est: qui malefacit, non vidit Deum.
+
+  > Beloved, do not imitate evil but imitate good. He who does good is of God; he who does evil has not seen God.
