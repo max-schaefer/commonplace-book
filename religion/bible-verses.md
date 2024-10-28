@@ -9,6 +9,16 @@ One verse from every chapter of every book of the Catholic Bible.
 - Latin: Vulgate via [sacred-texts.com](https://sacred-texts.com/bib/vul/)
 - English: Revised Standard Version Catholic Edition via [biblegateway.com](https://www.biblegateway.com)
 
+## Genesis
+
+- 1:1
+
+  > בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ:
+
+  > In principio creavit Deus caelum et terram.
+
+  > In the beginning God created the heavens and the earth.
+
 ## Leviticus
 
 - 24:15
@@ -1378,19 +1388,75 @@ One verse from every chapter of every book of the Catholic Bible.
 
 - 12:31
 
-  - Διὰ τοῦτο λέγω ὑμῖν, πᾶσα ἁμαρτία καὶ βλασφημία ἀφεθήσεται τοῖς ἀνθρώποις, ἡ δὲ τοῦ πνεύματος βλασφημία οὐκ ἀφεθήσεται.
+  > Διὰ τοῦτο λέγω ὑμῖν, πᾶσα ἁμαρτία καὶ βλασφημία ἀφεθήσεται τοῖς ἀνθρώποις, ἡ δὲ τοῦ πνεύματος βλασφημία οὐκ ἀφεθήσεται.
 
-  - Ideo dico vobis: Omne peccatum et blasphemia remittetur hominibus, Spiritus autem blasphemia non remittetur.
+  > Ideo dico vobis: Omne peccatum et blasphemia remittetur hominibus, Spiritus autem blasphemia non remittetur.
 
-  - Therefore I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven.
+  > Therefore I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven.
 
 - 13:17
 
-  - ἀμὴν γὰρ λέγω ὑμῖν ὅτι πολλοὶ προφῆται καὶ δίκαιοι ἐπεθύμησαν ἰδεῖν ἃ βλέπετε καὶ οὐκ εἶδαν, καὶ ἀκοῦσαι ἃ ἀκούετε καὶ οὐκ ἤκουσαν.
+  > ἀμὴν γὰρ λέγω ὑμῖν ὅτι πολλοὶ προφῆται καὶ δίκαιοι ἐπεθύμησαν ἰδεῖν ἃ βλέπετε καὶ οὐκ εἶδαν, καὶ ἀκοῦσαι ἃ ἀκούετε καὶ οὐκ ἤκουσαν.
 
-  - Amen quippe dico vobis, quia multi prophetae et justi cupierunt videre quae videtis, et non viderunt: et audire quae auditis, et non audierunt.
+  > Amen quippe dico vobis, quia multi prophetae et justi cupierunt videre quae videtis, et non viderunt: et audire quae auditis, et non audierunt.
 
-  - Truly, I say to you, many prophets and righteous men longed to see what you see, and did not see it, and to hear what you hear, and did not hear it.
+  > Truly, I say to you, many prophets and righteous men longed to see what you see, and did not see it, and to hear what you hear, and did not hear it.
+
+- 14:20
+
+  > καὶ ἔφαγον πάντες καὶ ἐχορτάσθησαν, καὶ ἦραν τὸ περισσεῦον τῶν κλασμάτων δώδεκα κοφίνους πλήρεις.
+
+  > Et manducaverunt omnes, et saturati sunt. Et tulerunt reliquias, duodecim cophinos fragmentorum plenos.
+
+  > And they all ate and were satisfied. And they took up twelve baskets full of the broken pieces left over.
+
+- 15:28
+
+  > τότε ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν αὐτῇ· ὦ γύναι, μεγάλη σου ἡ πίστις· γενηθήτω σοι ὡς θέλεις. καὶ ἰάθη ἡ θυγάτηρ αὐτῆς ἀπὸ τῆς ὥρας ἐκείνης.
+
+  > Tunc respondens Jesus, ait illi: O mulier, magna est fides tua: fiat tibi sicut vis. Et sanata est filia ejus ex illa hora.
+
+  > Then Jesus answered her, “O woman, great is your faith! Be it done for you as you desire.”
+
+- 16:18
+
+  > κἀγὼ δέ σοι λέγω ὅτι σὺ εἶ Πέτρος, καὶ ἐπὶ ταύτῃ τῇ πέτρᾳ οἰκοδομήσω μου τὴν ἐκκλησίαν καὶ πύλαι ᾅδου οὐ κατισχύσουσιν αὐτῆς.
+
+  > Et ego dico tibi, quia tu es Petrus, et super hanc petram aedificabo Ecclesiam meam, et portae inferi non praevalebunt adversus eam.
+
+  > And I tell you, you are Peter, and on this rock I will build my church, and the powers of death shall not prevail against it.
+
+- 17:5
+
+  > ἔτι αὐτοῦ λαλοῦντος ἰδοὺ νεφέλη φωτεινὴ ἐπεσκίασεν αὐτούς, καὶ ἰδοὺ φωνὴ ἐκ τῆς νεφέλης λέγουσα· οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα· ἀκούετε αὐτοῦ.
+
+  > Adhuc eo loquente, ecce nubes lucida obumbravit eos. Et ecce vox de nube, dicens: Hic est Filius meus dilectus, in quo mihi bene complacui: ipsum audite.
+
+  > He was still speaking, when lo, a bright cloud overshadowed them, and a voice from the cloud said, “This is my beloved Son, with whom I am well pleased; listen to him.”
+
+- 18:3
+
+  > καὶ εἶπεν· ἀμὴν λέγω ὑμῖν, ἐὰν μὴ στραφῆτε καὶ γένησθε ὡς τὰ παιδία, οὐ μὴ εἰσέλθητε εἰς τὴν βασιλείαν τῶν οὐρανῶν.
+
+  > et dixit: Amen dico vobis, nisi conversi fueritis, et efficiamini sicut parvuli, non intrabitis in regnum caelorum.
+
+  > and said, “Truly, I say to you, unless you turn and become like children, you will never enter the kingdom of heaven.
+
+- 19:24
+
+  > πάλιν δὲ λέγω ὑμῖν, εὐκοπώτερόν ἐστιν κάμηλον διὰ τρυπήματος ῥαφίδος διελθεῖν ἢ πλούσιον εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ θεοῦ.
+
+  > Et iterum dico vobis: Facilius est camelum per foramen acus transire, quam divitem intrare in regnum caelorum.
+
+  > Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.”
+
+- 20:28
+
+  > ὥσπερ ὁ υἱὸς τοῦ ἀνθρώπου οὐκ ἦλθεν διακονηθῆναι ἀλλὰ διακονῆσαι καὶ δοῦναι τὴν ψυχὴν αὐτοῦ λύτρον ἀντὶ πολλῶν.
+
+  > Sicut Filius hominis non venit ministrari, sed ministrare, et dare animam suam redemptionem pro multis.
+
+  > even as the Son of man came not to be served but to serve, and to give his life as a ransom for many.
 
 - 26:26
 
