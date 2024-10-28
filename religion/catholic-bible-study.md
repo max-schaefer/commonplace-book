@@ -97,3 +97,40 @@
 
 - The Gentile woman is described as a "Canaanite", a term which had been obsolete for over a thousand years by the time Matthew was written. She refers to Jesus as "Son of David", with David being the king who finally conquered the Canaanites.
 - The feeding of the four thousand is a parallel to the feeding of the five thousand, but this time the crowd is Gentile rather than Jewish, as indicated by the different words used for the baskets left over: κοφίνους for the five thousand vs σπυρίδας for the four thousand. Another subtle difference is the word used for "blessing": εὐλογεῖν for the five thousand vs εὐχαριστεῖν for the four thousand. While initially synonymous, from the second century onwards, εὐχαριστεῖν became associated with the Eucharist and hence Christianity, so Jews started using εὐλογεῖν instead.
+
+### Chapter 16
+
+- In response to Peter's confession of Jesus as the Christ, the Son of the Living God, Jesus answers in an almost entirely parallel way, labelling Simon as Peter, the Son of Jonah.
+- The parallel with Jonah is significant: just as Jonah was sent by God into the capital of Israel's enemy Assyria and managed to convert them, so Peter will be sent into the capital of Israel's enemy Rome and manage to convert them. (And of course we know from the Gospel of John that Peter's father wasn't named Jonah at all, but Jochanan, so this is clearly symbolic.)
+- The emphasis on the "living" God may be in contrast to the idols whose temples were found in Caesarea Philippi, and also closely parallels the question asked by Caiaphas before the Sanhedrin: "I adjure you by the living God, tell us if you are the Christ, the Son of God." (Matthew 26:63)
+- As Origen observes, Jesus gives Peter authority to bind and loοse in the Heavens (plural), while later on a similar authority is given to the disciples, but only in reference to Heaven (singular). This may just be down to the fact that the Hebrew word for Heaven, שמים, is a dual/plural form, as is its Aramaic equivalent ܫܡܝܐ, but it may also indicate a special status for Peter.
+- But even Peter's special authority does not allow him to go against God's will, as exemplified in the rebuke he gets from Jesus immediately afterwards when he protests against the first prophecy of his passion. One wonders whether Peter's confession would have been quite to forthright if he had realised that Jesus would soon go to his death and leave him in charge.
+- "Get thee behind me, Satan" - the Greek for "behind me" is "ὀπίσω μου", which is the same phrase used in the calling of Peter in Matthew 4:19: he is not telling Peter to go away (like he did to Satan in the desert: "ὕπαγε", Matthew 4:10), but to fall in line.
+- Jesus calls Peter a σκάνδαλον, literally a "stumbling stone", just a few verses after naming him "Rock" (Petros, Πέτρος).
+- Jesus' foretelling of his being handed over to the Gentiles to be killed and rising after three days also has some parallels with Daniel 7:25, where the saints are given into the hands of the fourth beast for a time and times and half a time.
+
+### Chapter 17
+
+- The presence of Moses and Elijah in the transfiguration is a reference to the Law and the Prophets. Also, both Moses and Elijah got very close to seeing God, but ultimately were denied this privilege, Moses seeing God from behind and Elijah sensing his presence in the gentle breeze; now they finally get to see him face to face. For Moses, this is additionally a fulfilment of his longing to enter the Promised Land, which he was forbidden to do during his lifetime.
+- There are parallels between Moses ascending Mount Sinai to receive the Law and Jesus ascending Mount Tabor to be transfigured. For example, both ascend on the seventh day, and both take three companions. Jesus' face shines like the sun, similar to Moses' face shining after his descent from Mount Sinai.
+- In a practical application of the power of the keys, Peter (hastily?) commits Jesus to paying the temple tax, and he obliges, but in a way that preserves his special status as the Son of the King (= God) to whom the tax is owed.
+
+### Chapter 18
+
+- The hyperbolic language of cutting off one's hand or foot or plucking out one's eye may be a reference to the story of the Maccabean martyrs in 2 Maccabees 7, who prefer the loss of their limbs to the loss of their souls.
+- The story of the unforgiving servant contains what has been interpreted as an oblique reference to purgatory: the servant is thrown into prison until he pays back his debt, which is impossible for him to do. This is a reference to the doctrine of the Church that some sins can be forgiven in the next life, but only after a period of purification.
+
+### Chapter 19
+
+- Jesus' teaching on divorce is given in the Transjordan, which is doubly significant: first, because it is the territory of Herodes Antipas, who had John the Baptist killed for criticising his divorce and remarriage; and second, because it is the place where Moses gave his discourse on the Law in Deuteronomy, allowing divorce which had not previously been mentioned.
+- The rabbis' teachings on divorce were various, with Shammai only allowing it in case of adultery, Hillel for spoiling a meal, and Akiva even for finding a prettier wife.
+- The proviso of "εἰ μὴ ἐπὶ πορνείᾳ" has been interpreted as referring to incestuous relationships where the marriage was never valid in the first place, though this seems to be a modern interpretation. The more traditional interpretation is that there may be cases where a civil divorce is licit, but the marriage bond remains in the eyes of God and hence remarriage is always excluded. This interpretation has the support even of Protestant scholars like Ulrich Luz.
+- From his discussion of marriage, Jesus moves on to a discussion of celibacy. His teachings on both of these subjects are hard: οὐ πάντες χωροῦσιν τὸν λόγον τοῦτον, and ὁ δυνάμενος χωρεῖν χωρείτω.
+- In the story of the rich young man who asks Jesus which commandments he must keep to inherit eternal life, Jesus answers with a list of commandments exclusively from the second tablet of the decalogue, which are all about loving one's neighbour. His added commandment to sell all one's possessions may be understood as summarising the first tablet of the decalogue, about loving God more than anything else.
+- The odd turn of phrase in 19:24, "εὐκοπώτερόν ἐστιν κάμηλον διὰ τρήματος ῥαφίδος διελθεῖν" has been interpreted (e.g., by St Thomas More) as a scribe's error mistaking κάμιλον (rope) for κάμηλον (camel).
+
+### Chapter 20
+
+- The parable of the workers in the vineyard can in context be understood in two ways: either as referring back to the rich young man, indicating that he might yet have a change of heart and be saved, or as a warning to the disciples that they should not be haughty even though they were called first.
+- It does not devalue work, but shows that God can take our own insufficient efforts and perfect them.
+- The request of the mother of James and John that her sons be seated at Jesus' right and left hand in his kingdom does not necessarily refer to the end of days. The one other time in the Gospel of Matthew that she is mentioned in connection with someone to the right and the left of Jesus is at the crucifixion, where the two thieves are crucified to his right and left. She does not know what she is asking for!
