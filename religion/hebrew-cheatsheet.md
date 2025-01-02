@@ -11,6 +11,7 @@ akeidah | עקידה | binding (of Isaac)
 akharonim | אחרונים | [sages of the modern era](https://en.wikipedia.org/wiki/Acharonim)
 aliyah (pl. aliyot) | עליה (עליות) | [Torah reading](https://en.wikipedia.org/wiki/Aliyah_(Torah))
 aron (ha-berit) | ארון (הברית) | Ark (of the Covenant)
+ashurit | אַשּׁוּרִית | Hebrew square script
 assur | אסור | forbidden
 avodah | עבודה | service
 avodah zarah | עבודה זרה | idolatry
