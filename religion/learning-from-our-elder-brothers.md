@@ -140,6 +140,8 @@ The story ends on a sombre note: this would have been Hezekiah's chance to extol
 
 [The Tanakh Podcast](https://open.spotify.com/episode/1GRj4SirUudsz300qsd5AK?si=YVbmqiOiRQS6Zw9vWs8ZcQ&t=657) mentions a pronouncement ascribed to Rabbi Avina in the Talmud ([Berakhot 4b][https://www.sefaria.org/Berakhot.4b.16?lang=bi&with=all&lang2=en]) that anyone who recites this psalm three times a day is guaranteed a place in the World to Come. They further point out that in the overall acrostic structure of the psalm, verses 11-13, beginning with the Hebrew letters כ-ל-מ respectively, each mention the word "kingdom" (מלוכה), and of course כלמ is מלכ ("king") spelled backwards.
 
+A student on the Tehillim Podcast gives a fascinating explanation of the qere וּגְדֻלָּתְךָ (for וּגְדֻלּוֹתֶיךָ) in verse 6: by turning the plural into a singular, the psalmist is saying that God's greatness is not just a collection of great things, but a single, indivisible whole.
+
 ## Isaiah
 
 ### Chapter 7
