@@ -24,6 +24,10 @@ On the whole I cannot recommend listening to this episode, however: Livi, like m
 
 [Another episode](https://open.spotify.com/episode/1ftahn1vQI4cBFj9erjiZp?si=f4uVcrpxQ2yrfQgiC711Qw) of the Parashah Podcast makes a fascinating observation on the question God asks Adam after the Fall: "Where are you?" The Hebrew is "אַיֶּכָּה" (ayekah), and the same wording is used in two other places in the Torah: God asks Cain "Where is Abel your brother?" (Genesis 4:9), and Isaac asks his father "Where is the lamb for the burnt offering?" (Genesis 22:7). In all three cases, the question is not so much about the location of something but about the reason for its absence, asking for an explanation rather than information.
 
+### Parashah Lekh Lekha (Genesis 12:1-17:27)
+
+In Genesis 14:23, the Malbim has an interesting take on the phrase "lest you say, 'I have made Abram rich'", understanding "you" not as a reference to the King of Sodom, but rather to Abram's hand (which he has just raised to God in a vow): the victory, and hence the spoils, are not due to Abram's own strength, but to God's help.
+
 ## Exodus
 
 ### Parashah Terumah (Exodus 25:1-27:19)
@@ -167,3 +171,9 @@ A student on the Tehillim Podcast gives a fascinating explanation of the qere ו
 [The Tanakh Podcast](https://open.spotify.com/episode/6oBBL9YRJmXrPDTCrnXPO8?si=UQyv5HrlSNOiRZSV_J-eAw): Verse 12: "I wrote for them the many things of my law, but they regarded them as something foreign." This is usually interpreted to mean that the Israelites did not keep the Torah, but there is a fascinating alternative interpretation in the Talmud ([Midrash Tankhuma, Ki Tisa 34](https://www.sefaria.org/Midrash_Tanchuma%2C_Ki_Tisa.34.1?lang=bi)): "when the Holy One, blessed be He, said to Moses 'Write thou' [_sc._ the Torah], Moses wanted to write the Mishnah as well. However, the Holy One, blessed be He, foresaw that ultimately the nations of the world would translate the Torah into the Greek language and would claim: 'We are the Israelites.' Now the scales are balanced (as to who are His people). The Holy One, blessed be He, can say to the nations of the world: 'You claim that you are My children, but I know that only those who know My secrets are My children. Where are His secrets (to be found)? In the Mishnah, which was given orally, and from which everything can be derived. (...) Why do you wish the Mishnah to be written? What would be the difference, then, between the peoples of the world and Israel?'"
 
 Intriguing as this interpretation is, one might object that it wasn't "the nations of the world" who translated the Torah into Greek; after all, the Septuagint predates Christianity by a couple of centuries and was prepared by Jews.
+
+## Job
+
+### Chapter 18
+
+Bildad's rhetorical question in 18:4 "You who tear yourself to pieces in your anger, is the earth to be abandoned for your sake?" is cited by the Talmud ([Berakhot 1:20](https://www.sefaria.org/Job.18.4?lang=bi&p2=Ein_Yaakov_(Glick_Edition)%2C_Berakhot.1.20&lang2=bi)) in a story about two friends who prayed together at the synagogue, and one of them left after finishing his prayers without waiting for the other. His prayers, the Talmud says, are torn to pieces.
