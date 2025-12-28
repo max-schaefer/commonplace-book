@@ -1,5 +1,13 @@
 # Augustine: Confessions
 
+Structure:
+  - Chapter 1: His youth
+  - Chapter 2-4: He succumbs to the three major temptations outlined in 1 John: the lust of the flesh, the lust of the eyes, and the pride of life
+  - Chapter 5: His conversion
+  - Chapter 6-8: He overcomes the three temptations
+  - Chapter 9: His baptism
+  - Chapter 10-13: Scriptural reflections and prayers
+
 ## Book 1, Chapter 1
 
 > Our heart is restless until it rests in you.

@@ -15,3 +15,7 @@ The instruction to build the Ark of the Covenant is given in the plural, whereas
 ## Psalm 19
 
 In the translation of verse 12 (or 13 in the Hebrew numbering), almost all English translations (including the JPS) render "שְׁגִיא֥וֹת מִֽי־יָבִ֑ין" as "Who can understand his errors?" or variations thereof. But as a few translations indicate by italicisation, the "his" is not in the Hebrew text. The Vulgate (and following it the Douay-Rheims, but also the LXX and the YLT) is more precise, translating "delicta quis intelligit" or "errores quis intelleget" (depending on the psalter).
+
+## Galatians 2:16
+
+The Vulgate seems to be one of the few translations that brings out the force of the Greek "ἐὰν μὴ", which it (quite sensibly) translates as "nisi". Most English translations have "but", thereby altering the thrust of the verse (arguably into a sola-fideistic direction): "man is not justified by works of the law _but_ through faith in Jesus Christ" is not the same as "man is justified by works of the law _except_ through faith in Jesus Christ". (Disciples' Literal New Testament, the Lexham English Bible and Young's Literal Translations are the only English translations on Bible Gateway that get this right.)
