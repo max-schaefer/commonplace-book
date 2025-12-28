@@ -24,15 +24,55 @@ On the whole I cannot recommend listening to this episode, however: Livi, like m
 
 [Another episode](https://open.spotify.com/episode/1ftahn1vQI4cBFj9erjiZp?si=f4uVcrpxQ2yrfQgiC711Qw) of the Parashah Podcast makes a fascinating observation on the question God asks Adam after the Fall: "Where are you?" The Hebrew is "אַיֶּכָּה" (ayekah), and the same wording is used in two other places in the Torah: God asks Cain "Where is Abel your brother?" (Genesis 4:9), and Isaac asks his father "Where is the lamb for the burnt offering?" (Genesis 22:7). In all three cases, the question is not so much about the location of something but about the reason for its absence, asking for an explanation rather than information.
 
+Grumet's book on Genesis presents an interesting interpretation of Lemekh's words in Genesis 4:23-24. As Christians, we instinctively connect it to Jesus' injunction to forgive seventy times seven (Matthew 18:21-22), but Grumet suggests that the somewhat obscure wording can actually be translated as a protestation of innocence.
+
+### Parashah Noach (Genesis 6:9-11:32)
+
+Grumet points out that the juxtaposition of a first creation narrative using YHWH followed by a second one using Elohim is mirrored by a first description of the Flood using Elohim followed by a second one using YHWH. This underscores the role of the Flood as a kind of un-creation.
+
+After the building of the tower of Babel, God "coming down to see the city and the tower" (Genesis 11:5) can be understood ironically: the people of Babel wanted to build a tower that would reach heaven, but they fail; God still has to come down to see it.
+
 ### Parashah Lekh Lekha (Genesis 12:1-17:27)
 
 In Genesis 14:23, the Malbim has an interesting take on the phrase "lest you say, 'I have made Abram rich'", understanding "you" not as a reference to the King of Sodom, but rather to Abram's hand (which he has just raised to God in a vow): the victory, and hence the spoils, are not due to Abram's own strength, but to God's help.
 
+- Zvi Grumet: Terah's departure from Mesopotamia seems to coincide with the Fall of the Tower of Babel
+- Zvi Grumet: his sons are the first to be described as having "taken wives" (Genesis 11:29), indicating that family was becoming more important among Terah and his descendants (though the name of Terah's wife is not given)
+- Zvi Grumet: the text says "at that time, the Canaanite was in the land" (Genesis 12:6), which is often cited as evidence that the Book of Genesis was written long after the events it depicts, but Grumet points out that later on the text says "the Canaanite and the Perizzite were then in the land" (Genesis 13:7), and then later expands that list to 10 nations (Genesis 15:19-21); he sees this as a subtle indication that Abraham's hesitance in taking possession of the land creates an opportunity for other nations to settle there, foreshadowing future conflict
+- Israel: when Abraham and Lot part ways, Abraham asks Lot to choose between going left or right, i.e., north or south; Lot, however, chooses east, almost taking him out of the Promised Land
+- Zvi Grumet: when the three angels come to Abraham, they are not really reprimanding Sarah, but rather Abraham, for not telling her about the promise of a son earlier
+- Zvi Grumet: when Sarah rebukes Abraham for his relationship with Hagar, she is perhaps really rebuking him for abandoning her during their sojourn in Egypt
+- Zvi Grumet: after the Akedah, Abraham seems to live apart from Sarah and Isaac; while earlier he prioritised family over fulfilling God's command to enter and possess the land, he now prioritises obedience to God over family, to the point of estrangement
+- Grumet points out the frequent use of the phrase "naker na" ("see here") in the story of Jacob and his sons: it is used when Jacob tricks Isaac into giving him the blessing, when Joseph's brothers bring his coat to Jacob, when Tamar presents the evidence of Judah's paternity to him, and when Joseph reveals himself to his brothers.
+- He also mentions one reason for the apparent reticence of Joseph to reveal himself to his brothers: he can't be sure that his father wasn't in on the plan to sell him.
+- Conversely, when the brothers return from Egypt with both grain and money but without Simeon, Jacob might easily conclude that they sold Simeon into slavery, thus perhaps giving him a clue about the real fate of Joseph.
+- The goods Jacob sends with his sons to Egypt are exactly the same as those carried by the caravan that trafficked Joseph into Egypt (Genesis 37:25).
+- Throughout Genesis, marrying a non-Jewish wife is the way to disqualify oneself from the covenant (Ishmael marries an Egyptian, Esau marries Hittite women). Both Judah and Joseph seem to be going the same way, marrying a Canaanite and an Egyptian respectively, but ultimately they become the progenitors of the two main branches of the Jewish people, Judah and Ephraim/Manasseh. But of course one could argue that eventually Joseph's posterity also leaves the covenant by splitting off the Northern Kingdom from the Kingdom of Judah, so perhaps Joseph isn't really a counterexample after all. (This would harmonise with the Jewish tradition according to with Tamar is actually Jewish: Judah's marrying a Canaanite is merely a misstep, which he rectifies, allowing him to emerge as the true leader of the Jewish people.)
+
+### Parashah Vayekhi (Genesis 47:28-50:26)
+
+- Grumet: The phrase "may they flourish like fish in the midst of the land" in Jacob's blessing of Ephraim and Manasseh sounds a bit tongue-in-cheek, since fish don't actually flourish on land; perhaps Jacob is being ironic about the fact that his descendants will be living in a foreign land (Egypt) where they cannot thrive as they would in their own land (Canaan).
+- Grumet: He prefers the younger Ephraim over Manasseh because Manasseh's name expresses a desire to leave Canaan behind and adopt Egypt as his home, while Ephraim's name contains an allusion to Egypt as a land of oppression.
+- Jacob's blessing of Judah includes both blessings for a farmer (wine) and a shepherd (milk), indicating on one hand that Judah's territory will be so big that it accommodates both farmers and shepherds, but perhaps also resolving the tension between the two vocations which goes all the way back to Cain and Abel.
+
 ## Exodus
+
+- first chapter contains almost no names, perhaps to emphasise the anonymity and powerlessness of the Israelites in Egypt
+- Before the Battle with Amalek, Moses announces that he will "stand on the top of the hill with the staff of God in [my] hand" (Exodus 17:9). But strangely enough during the battle itself there is no further mention of the staff. Nachmanides suggests that Moses thought the battle would be won through divine intervention with him simply waving his staff and thereby defeating the enemy (much like he waved the staff to part the Red Sea), but in actual fact the Israelites had to fight the battle themselves and Moses had to hold up his hands to exhaustion. Thus God slowly started weaning the Israelites off their dependence on miracles and towards self-reliance.
+
+### Parashah Yitro (Exodus 18:1-20:23)
+
+- The story of Jethro serves as a bridge between the battle with Amalek and the giving of the Torah: unlike Amalek, Jethro is a friendly pagan who recognises the power of God (so not all pagans are enemies of Israel; noted by Ibn Ezra), and he offers sage advice (so there is wisdom to be found among all nations).
+
+### Parashah Mishpatim (Exodus 21:1-24:18)
+
+- The laws given in this parashah can be seen as an explication of the Ten Commandments given in the previous parashah, fleshing them out with practical applications. For example, the commandment "Thou shalt not steal" (Exodus 20:15) is expanded into a series of laws about theft and restitution (Exodus 22:1-15); the commandment "Thou shalt not bear false witness" (Exodus 20:16) is expanded into laws about judicial procedure (Exodus 23:1-9); and the commandment to keep the Sabbath (Exodus 20:8-11) is expanded into various laws about rest and festivals (Exodus 23:10-19).
 
 ### Parashah Terumah (Exodus 25:1-27:19)
 
 [The Parashah Podcast](https://open.spotify.com/episode/1UpDsdabywQyc11onGMUi1?si=7af05dd606134aef): The instructions to build the altar and the table are given in the singular, whereas the instruction to build the ark is in the plural.[^1] In Midrashic interpretation, the altar is associated with the High Priest and the table with the king, of which there is only one each; the ark, on the other hand, is associated with the Torah, which is for everyone.
+
+[The Tanakh Podcast](https://open.spotify.com/episode/1FzY7fJ1WP50GVPKLf9xUu?si=a56470ac19544cf1) discusses the coverings of the Tent of Meeting: the inner covering is made from precious materials, while the outer is from goat hair, which is a coarse, black, humble material. Tradition connects this with Song of Songs 1:5: "I am very dark, but lovely, O daughters of Jerusalem, like the tents of Kedar, like the curtains of Solomon."
 
 [^1]: So also in the Vulgate, but interestingly not in the Septuagint, which has the singular in all three cases.
 
@@ -112,6 +152,8 @@ In the former case, the Canaanite cities first have to be offered peace. Only if
 
 The opinion of Rashi is what I have more generally heard in Christian interpretation. To a modern mind Ramban's interpretation is undeniably more palatable, but I wonder whether it is not just the easy way out.
 
+[The Parashah Podcast](https://open.spotify.com/episode/2PgDik3TUuNYUuIs80f64L?si=c4a747e739334912) cites an opinion of Rabbi Eliezer Melamed that the command of total destruction is to be seen relative to the standards of warfare at the time, and simply means that the Canaanites are to be treated according to the full force of the contemporary rules of war. In later times, of course, these rules have changed, and so the application of this commandment changes accordingly.
+
 ## Parashah Ki Teitzei (Deuteronomy 21:10-25:19)
 
 [The Parashah Podcast](https://open.spotify.com/episode/0JgpIj1cBT9tkDaesutjyD?si=Fhld6Z9cSF-10ALD2dz4XQ) discusses a curious Gemara on the Mitzvah of sending away the mother bird before taking her eggs (Deuteronomy 22:6-7): [Berakhot 33b.16](https://www.sefaria.org/Berakhot.33b.16?lang=bi) says that anyone who prays that God should have mercy on him like on the mother bird should be silenced. Some suggest that this is because the prayer assumes that the reason for the mitzvah is mercy on the mother bird, but this is presumptuous: we cannot know the reasons for the mitzvot, or whether they even have reasons at all, so this prayer is an undue rationalisation and therefore dangerous.
@@ -119,6 +161,12 @@ The opinion of Rashi is what I have more generally heard in Christian interpreta
 ## Parashah Vezot Haberakhah (Deuteronomy 33:1-34:12)
 
 [The Parashah Podcast](https://open.spotify.com/episode/36SAMTBHr50OJUqMKZWXWH?si=_UeM9nPZTEaFpn7-Bf1FPw) discusses a beautiful Gemara building upon the idea that Moses was buried by God himself ([Sotah 14a.3f](https://www.sefaria.org/Sotah.14a.3)): "Rabbi Khama (...) says: What is the meaning of that which is written: 'After the Lord your God shall you walk (...)?' Is it actually possible for a person to follow the Divine Presence? Hasn't it already been stated: 'For the Lord your God is a devouring fire, a jealous God', and one cannot approach fire. (...) Rather, the meaning is that one should follow the attributes of the Holy One, Blessed be He. He provides several examples. Just as He clothes the naked, as it is written: 'And the Lord God made for Adam and for his wife garments of skin, and clothed them', so too should you clothe the naked. Just as the Holy One, Blessed be He, visits the sick, as it is written with regard to God's appearing to Abraham following his circumcision: 'And the Lord appeared unto him by the terebinths of Mamre', so too should you visit the sick. Just as the Holy One, Blessed be He, consoles mourners, as it is written: 'And it came to pass after the death of Abraham, that God blessed Isaac his son', so too should you console mourners. Just as the Holy One, Blessed be He, buries the dead, as it is written: 'And He buried him in the valley', so too should you bury the dead." I find the idea of God Himself performing what the Christian tradition calls the Corporal Works of Mercy very touching.
+
+## 1 Samuel
+
+### Chapter 12
+
+The Navi Podcast cites a cute idea from Amnon Bazak explaining why God punishes Israel's asking for a king by sending rain during the wheat harvest: just like rain is in and of itself a good thing, but very damaging when it falls at the wrong time (during the harvest), so too having a king is a good thing per se, but it is damaging when the people ask for it for the wrong reasons (in order to be like the gentiles).
 
 ## 2 Kings
 
@@ -171,6 +219,14 @@ A student on the Tehillim Podcast gives a fascinating explanation of the qere ו
 [The Tanakh Podcast](https://open.spotify.com/episode/6oBBL9YRJmXrPDTCrnXPO8?si=UQyv5HrlSNOiRZSV_J-eAw): Verse 12: "I wrote for them the many things of my law, but they regarded them as something foreign." This is usually interpreted to mean that the Israelites did not keep the Torah, but there is a fascinating alternative interpretation in the Talmud ([Midrash Tankhuma, Ki Tisa 34](https://www.sefaria.org/Midrash_Tanchuma%2C_Ki_Tisa.34.1?lang=bi)): "when the Holy One, blessed be He, said to Moses 'Write thou' [_sc._ the Torah], Moses wanted to write the Mishnah as well. However, the Holy One, blessed be He, foresaw that ultimately the nations of the world would translate the Torah into the Greek language and would claim: 'We are the Israelites.' Now the scales are balanced (as to who are His people). The Holy One, blessed be He, can say to the nations of the world: 'You claim that you are My children, but I know that only those who know My secrets are My children. Where are His secrets (to be found)? In the Mishnah, which was given orally, and from which everything can be derived. (...) Why do you wish the Mishnah to be written? What would be the difference, then, between the peoples of the world and Israel?'"
 
 Intriguing as this interpretation is, one might object that it wasn't "the nations of the world" who translated the Torah into Greek; after all, the Septuagint predates Christianity by a couple of centuries and was prepared by Jews.
+
+## Haggai
+
+### Chapter 1
+
+In Haggai 1:8, God says that he will be "glorified" in the new Temple. The word for "glorified" here is written "וכבד", missing the final letter ה (וְאֶכָּבֵד instead of וְאִכָּבְדָה). The Talmud ([Yoma 21b.7](https://www.sefaria.org/Yoma.21b.7?lang=bi)) picks up on this: given that the letter ה has the numerical value of five, they inferred that the Second Temple was missing five items that were present in the First Temple, viz, the Ark of the Covenant, the Fire from Heaven that consumed the sacrifices, the Divine Presence, the Holy Spirit, and the Urim and Thummim.[^1]
+
+[^1]: Catholic tradition notes that these five items were restored at Pentecost, with Mary as the new Ark of the Covenant being present among the Apostles (Acts 1:14), tongues as of fire appearing (Acts 2:3), which represented the divine presence resting on them (Acts 2:4), filling them with the Holy Spirit (Acts 2:4), and enabling them to speak in other tongues (Acts 2:4).
 
 ## Job
 

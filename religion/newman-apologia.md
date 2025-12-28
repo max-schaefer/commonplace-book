@@ -1,4 +1,4 @@
-# John Henry Newman: Apologia Pro Vita Sua
+# Apologia Pro Vita Sua
 
 ## Preface
 
@@ -25,3 +25,11 @@
 > Ten thousand difficulties do not make one doubt, as I understand the subject; difficulty and doubt are incommensurate.
 
 > In reading ecclesiastical history [...] it used to be forcibly brought home to me, how the initial error of what afterwards became heresy was the urging forward some truth against the prohibition of authority at an unseasonable time. There is a time for every thing, and many a man desires a reformation of an abuse, or the fuller development of a doctrine, of the adoptions of a particular policy, but forgets to ask himself whether the right time for it is come: and, knowing that there is no one who will be doing any thing towards its accomplishment in his own lifetime unless he does it himself, he will not listen to the voice of authority, and he spoils a good work in his own century, in order that another man, as yet unborn, may not have the opportunity of bringing it happily to perfection in the next.
+
+# The Usurpations of Reason
+
+> it is as absurd to argue men, as to torture them, into believing
+
+> To murmur and rail at the state of things under which we find ourselves, and to prefer a former state, is not merely indecorous, it is absolutely unmeaning. We are ourselves necessary parts of the existing system, out of which we have individually grown into being, into our actual position in society. Depending, therefore, on the times as a condition of existence, in wishing for other times we are, in fact, wishing we had never been born. Moreover, it is ungrateful to a state of society, from which we daily enjoy so many benefits, to rail against it. Yet there is nothing unbecoming, unmeaning, or ungrateful in pointing out its faults and wishing them away.
+
+> A really philosophical mind, if unhappily it has ruined its own religious perceptions, will be silent; it will understand that Religion does not lie in its way: it may disbelieve its truths, it may account belief in them a weakness, or, on the other hand, a happy dream, a delightful error, which it cannot itself enjoy;—any how, it will not usurp.

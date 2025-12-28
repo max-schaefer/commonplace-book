@@ -1,0 +1,1 @@
+- Al Maidah 18: "The Jews and the Christians each say, “We are the children of Allah and His most beloved!” Say, ˹O Prophet,˺ “Why then does He punish you for your sins?"

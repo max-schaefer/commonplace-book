@@ -64,38 +64,60 @@ In a public letter to the Propaganda Fide on February 5,  the date of the confer
 
 Shortly thereafter, Archbishop Costantini informed the Apostolic Vicars of the mission districts in writing of the agenda of the upcoming national synod of bishops, urging all parties to provide feedback as soon as possible.
 
-虽说历史上在华天主教传教士在中国也召开过类似的主教会议，但其范围和影响力多局限于某一个或某几个传教大区或某一修会管辖的传教区域，无一具有全国性质， [^10]因此，第一次全国主教大会的历史意义，由此可见一斑。
+虽说历史上在华天主教传教士在中国也召开过类似的主教会议，但其范围和影响力多局限于某一个或某几个传教大区或某一修会管辖的传教区域，无一具有全国性质，[^10]因此，第一次全国主教大会的历史意义，由此可见一斑。
 
 Although historically Catholic missionaries in China had also convened similar synods of bishops, their scope and influence had been limited to one or at most a few mission districts, or missionary districts under the jurisdiction of a religious order, and none of them had had a national character.[^10] The historical significance of the first national synod of bishops can be seen from this.
 
 截至第一次全国主教会议召开前夕，中国传教区的教务数字统计如下：全国教徒总数：2,263,487名、外籍传教士：1,525名、中国籍神职人员：1,187名，在办事处工作的外籍传教士：32名，外籍苦修会司铎：15名，中国籍苦修会司铎：11名。
 
-As of the eve of the First National Synod of Bishops, the ecclesiastical statistics of the Chinese mission districts were as follows: total number of Catholics in the country: 2,263,487, foreign missionaries: 1,525, Chinese clergy: 1,187, foreign missionaries working in offices: 32, foreign Trappist priests: 15, Chinese Trappist priests: 11.
+On the eve of the First National Synod of Bishops, the ecclesiastical statistics of the Chinese mission districts were as follows: total number of Catholics in the country: 2,263,487, foreign missionaries: 1,525, Chinese clergy: 1,187, foreign missionaries working in offices: 32, foreign Trappist priests: 15, Chinese Trappist priests: 11.
  
-    （一）大会性质及要素
+（一）大会性质及要素
  
-    在天主教会历史上，教务会议一般称为Synodus 或者 Concilium，系指在教会权威召集下，由主教参加，用于讨论有关信仰、道德或法律问题的集会。
+在天主教会历史上，教务会议一般称为Synodus 或者 Concilium，系指在教会权威召集下，由主教参加，用于讨论有关信仰、道德或法律问题的集会。
 
-    “Synodus”为希腊语，对应于拉丁语中的“Concilium”。“Synodus”很可能首次出现在《宗徒准则：早期教会法令集》（Apostolic canons）当中，而“Concilium”则在此之前一个多世纪就已由德尔图良在相同的意义上加以使用。“Synodus”和“Concilium”一般被视为同义词。
+In the history of the Catholic Church, a synod is generally called a _synodus_ or _concilium_, which refers to a meeting of bishops convened by ecclesiastical authority to discuss matters of faith, morals or law.
 
-    但是，随着时间的推移，“Synodus”和“Concilium”在使用上又渐渐出现一些分化，对于二者的用法也渐趋固定，如1965年9月15日由教宗保禄六世首次倡议成立的教廷机构——“世界主教大会（Synodus Episcoporum）”，其拉丁文名称就选择使用“Synodus”一词而非“Concilium”11，而对于“第二次梵蒂冈大公会议”，其拉定文固定名称则为“Sacrosanctum Oecumenicum Concilium Vaticanum II”，其中的Concilium一词也不能随意替换为“Synodus”。
+“Synodus”为希腊语，对应于拉丁语中的“Concilium”。“Synodus”很可能首次出现在《宗徒准则：早期教会法令集》（Apostolic canons）当中，而“Concilium”则在此之前一个多世纪就已由德尔图良在相同的意义上加以使用。“Synodus”和“Concilium”一般被视为同义词。
 
-    而以Concilium命名的教务会议或主教会议，一般又可分为“大公会议（Concilium oecumenicum）”、“全国主教会议（Concilium plenarium）”、“某一教省之教务会议（ Concilium provinciale）”以及“某一教区之教务会议（ Concilium diocesanum）”。
+_Synodus_ is from the Greek, corresponding to _concilium_ in Latin. _Synodus_ probably first appeared in the _Apostolic Canons_, while _concilium_ had been used by Tertullian in the same sense more than a century earlier. _Synodus_ and _concilium_ are generally regarded as synonyms.
 
-    “大公会议”为教宗召集普天下天主教而召开的会议，教宗或亲自担任主席，或委派代表担任主席。在教会历史上，迄今为止已召开了21次大公会议；
+但是，随着时间的推移，“Synodus”和“Concilium”在使用上又渐渐出现一些分化，对于二者的用法也渐趋固定，如1965年9月15日由教宗保禄六世首次倡议成立的教廷机构——“世界主教大会（Synodus Episcoporum）”，其拉丁文名称就选择使用“Synodus”一词而非“Concilium”[^11]，而对于“第二次梵蒂冈大公会议”，其拉定文固定名称则为“Sacrosanctum Oecumenicum Concilium Vaticanum II”，其中的Concilium一词也不能随意替换为“Synodus”。
 
-    而“全国主教会议”，则为某国之主教或数省之主教召开之会议，此类会议须由教宗授权，并由教宗特使召集，而与会主教对于特使有服从之义务。
+However, over time, there arose some differentiation in the use of _synodus_ and _concilium_, and the usage of the two has become more fixed. For example, the Vatican institution established by Pope Paul VI on September 15, 1965, the _Synodus Episcoporum_, chose to use the word _synodus_ rather than _concilium_ in its Latin name.[^11] And for the Second Vatican Council, the official Latin name is _Sacrosanctum Oecumenicum Concilium Vaticanum II_, in which the word _concilium_ cannot be replaced by _synodus_.
 
-   “教省教务会议”，即某一教省之主教，由一总主教担任召集人，如1910年中国第三传教大区召开的汉口会议。
+而以Concilium命名的教务会议或主教会议，一般又可分为“大公会议（Concilium oecumenicum）”、“全国主教会议（Concilium plenarium）”、“某一教省之教务会议（ Concilium provinciale）”以及“某一教区之教务会议（ Concilium diocesanum）”。
 
-   “教区教务会议”，为某一教区主教在本辖区内召集之会议。
+Synods or councils named _concilium_ can generally be divided into ecumenical councils (_concilium oecumenicum_), plenary councils (_concilium plenarium_), provincial councils (_concilium provinciale_) and diocesan councils (_concilium diocesanum_).
 
-    对于上海主教大会的名称，在会议召开之前，曾经有过一些不同的议论和说法，其中较受注目的有两种：一为“Concilio plenario（全体主教会议）”、Concilio Nazionle（全国主教会议），但是，会议主席刚恒毅认为二者都不够理想，原因是“plenario”的涵义似嫌简省和狭隘，而nazionale又不合乎《教会法典》，因为天主教会在中国尚是一传教区，未成立圣统制，因此不得称为“中国主教会议”。因此，会议的名称最后由批准召开会议的圣座简捷地命名为“Primum Concilium Sinense（第一届中国主教会议）”。
+“大公会议”为教宗召集普天下天主教而召开的会议，教宗或亲自担任主席，或委派代表担任主席。在教会历史上，迄今为止已召开了21次大公会议；
 
-    出席会议的共有108位成员，其中主教42位，监牧5位（其中中国籍两位），苦修院院长1位，和13位传教区代表，此外，尚有24位在华各修会代表、中国神职班代表及顾问。12 未能到会的主教共计11位。13
-其中，享有总主教（Metropolita）、宗座代牧、宗教监牧、宗座署理（Apostolici dioecesium administratores）、修院院长、代理主教（Vicarii Capitulares）等教会神品者，在主教会议上拥有决议权（Suffragium delibertivum），而出席会议之司铎及其他教会人士则仅有商议权（Suffragium concultativum）而无决议权。
+An ecumenical council is a council convened by the Pope for all Catholics worldwide, with the Pope himself acting as chairman or appointing a representative to act as chairman. So far, 21 ecumenical councils have been held in the history of the Church.
 
-    按照新颁布实施的《教会法典》的规定，参加“第一届中国主教会议”的代表将负责讨论如何在传教区推行教会的信德教义；如何完善教会风俗；如何改革教会积弊；如何统一教会规定及诫命等等。而对于会议上讨论之细节，与会者须保持缄默。经会议通过之各项决议草案，须在会后誊写清楚，尽快提交罗马圣座，报宗座会议部或传信部审查，待核准实施后再寄回，此时方可公布执行。14
+而“全国主教会议”，则为某国之主教或数省之主教召开之会议，此类会议须由教宗授权，并由教宗特使召集，而与会主教对于特使有服从之义务。
+
+A plenary council is a council convened by the bishops of a country or several provinces, authorized by the Pope and convened by a papal legate, with the bishops attending the council having an obligation to obey the legate.
+
+“教省教务会议”，即某一教省之主教，由一总主教担任召集人，如1910年中国第三传教大区召开的汉口会议。
+
+A provincial council is a council of the bishops of an ecclesiastical province, convened by an archbishop, such as the Hankou Conference of the Third Missionary District of China in 1910.
+
+“教区教务会议”，为某一教区主教在本辖区内召集之会议。
+
+A diocesan council is a council convened by a bishop in his own diocese.
+
+对于上海主教大会的名称，在会议召开之前，曾经有过一些不同的议论和说法，其中较受注目的有两种：一为“Concilio plenario（全体主教会议）”、Concilio Nazionale（全国主教会议），但是，会议主席刚恒毅认为二者都不够理想，原因是“plenario”的涵义似嫌简省和狭隘，而nazionale又不合乎《教会法典》，因为天主教会在中国尚是一传教区，未成立圣统制，因此不得称为“中国主教会议”。因此，会议的名称最后由批准召开会议的圣座简捷地命名为“Primum Concilium Sinense（第一届中国主教会议）”。
+
+Before the Synod of Bishops in Shanghai, there had been some different opinions and statements about the name of the Synod. The two most notable were "Concilio plenario" (plenary council) and "Concilio Nazionale" (national council). However, Archbishop Costantini, the chairman of the Synod, believed that neither was ideal. The reason was that the meaning of "plenario" seemed too simple and narrow, while "nazionale" was not in accordance with the Code of Canon Law, because the Catholic Church in China was still a mission district and had not yet established a hierarchy, so it could not be called the "Chinese Synod". Therefore, the name of the Synod was finally simply named "Primum Concilium Sinense" (the First Chinese Synod) by the Holy See, which approved the convening of the Synod.
+
+出席会议的共有108位成员，其中主教42位，监牧5位（其中中国籍两位），苦修院院长1位，和13位传教区代表，此外，尚有24位在华各修会代表、中国神职班代表及顾问。[^12] 未能到会的主教共计11位。[^13]
+其中，享有总主教（Metropolita）、宗座代牧、宗教监牧、宗座署理（Apostolici dioecesium administratores）、修院院长、代理主教（Vicarii Capitulares）等教会神品者，在主教会议上拥有决议权（Suffragium delibertivum），而出席会议之司铎及其他教会人士则仅有商议权（Suffragium consultativum）而无决议权。
+
+There were a total of 108 members attending the Synod, including 42 bishops, 5 apostolic vicars (two of whom were Chinese), 1 Trappist abbot, and 13 representatives of the mission districts. In addition, there were 24 representatives of various religious orders in China, representatives of the Chinese clergy, and consultants.[^12] Eleven bishops were unable to attend the meeting.[^13] Among them, metropolitans, apostolic delegates, apostolic vicars, apostolic administrators, abbots, and vicars capitular of the Church have the right to vote (Suffragium deliberativum) at the Synod of Bishops, while priests and other church personnel attending the Synod have only the right to consult (Suffragium consultativum) and not the right to vote.
+
+按照新颁布实施的《教会法典》的规定，参加“第一届中国主教会议”的代表将负责讨论如何在传教区推行教会的信德教义；如何完善教会风俗；如何改革教会积弊；如何统一教会规定及诫命等等。而对于会议上讨论之细节，与会者须保持缄默。经会议通过之各项决议草案，须在会后誊写清楚，尽快提交罗马圣座，报宗座会议部或传信部审查，待核准实施后再寄回，此时方可公布执行。[^14]
+
+According to the provisions of the newly promulgated and implemented Code of Canon Law, the representatives attending the First Chinese Synod of Bishops were responsible for discussing how to implement the teachings of the Church in the mission districts, how to improve the customs of the Church, how to reform the abuses of the Church, and how to unify the regulations and commandments of the Church, etc. As for the details of the discussions at the Synod, the participants were required to maintain confidentiality. The draft resolutions passed by the Synod were to be recorded clearly after the meeting and submitted to the Holy See as soon as possible for review by the Congregation for the Council or the Propaganda Fide. After approval, they would be sent back and could be publicly implemented.
  
     （二）会议之组织
  

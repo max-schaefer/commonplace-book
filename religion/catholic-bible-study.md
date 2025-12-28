@@ -28,7 +28,7 @@
 ### Chapter 5
 
 - The images of salt and light are connected to the Temple, where offerings were salted and the menorah was kept burning. They are also connected to Jesus' Galilean home, which was famous for its salted fish and its olive oil.
-- 5:18 says that not even the smallest part of the Law will go away "until all is accomplished" (ἕως ἂν πάντα γένηται). Compare this to 28:11, where the guard tells the chief priests "all that had taken place" (ἅπαντα τὰ γενόμενα): the Greek verb is the same in both cases. This suggests that Jesus' death may be the "accomplishment" referred to in 5:18, which would mean that _after_ Jesus' death, the Law can/will change.
+- 5:18 says that not even the smallest part of the Law will go away "until all is accomplished" (ἕως ἂν πάντα γένηται). Compare this to 28:11, where the guard tells the chief priests "all that had taken place" (ἅπαντα τὰ γενόμενα): the Greek verb is the same in both cases. This suggests that Jesus' death may be the "accomplishment" referred to in 5:18, which would mean that _after_ Jesus' death, the Law can/will change. (I don't buy this line of interpretation. Doesn't the verse start with "till heaven and earth pass away"? And γένομαι seems too common a verb to read much into its use both here and in 28:11.)
 - The image of going to a sacrifice while bearing a grudge against someone may well be a reference to the story of Cain and Abel.
 
 ### Chapter 6
@@ -126,11 +126,21 @@
 - The rabbis' teachings on divorce were various, with Shammai only allowing it in case of adultery, Hillel for spoiling a meal, and Akiva even for finding a prettier wife.
 - The proviso of "εἰ μὴ ἐπὶ πορνείᾳ" has been interpreted as referring to incestuous relationships where the marriage was never valid in the first place, though this seems to be a modern interpretation. The more traditional interpretation is that there may be cases where a civil divorce is licit, but the marriage bond remains in the eyes of God and hence remarriage is always excluded. This interpretation has the support even of Protestant scholars like Ulrich Luz.
 - From his discussion of marriage, Jesus moves on to a discussion of celibacy. His teachings on both of these subjects are hard: οὐ πάντες χωροῦσιν τὸν λόγον τοῦτον, and ὁ δυνάμενος χωρεῖν χωρείτω.
-- In the story of the rich young man who asks Jesus which commandments he must keep to inherit eternal life, Jesus answers with a list of commandments exclusively from the second tablet of the decalogue, which are all about loving one's neighbour. His added commandment to sell all one's possessions may be understood as summarising the first tablet of the decalogue, about loving God more than anything else.
-- The odd turn of phrase in 19:24, "εὐκοπώτερόν ἐστιν κάμηλον διὰ τρήματος ῥαφίδος διελθεῖν" has been interpreted (e.g., by St Thomas More) as a scribe's error mistaking κάμιλον (rope) for κάμηλον (camel).
+- In the story of the rich young man who asks Jesus which commandments he must keep to inherit eternal life, Jesus answers with a list of commandments exclusively from the second tablet of the decalogue, which are all about loving one's neighbour. His added commandment to sell all one's possessions may be understood as summarising the first tablet of the decalogue, about loving God more than anything else. Also noteworthy is that Jesus omits the final commandment (or two, depending on your numbering) about not coveting, which is an internal attitude rather than an external action. Selling one's possessions might then be understood as a way of rooting out covetousness.
+- The odd turn of phrase in 19:24, "εὐκοπώτερόν ἐστιν κάμηλον διὰ τρήματος ῥαφίδος διελθεῖν" has been interpreted (e.g., by St Thomas More) as a scribe's error mistaking κάμιλον (rope) for κάμηλον (camel).[^1]
+- Jesus' summary of what his apostles have given up to follow him (family and possessions) parallels the story of the Levites in the Old Testament: at the incident of the golden calf, the Levites set aside family ties in punishing the idolaters, and after entering the Promised Land, they were given no land of their own.
+
+[^1]: It is fascinating to note that the Qur'an uses the same simile in Surah 7:40: "Surely those who receive our revelations with denial and arrogance, the gates of heaven will not be opened for them, nor will they enter Paradise until a camel passes through the eye of a needle." But in context this comparison seems to be used to emphasise the absolute impossibility of unbelievers entering Heaven, while in the Gospel Jesus immediately follows up with "but with God all things are possible", indicating that salvation is possible even for the rich, albeit only through God's grace.
 
 ### Chapter 20
 
 - The parable of the workers in the vineyard can in context be understood in two ways: either as referring back to the rich young man, indicating that he might yet have a change of heart and be saved, or as a warning to the disciples that they should not be haughty even though they were called first.
 - It does not devalue work, but shows that God can take our own insufficient efforts and perfect them.
 - The request of the mother of James and John that her sons be seated at Jesus' right and left hand in his kingdom does not necessarily refer to the end of days. The one other time in the Gospel of Matthew that she is mentioned in connection with someone to the right and the left of Jesus is at the crucifixion, where the two thieves are crucified to his right and left. She does not know what she is asking for!
+
+### Chapter 21
+
+- In the entry into Jerusalem, there are three references to events in the Old Testament:
+  - Jesus riding on a donkey parallels Solomon's coronation. While riding on a donkey wouldn't in general be remarkable, _pilgrims_ riding on a donkey to Jerusalem would be, since pilgrims would normally walk.
+  - The crowds spreading their cloaks on the road parallels the coronation of Jehu.
+  - The crowds cutting off branches and (in the Gospel of John) waving them parallels the entry of Judas Maccabeus into Jerusalem after his victory over the Greeks, after which he cleansed the temple, just as Jesus will do shortly afterwards.
