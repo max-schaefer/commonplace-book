@@ -11,3 +11,12 @@
 - Chapter 7: "And conceringt baptism, baptize this way: Having first said all these things, baptize into the name of the Father, and the Son, and the Holy Spirit in living water."
 - Chapter 8: "But let not your fasts be with the hypocrites; for they fast on the second and fifth day of the week; but fast on the fourth day and the Preparation (Friday)."
 - Chapter 9: "But let no one eat or drink of your Thanksgiving (Eucharist) but they who have been baptized into the name of the Lord; for concerning this also the Lord has said, Give not that which is holy to the dogs."
+- Chapter 10: "Remember, Lord, Your Church, to deliver it from all evil and to make it perfect in Your love, and to gather it from the four winds, sanctified for Your kingdom which You have prepared for it."
+- Chapter 11: "Every prophet who teaches the truth, if he do not what he teaches, is a false prophet."
+- Chapter 12: "If he who comes is a wayfarer, assist him as far as you are able; but he shall not remain with you, except for two or three days, if need be."
+- Chapter 13: "Every first-fruit, therefore, of the products of wine-press and threshing-floor, of oxen and of sheep, you shall take and give to the prophets, for they are your high priests."
+- Chapter 14: "But let no one that is at variance with his fellow come together with you, until they be reconciled, that your sacrifice may not be profaned."
+- Chapter 15: "And reprove one another, not in anger, but in peace, as you have it in the Gospel."
+- Chapter 16: "And then shall appear the world-deceiver as the Son of God, and shall do signs and wonders, and the earth shall be delivered into his hands, and he shall do iniquitous things which have never yet come to pass since the beginning."
+
+## The First Epistle of Clement to the Corinthians
