@@ -20,3 +20,13 @@
 - Chapter 16: "And then shall appear the world-deceiver as the Son of God, and shall do signs and wonders, and the earth shall be delivered into his hands, and he shall do iniquitous things which have never yet come to pass since the beginning."
 
 ## The First Epistle of Clement to the Corinthians
+
+- Chapter 1: "For ye did all things without respect of persons, and walked in the commandments of God, being obedient to those who had the rule over you, and giving all fitting honour to the presbyters among you."
+- Chapter 2: "Ye mourned over the transgressions of your neighbours: their deficiencies you deemed your own."
+- Chapter 3: "For this reason righteousness and peace are now far departed from you, inasmuch as every one abandons the fear of God, and is become blind in His faith, neither walks in the ordinances of His appointment, nor acts a part becoming a Christian, but walks after his own wicked lusts, resuming the practice of an unrighteous and ungodly envy, by which death itself entered into the world."
+- Chapter 4: "If thou offerest rightly, but dost not divide rightly, hast though not sinned? Be at peace; thine offering returns to thyself, and thou shalt again possess it."
+- Chapter 5: "Peter, through unrighteous envy, endured not one or two, but numerous labours and when he had at length suffered martyrdom, departed to the place of glory due to him."
+- Chapter 6: "Envy and strife have overthrown great cities and rooted up mighty nations."
+- Chapter 7: "These things, beloved, we write unto you, not merely to admonish you of your duty, but also to remind ourselves."
+- Chapter 8: "Desiring, therefore, that all His beloved should be partakers of repentance, He has, by His almighty will, established [these declarations]."
+- Chapter 9: "Wherefore, let us yield obedience to His excellent and glorious will; and imploring His mercy and loving-kindness, while we forsake all fruitless labours, and strife, and envy, which leads to death, let us turn and have recourse to His compassions."
