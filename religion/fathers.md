@@ -36,3 +36,6 @@
 - Chapter 13: "Let us therefore, brethren, be of humble mind, laying aside all haughtiness, and pride, and fooishness, and angry feelings."
 - Chapter 14: "Let us be kind one to another after the pattern of the tender mercy and benignity of our Creator."
 - Chapter 15: "Let us cleave, therefore, to those who cultivate peace with godliness, and not to those who hypocritically profess to desire it."
+- Chapter 16: "For if the Lord thus humbled Himself, what shall we do who have through Him come under the yoke of His grace?"
+- Chapter 17: "Let us be imitators also of those who in goat-skins and sheep-skins went about proclaiming the coming of Christ."
+- Chapter 18: "But what shall we say concerning David, to whom such testimony was borne, and of whom God said, 'I have found a man after Mine own heart, David the son of Jesse; and in everlasting mercy have I annointed him?'".
