@@ -40,5 +40,8 @@
 - Chapter 17: "Let us be imitators also of those who in goat-skins and sheep-skins went about proclaiming the coming of Christ."
 - Chapter 18: "But what shall we say concerning David, to whom such testimony was borne, and of whom God said, 'I have found a man after Mine own heart, David the son of Jesse; and in everlasting mercy have I annointed him?'".
 - Chapter 19: "Let us reflect how free from wrath He is towards all His creation."
-- Chapter 20: "He does good to all, but most abundantly to us who have fled for refuge to His compassions through Jesus Christ our Lord"
+- Chapter 20: "He does good to all, but most abundantly to us who have fled for refuge to His compassions through Jesus Christ our Lord."
 - Chapter 21: "Let us reflect how near He is, and that none of the thoughts or reasonings in which we engage are hid from Him."
+- Chapter 22: "Many are the stripes [appointed for] the wicked; but mercy shall compass those about who hope in the Lord."
+- Chapter 23: "Ye perceive how in a little time the fruit of a tree comes to maturity. Of a truth, soon and suddenly shall His will be accomplished."
+- Chapter 24: "Let us contemplate, beloved, the resurrection which is at all times taking place. Day and night declare to us a resurrection."
