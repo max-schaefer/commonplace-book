@@ -33,3 +33,7 @@
 > To murmur and rail at the state of things under which we find ourselves, and to prefer a former state, is not merely indecorous, it is absolutely unmeaning. We are ourselves necessary parts of the existing system, out of which we have individually grown into being, into our actual position in society. Depending, therefore, on the times as a condition of existence, in wishing for other times we are, in fact, wishing we had never been born. Moreover, it is ungrateful to a state of society, from which we daily enjoy so many benefits, to rail against it. Yet there is nothing unbecoming, unmeaning, or ungrateful in pointing out its faults and wishing them away.
 
 > A really philosophical mind, if unhappily it has ruined its own religious perceptions, will be silent; it will understand that Religion does not lie in its way: it may disbelieve its truths, it may account belief in them a weakness, or, on the other hand, a happy dream, a delightful error, which it cannot itself enjoy;—any how, it will not usurp.
+
+# The Idea of a University
+
+> In a word, from the time that Athens was the University of the world, what has Philosophy taught men, but to promise without practising, and to aspire without attaining? What has the deep and lofty thought of its disciples ended in but eloquent words?
