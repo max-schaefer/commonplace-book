@@ -48,3 +48,6 @@
 - Chapter 25: "Let us consider that wonderful sign [of the resurrection] which takes place in Eastern lands, that is, in Arabia and the countries round about. There is a certain bird which is called a phoenix."
 - Chapter 26: "Do we then deem it any great and wonderful thing for the Maker of all things to raise up again those that have piously served Him in the assurance of a good faith, when even by a bird He shows us the mightiness of His power to fulfil His promise?"
 - Chapter 27: "He who has commanded us not to lie, shall much more Himself not lie; for nothing is impossible with God, except to lie."
+- Chapter 28: "What world will receive any of those who run away from Him?"
+- Chapter 29: "Let us then draw near to Him with holiness of spirit, lifting up pure and undefiled hands unto Him, loving our gracious and merciful Father, who has made us partakers in the blessings of His elect."
+- Chapter 30: "Let our praise be in God, and not of ourselves; for God hateth those that commend themselves."
