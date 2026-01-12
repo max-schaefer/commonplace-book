@@ -45,3 +45,6 @@
 - Chapter 22: "Many are the stripes [appointed for] the wicked; but mercy shall compass those about who hope in the Lord."
 - Chapter 23: "Ye perceive how in a little time the fruit of a tree comes to maturity. Of a truth, soon and suddenly shall His will be accomplished."
 - Chapter 24: "Let us contemplate, beloved, the resurrection which is at all times taking place. Day and night declare to us a resurrection."
+- Chapter 25: "Let us consider that wonderful sign [of the resurrection] which takes place in Eastern lands, that is, in Arabia and the countries round about. There is a certain bird which is called a phoenix."
+- Chapter 26: "Do we then deem it any great and wonderful thing for the Maker of all things to raise up again those that have piously served Him in the assurance of a good faith, when even by a bird He shows us the mightiness of His power to fulfil His promise?"
+- Chapter 27: "He who has commanded us not to lie, shall much more Himself not lie; for nothing is impossible with God, except to lie."
