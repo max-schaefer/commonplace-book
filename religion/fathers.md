@@ -80,3 +80,14 @@
 - Chapter 57: "For it is better for you that ye should occupy a humble but honourable place in the flock of Christ, than that, being highly exalted, ye should be cast out from the hope of His people."
 - Chapter 58: "May God, who seeth all things, and who is the Ruler of all spirits and the Lord of all flesh---who chose our Lord Jesus Christ and us through Him to be a peculiar people---grant to every sould that calleth upon His glorious and holy Name, faith fear, peace, patience, long-suffering, self-control, purity, and sobriety, to the well-pleasing of His Name, through our High Priest and Protector, Jesus Christ, by whom be to Him glory, and majesty, and power, and honour, both now and forevermore."
 - Chapter 59: "The grace of our Lord Jesus Christ be with you, and with all everywhere that are called of God through Him, by whom be to Him glory, honour, power, majesty, and eternal dominion, from everlasting to everlasting."
+
+## The Epistle of Mathetes to Diognetus
+
+- Chapter 1: "I implore God, who enables us both to speak and to hear, to grant me so to speak, that, above all, I may hear you have been edified, and to you so to here, that I who speak may have no cause of regret for having done so."
+- Chapter 2: "But do ye not yourselves, who now think and suppose [such to be gods], much more cast contempt upon them than they [the Christians do]?"
+- Chapter 3: "For while the Gentiles, by offering such things to those that are destitute of sense and hearing, furnish an example of madness; they, on the other hand, [viz., the Jews] by thinking to offer these things to God as if He needed them, might justly reckon it rather an act of folly than of divine worship."
+- Chapter 4: "For, to accept some of those things which have been formed by God for the use of men as properly formed, and to reject others as useless and redundant,---how can this be lawful?"
+- Chapter 5: "[The Christians] pass their days on earth, but they are citizens of heaven."
+- Chapter 6: "What the soul is in the body, that are Christians in the world."
+- Chapter 7: "Violence has no place in the character of God."
+- Chapter 8: "He was aware, then, of all things in His own mind, along with His Son, according to the relation subsisting between them."
