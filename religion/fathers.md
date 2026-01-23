@@ -91,3 +91,7 @@
 - Chapter 6: "What the soul is in the body, that are Christians in the world."
 - Chapter 7: "Violence has no place in the character of God."
 - Chapter 8: "He was aware, then, of all things in His own mind, along with His Son, according to the relation subsisting between them."
+- Chapter 9: "By what other one was it possible that we, the wicked and ungodly, could be justified, than by the only Son of God? O sweet exchange! O unsearchable operation! O benefits surpassing all expectation!"
+- Chapter 10: "He who takes upon himself the burden of his neigbour; he who, in whatsoever respect he may be superior, is ready to benefit another who is deficient; he who, whatsoever things he received from God, by distributing these to the needy, becomes a god to those who receive: he is an imitator of God."
+- Chapter 11: "For which reason He sent the Word, that He might be manifested to the world; and He, being despised by the people, was, when preached by the Apostles, believed on by the Gentiles."
+- Chapter 12: "For neither can life exist without knowledge, nor is knowledge secure without life."
