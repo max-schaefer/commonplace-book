@@ -85,7 +85,7 @@
 
 - Chapter 1: "I implore God, who enables us both to speak and to hear, to grant me so to speak, that, above all, I may hear you have been edified, and to you so to here, that I who speak may have no cause of regret for having done so."
 - Chapter 2: "But do ye not yourselves, who now think and suppose [such to be gods], much more cast contempt upon them than they [the Christians do]?"
-- Chapter 3: "For while the Gentiles, by offering such things to those that are destitute of sense and hearing, furnish an example of madness; they, on the other hand, [viz., the Jews] by thinking to offer these things to God as if He needed them, might justly reckon it rather an act of folly than of divine worship."
+- Chapter 3: "For while the Gentiles, by offering such things to those that are destitute of sense and hearing, furnish an example of madness; they, on the other hand, [viz, the Jews] by thinking to offer these things to God as if He needed them, might justly reckon it rather an act of folly than of divine worship."
 - Chapter 4: "For, to accept some of those things which have been formed by God for the use of men as properly formed, and to reject others as useless and redundant,---how can this be lawful?"
 - Chapter 5: "[The Christians] pass their days on earth, but they are citizens of heaven."
 - Chapter 6: "What the soul is in the body, that are Christians in the world."
@@ -95,3 +95,20 @@
 - Chapter 10: "He who takes upon himself the burden of his neigbour; he who, in whatsoever respect he may be superior, is ready to benefit another who is deficient; he who, whatsoever things he received from God, by distributing these to the needy, becomes a god to those who receive: he is an imitator of God."
 - Chapter 11: "For which reason He sent the Word, that He might be manifested to the world; and He, being despised by the people, was, when preached by the Apostles, believed on by the Gentiles."
 - Chapter 12: "For neither can life exist without knowledge, nor is knowledge secure without life."
+
+## The Epistle of Polycarp to the Philippians
+
+- Chapter 1: "(...) those who were bound in chains, the fitting ornaments of saints, and which are indeed the diadems of the true elect of God and our Lord"
+- Chapter 2: "His [viz, Jesus'] blood will God require of those who do not believe in Him."
+- Chapter 3: "For neither I, nor any other such one, can come up to the wisdom of the blessed and glorious Paul."
+- Chapter 4: "Let us teach, first of all, ourselves to walk in the commandments of the Lord."
+- Chapter 5: "If we please Him in this present world, we shall receive also the future world."
+- Chapter 6: "If the we entreat the Lord to forgive us, we ought also ourselves to forgive."
+- Chapter 7: "Whosoever does not confess the testimony of the cross, is of the devil; and whosoever perverts the oracles of the Lord to his own lusts, and says that there is neither resurrection nor a judgment, he is the first-born of Satan."
+- Chapter 8: "Let us then be imitators of His patience; and if we suffer for His name's sake, let us glorify Him."
+- Chapter 9: "I exhort you all, therefore, to yield obedience to the word of righteousness, and to exercise all patience."
+- Chapter 10: "When you can do good, defer it not, because 'alms delivers from death'."
+- Chapter 11: "If a man does not keep himself from covetousness, he shall be defiled by idolatry, and shall be judged as one of the heathen."
+- Chapter 12: "Pray for all the saints. Pray also for kings, and potentates, and princes, and for those that persecute and hate you, and for the enemies of the cross, that your fruit may be manifet to all, and that ye may be perfect in Him."
+- Chapter 13: "The Epistle of Ignatius written by him to us, and all the rest [of his Epistles] which we have by us, we have sent to you, as you requested."
+- Chapter 14: "Be safe in the Lord Jesus Christ."
