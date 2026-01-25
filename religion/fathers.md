@@ -1,6 +1,10 @@
 # From the Church Fathers
 
-## The Didache
+## Apostolic Fathers
+
+### Anonymous Author of the Didache
+
+#### The Didache
 
 - Chapter 1: "There are two ways, one of life and one of death; but a great difference between the two ways."
 - Chapter 2: "You shall not hate any man; but some you shall reprove, and concerning some you shall pray, and some you shall love more than your own life."
@@ -19,7 +23,9 @@
 - Chapter 15: "And reprove one another, not in anger, but in peace, as you have it in the Gospel."
 - Chapter 16: "And then shall appear the world-deceiver as the Son of God, and shall do signs and wonders, and the earth shall be delivered into his hands, and he shall do iniquitous things which have never yet come to pass since the beginning."
 
-## The First Epistle of Clement to the Corinthians
+### Clement of Rome
+
+#### The First Epistle of Clement to the Corinthians
 
 - Chapter 1: "For ye did all things without respect of persons, and walked in the commandments of God, being obedient to those who had the rule over you, and giving all fitting honour to the presbyters among you."
 - Chapter 2: "Ye mourned over the transgressions of your neighbours: their deficiencies you deemed your own."
@@ -81,7 +87,9 @@
 - Chapter 58: "May God, who seeth all things, and who is the Ruler of all spirits and the Lord of all flesh---who chose our Lord Jesus Christ and us through Him to be a peculiar people---grant to every sould that calleth upon His glorious and holy Name, faith fear, peace, patience, long-suffering, self-control, purity, and sobriety, to the well-pleasing of His Name, through our High Priest and Protector, Jesus Christ, by whom be to Him glory, and majesty, and power, and honour, both now and forevermore."
 - Chapter 59: "The grace of our Lord Jesus Christ be with you, and with all everywhere that are called of God through Him, by whom be to Him glory, honour, power, majesty, and eternal dominion, from everlasting to everlasting."
 
-## The Epistle of Mathetes to Diognetus
+### Mathetes
+
+#### The Epistle of Mathetes to Diognetus
 
 - Chapter 1: "I implore God, who enables us both to speak and to hear, to grant me so to speak, that, above all, I may hear you have been edified, and to you so to here, that I who speak may have no cause of regret for having done so."
 - Chapter 2: "But do ye not yourselves, who now think and suppose [such to be gods], much more cast contempt upon them than they [the Christians do]?"
@@ -96,7 +104,9 @@
 - Chapter 11: "For which reason He sent the Word, that He might be manifested to the world; and He, being despised by the people, was, when preached by the Apostles, believed on by the Gentiles."
 - Chapter 12: "For neither can life exist without knowledge, nor is knowledge secure without life."
 
-## The Epistle of Polycarp to the Philippians
+### Polycarp
+
+#### The Epistle of Polycarp to the Philippians
 
 - Chapter 1: "(...) those who were bound in chains, the fitting ornaments of saints, and which are indeed the diadems of the true elect of God and our Lord"
 - Chapter 2: "His [viz, Jesus'] blood will God require of those who do not believe in Him."
@@ -112,3 +122,12 @@
 - Chapter 12: "Pray for all the saints. Pray also for kings, and potentates, and princes, and for those that persecute and hate you, and for the enemies of the cross, that your fruit may be manifet to all, and that ye may be perfect in Him."
 - Chapter 13: "The Epistle of Ignatius written by him to us, and all the rest [of his Epistles] which we have by us, we have sent to you, as you requested."
 - Chapter 14: "Be safe in the Lord Jesus Christ."
+
+#### The Epistle Concerning the Martyrdom of Polycarp
+
+- Chapter 1: "For it is the part of a true and well-founded love, not only to wish one's self to be saved, but also all the brethren."
+- Chapter 2: "Looking to the grace of Christ, they [viz, the martyrs] despised all the torments of this world, redeeming themselves from eternal punishment by a single hour."
+- Chapter 3: "Upon this the whole multitude, marvelling at the nobility of mind displayed by the devout and godly race of Christians, cried ou, 'Away with the Atheists; let Polycarp be sought out!"
+- Chapter 4: "We do not commend those give themselves up [to suffering], seeing the Gospel doe not teach so to do."
+- Chapter 5: "While he [viz, Polycarp] was praying, a vision presented itself to him three days before he was taken; and, behold, the pillow under his head seemed to him on fire. Upon this, turning to those that were with him, he said to them prophetically, 'I must be burnt alive'."
+- Chapter 6: "[This all happened] that he might fulfil his special lot, being made a partaker of Christ, and that they who betrayed him might undergo the punishment of Judas himself."
