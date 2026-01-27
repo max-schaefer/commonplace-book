@@ -131,3 +131,6 @@
 - Chapter 4: "We do not commend those give themselves up [to suffering], seeing the Gospel doe not teach so to do."
 - Chapter 5: "While he [viz, Polycarp] was praying, a vision presented itself to him three days before he was taken; and, behold, the pillow under his head seemed to him on fire. Upon this, turning to those that were with him, he said to them prophetically, 'I must be burnt alive'."
 - Chapter 6: "[This all happened] that he might fulfil his special lot, being made a partaker of Christ, and that they who betrayed him might undergo the punishment of Judas himself."
+- Chapter 7: "Immediately then, in that very hour, he ordered that something to eat and drink should be set before them [viz, his captors], as much indeed as they cared for, while he besought them to allow him an hour to pray without disturbance."
+- Chapter 8: "Now, as soon as he had ceased praying, having made mention of all that had at any time come in contact with him, both small and great, illustrious and obscure, as well as the whole Catholic Church throughoug the world, the time of his departure having arrived, they set him upon an ass, and conducted him into the city, the day being that of the great Sabbath."
+- Chapter 9: "Polycarp declared, 'Eighty and six years have I served Him, and He never did me any injury; how then can I blaspheme my King and my Saviour?'"
