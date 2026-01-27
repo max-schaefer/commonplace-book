@@ -94,7 +94,18 @@ When God says he will punish the children of the wicked to the third and fourth 
 
 ### Parashah Tzav (Leviticus 6:1-8:36)
 
+[The Tanakh Podcast](https://podcasts.apple.com/us/podcast/98-vayikra-ch-7-the-silent-temple/id1651395166?i=1000744721924) discusses an observation by historian Yechezkel Kaufman that the Jewish temple sacrifices were not accompanied by any prayers or chants on part of the priests, but brought in silence (as confirmed by the [Letter of Aristeas](https://en.wikipedia.org/wiki/Letter_of_Aristeas)), in contrast with Pagan sacrifices that invariably included such elements.
+He sees in this a contrast between the Pagan understanding of a sacrifice as being an attempt to control the Gods with the Jewish understanding of sacrifice as being an effort to come closer to God.
+
 [The Parashah Podcast](https://open.spotify.com/episode/4iM0oj0CGiviomsOfDfRZF?si=o7g0u_C2S4u67fcojAncSQ): Leviticus 8:23: "Moses slaughtered the ram and took some of its blood and put it on the lobe of Aaron’s right ear, on the thumb of his right hand and on the big toe of his right foot." The first word "vayishkhat"/"and he slaughetered" has a [shalshelet](https://en.wikipedia.org/wiki/Shalshelet) on the last syllable. This is one of the rarest cantillation marks in the Torah. It expresses hesitation, and is used only four times in the entire Tanakh. It is used here because this is the last time Moses acts as the high priest before Aaron takes over.
+
+### Parashah Metzora (Leviticus 14:1-15:33)
+
+[The Parashah Podcast](https://open.spotify.com/episode/5g9Zdrk74AYBGv8W8eNoJM) discusses why the leprosy of houses is treated in a separate section from leprosy of the skin and clothing, since seemingly it is fairly similar to the latter. Khazal explain that while leprosy in general is a punishment for gossipping (i.e., transgressing boundaries in society is punished by a disease that corrupts the boundaries of the body), leprosy of houses is a punishment for keeping back resources from others: as part of the treatment, the victim is required to move all of their possessions out of their house, thereby exposing them to their neighbours and revealing what they held back.
+
+### Akharei Mot (Leviticus 16:1-18:30)
+
+[The Parashah Podcast](https://open.spotify.com/episode/22cljXEuQEg0LTdbCvDOyG) cites a beautiful interpretation of the lottery choosing which of the goats on Yom Kippur to sacrifice to God and which one to send into the wilderness: it is an acknowledgment of the fact that we are often led into sin (the wilderness) as opposed to a godly life by apparently minor or even random circumstances.
 
 ### Parashah Emor (Leviticus 21:1-24:23)
 
