@@ -145,3 +145,11 @@
 - Chapter 18: "We afterwards took up his bones, as being more precious than the most exquisite jewels, and more purified than gold, and deposited them in a fitting place, whither, being gathered together, as opportunity is allowed us, with joy and rejoicing, the Lord shall grant us to celebrate the anniversary of his martyrdom."
 - Chapter 19: "Having through patience overcome the unjust governor, and thus acquired the crown of immortality, he now, with the apostles and all the righteous, rejoicingly glorifies God."
 - Chapter 20: "When, therefore, ye have yourselves read this Epistle, be pleased to send it to the brethren at a greater distance, that they also may glorify the Lord, who makes such choice of His own servants."
+- Chapter 21: "He was taken by Herod, Philip the Trallian being high priest, Statius Quadratus being proconsul, but Jesus Christ being King for ever."
+- Chapter 22: "I have collected these things, when they had almost faded away through the lapse of time, that the Lord Jesus Christ may also gather me along with His elect into His heavenly kingdom."
+
+### Ignatius
+
+#### The Epistle of Ignatius to the Ephesians (Shorter and Longer Versions)
+
+- Chapter 1: "I came bound from Syria for the common name and hope, trusting through your prayers to be permitted to fight with beasts at Rome."
