@@ -153,3 +153,11 @@
 #### The Epistle of Ignatius to the Ephesians (Shorter and Longer Versions)
 
 - Chapter 1: "I came bound from Syria for the common name and hope, trusting through your prayers to be permitted to fight with beasts at Rome."
+- Chapter 2: "It is therefore befitting that you should in every way glorify Jesus Christ, who hath glorified you."
+- Chapter 3: "For even Jesus Christ, our inseparable life, is the [manifested] will of the Father; as also bishops, settled everywhere to the utmost bounds [of the earth], are so by the will of Jesus Christ."
+- Chapter 4: "Your justly renowned presbytery, worthy of God, is fitted as exactly to the bishop as the strings are to the harp."
+- Chapter 5: "Let no man deceive himself: if any one be not within the altar, he is deprived of the bread of God."
+- Chapter 6: "It is manifest, therefore, that we should look upon the bishop even as we would upon the Lord Himself."
+- Chapter 7: "There is one Physician who is possessed both of flesh and spirit; both made and not made; God existing in flesh; true life in death; both of Mary and of God; first passible and then impassible,---even Jesus Christ our Lord."
+- Chapter 8: "But even those things which ye do according to the flesh are spiritual; for ye do all things in Jesus Christ."
+- Chapter 9: "Ye might not receive those things which were sown by them, as being stones of the temple of the Father, prepared for the building of God the Father, and drawn up on high by the instrument of Jesus Christ, which is the cross, making use of the Holy Spirit as a rope."
