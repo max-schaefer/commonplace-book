@@ -164,3 +164,6 @@
 - Chapter 10: "And pray ye without ceasing in behalf of other men. For there is in them hope of repentance that thay may attain to God."
 - Chapter 11: "Apart from Him, let nothing attract you, for whom I bear about these bonds, these spiritual jewels, by which may I arise through your prayers, of which I entreat I may always be a partaker, that I may be found in the lot of the Christians of Ephesus."
 - Chapter 12: "Ye are initiated into the mysteries of the Gospel with Paul, the holy, the martyred, the deservedly most happy, at whose feet may I be found, when I shall attain to God."
+- Chapter 13: "For when ye assemble frequently in the same place, the powers of Satan are destroyed, and the destruction at which he aims is prevented by the unity of your faith."
+- Chapter 14: "For the beginning is faith, and the end is love. Now these two, being inseparably connected together, are of God, while all other things which are requisite for a holy life follow after them."
+- Chapter 15: "He who possesses the word of Jesus is truly able to hear even His very silence, that he may be perfect, and may both act as he speaks, and be recognised by his silence."
