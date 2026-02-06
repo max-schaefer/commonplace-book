@@ -173,3 +173,11 @@
 - Chapter 19: "Now the virginity of Mary was hidden from the prince of this world, as was also her offspring, and the death of the Lord; three mysteries of renown, which were wrought in silence by God."
 - Chapter 20: "Ye obey the bishop and the presbytery with an undivided mind, breaking one and the same bread, which is the medicine of immortality, and the antidote to prevent us from dying."
 - Chapter 21: "I am led bound to Rome, being the last of the faithful who are there, even as I have been thought worthy to be chosen to show forth the honour of God."
+
+#### The Epistle of Ignatius to the Magnesians (Shorter and Longer Versions)
+- Chapter 1: "I commend the Churches, in which I pray for a union both of the flesh and spirit of Jesus Christ, the constant source of our life, and of faith and love."
+- Chapter 2: "I have had the privilege of seeing you (...) through my fellow-servant the deacon Sotio, whose frienship may I ever enjoy, inasmuch as he is subject to the bishop as to the grace of God, and to the presbytery as to the law of Jesus Christ."
+- Chapter 3: "Now it becomes you also not to treat your bishop too familiarly on account of his youth, but to yield him all reverence."
+- Chapter 4: "It is fitting, then, not only to be called Christians, but to be so in reality: as some indeed give one the title of bishop, but do all things without him."
+- Chapter 5: "The unbelieving are of this world; but the believing have, in love, the character of God the Father by Jesus Christ, by whom, if we are not in readiness to die into His passion, His life is not in us."
+- Chapter 6: "Your bishop presides in the place of God, and your presbyters in the place of the assembly of the apostles, along with your deacons, who are most dear to me, and are entrusted with the ministry of Jesus Christ, who was with the Father before the beginning of time, and in the end was revealed."
