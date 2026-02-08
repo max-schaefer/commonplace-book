@@ -181,3 +181,19 @@
 - Chapter 4: "It is fitting, then, not only to be called Christians, but to be so in reality: as some indeed give one the title of bishop, but do all things without him."
 - Chapter 5: "The unbelieving are of this world; but the believing have, in love, the character of God the Father by Jesus Christ, by whom, if we are not in readiness to die into His passion, His life is not in us."
 - Chapter 6: "Your bishop presides in the place of God, and your presbyters in the place of the assembly of the apostles, along with your deacons, who are most dear to me, and are entrusted with the ministry of Jesus Christ, who was with the Father before the beginning of time, and in the end was revealed."
+- Chapter 7: "Being come together into the same place, let there be one prayer, one supplication, one mind, one hope, in love and in joy undefiled."
+- Chapter 8: "If we still live according to the Jewish law, we acknowledge that we have not received grace."
+- Chapter 9: "How shall we be able to live apart from Him, whose disciples the prophets themselves in the Spirit did wait for Him as their Teacher?"
+- Chapter 10: "It is absurd to profess Christ Jesus, and to Judaize. For Christianity did not embrace Judaism, but Judaism Christianity."
+- Chapter 11: "I desire to guard you beforehand, that ye fall not upon the hooks of vain doctrine, but that ye attain to full assurance in regard to the birth, and passion, and resurrection which took place in the time of the government of Pontius Pilate, being truly and certainly accomplished by Jesus Christ."
+- Chapter 12: "I know that ye cherish modesty of spirit; as it is written, 'The righteous man is his own accuser.'"
+- Chapter 13: "Be ye subject to the bishop, and to one another, as Jesus Christ to the Father, according to the flesh, and the apostles to Christ, and to the Father, and to the Spirit; that so there may be a union both fleshly and spiritual."
+- Chapter 14: "Be mindful of me in your prayers, that I may attain to God."
+- Chapter 15: "Fare ye well in the harmony of God, ye who have obtained the inseparable Spirit, who is Jesus Christ."
+
+#### The Epistle of Ignatius to the Trallians (Shorter and Longer Versions)
+
+- Introduction: "Ignatius, who is also called Theophorus, to the holy Church which is at Tralles, in Asia, beloved of God, the Father of Jesus Christ, elect, and worthy of God, possessing peace through the flesh, and blood, and passion of Jesus Christ, who is our hope, through our rising again to Him."
+- Chapter 1: "I know that ye possess an unblameable and sincere mind in patience, and that not only in present practice, but according to inherent nature."
+- Chapter 2: "For [the deacons] are not ministers of meat and drink, but servants of the Church of God. They are bound, therefore, to avoid all grounds of accusation, as they would do fire."
+- Chapter 3: "Apart from these [viz., deacons, bishops and presbyters] there is no Church."
