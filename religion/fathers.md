@@ -197,3 +197,6 @@
 - Chapter 1: "I know that ye possess an unblameable and sincere mind in patience, and that not only in present practice, but according to inherent nature."
 - Chapter 2: "For [the deacons] are not ministers of meat and drink, but servants of the Church of God. They are bound, therefore, to avoid all grounds of accusation, as they would do fire."
 - Chapter 3: "Apart from these [viz., deacons, bishops and presbyters] there is no Church."
+- Chapter 4: "For now it is needful for me to be the more fearful; and not give heed to those that puff me up. For they that speak to me [in the way of commendation] scourge me."
+- Chapter 5: "Am I not able to write to you of heavenly things? But I fear to do so, lest I should inflict injury on you who are but babes [in Christ]. Pardon me in this respect, lest, as not being able to receive [such doctrines], ye should be strangled by them."
+- Chapter 6: "I, therefore, yet not I, but the love of Jesus Christ, entreat you that ye use Christian nourishment only, and abstain from herbage of a different kind; I mean heresy."
