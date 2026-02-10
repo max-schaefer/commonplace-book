@@ -200,3 +200,6 @@
 - Chapter 4: "For now it is needful for me to be the more fearful; and not give heed to those that puff me up. For they that speak to me [in the way of commendation] scourge me."
 - Chapter 5: "Am I not able to write to you of heavenly things? But I fear to do so, lest I should inflict injury on you who are but babes [in Christ]. Pardon me in this respect, lest, as not being able to receive [such doctrines], ye should be strangled by them."
 - Chapter 6: "I, therefore, yet not I, but the love of Jesus Christ, entreat you that ye use Christian nourishment only, and abstain from herbage of a different kind; I mean heresy."
+- Chapter 7: "He that is within the altar is pure, but he that is without is not pure; that is, he who does anything apart from the bishop, and presbytery, and deacons, such a man is not pure in his conscience."
+- Chapter 8: "Wherefore, clothing yourselves with meekness, be ye renewed in faith, that is the flesh of the Lord, and in love, that is the blood of Jesus Christ."
+- Chapter 9: "Stop your ears, therefore, when any one speaks to you at variance with Jesus Christ, who was descended from David, and was also of Mary; who was truly born, and did eat and drink."
