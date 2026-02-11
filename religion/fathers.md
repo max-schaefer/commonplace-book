@@ -203,3 +203,7 @@
 - Chapter 7: "He that is within the altar is pure, but he that is without is not pure; that is, he who does anything apart from the bishop, and presbytery, and deacons, such a man is not pure in his conscience."
 - Chapter 8: "Wherefore, clothing yourselves with meekness, be ye renewed in faith, that is the flesh of the Lord, and in love, that is the blood of Jesus Christ."
 - Chapter 9: "Stop your ears, therefore, when any one speaks to you at variance with Jesus Christ, who was descended from David, and was also of Mary; who was truly born, and did eat and drink."
+- Chapter 10: "But if, as some that are without God, that is, the unbelieving, say, that He only seemed to suffer (they themselves only seeming to exist), then why am I in bonds? Why do I long to be exposed to the wild beasts? Do I therefore die in vain? Am I not then guilty of falsehood against the Lord?"
+- Chapter 11: "For these men are not the planting of the Father. For if they were, they would appear as branches of the cross, and their fruit would be incorruptible."
+- Chapter 12: "It becomes every one of you, and especially the presbyters, to refresh the bishop, to the honour of the Father, of Jesus Christ, and of the apostles."
+- Chapter 13: "The love of the Smyrnaeans and Ephesians salutes you."
