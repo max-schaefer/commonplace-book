@@ -207,3 +207,10 @@
 - Chapter 11: "For these men are not the planting of the Father. For if they were, they would appear as branches of the cross, and their fruit would be incorruptible."
 - Chapter 12: "It becomes every one of you, and especially the presbyters, to refresh the bishop, to the honour of the Father, of Jesus Christ, and of the apostles."
 - Chapter 13: "The love of the Smyrnaeans and Ephesians salutes you."
+
+#### The Epistle of Ignatius to the Romans (Shorter and Longer Versions)
+
+- Introduction: "[The Church of Rome is] worthy of God, worthy of honour, worthy of the highest happiness, worthy of praise, worthy of obtaining her every desire, worthy of being deemed holy, and which presides over love, is named of Christ, and from the Father."
+- Chapter 1: "It is easy for you to accomplish what you please, but it is difficult for me to attain to God, if ye spare me."
+- Chapter 2: "Do not seek to confer any greater favour upon me than that I be sacrificed to God while the altar is still prepared."
+- Chapter 3: "Christianity is not a thing of silence only, but also of greatness."
