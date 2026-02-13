@@ -214,3 +214,6 @@
 - Chapter 1: "It is easy for you to accomplish what you please, but it is difficult for me to attain to God, if ye spare me."
 - Chapter 2: "Do not seek to confer any greater favour upon me than that I be sacrificed to God while the altar is still prepared."
 - Chapter 3: "Christianity is not a thing of silence only, but also of greatness."
+- Chapter 4: "I am the wheat of God, and let me be ground by the teeth of the wild beasts, that I may be found the pure bread of Christ."
+- Chapter 5: "Let fire and the cross; let the crowds of wild beasts; let tearings, breakings, and dislocations of bones; let cutting off of members; let shatterings of the whole body; and let all the dreadful torments of the devil come upon me: only let me attain to Jesus Christ."
+- Chapter 6: "Permit me to be an imitator of the passion of my God."
