@@ -217,3 +217,8 @@
 - Chapter 4: "I am the wheat of God, and let me be ground by the teeth of the wild beasts, that I may be found the pure bread of Christ."
 - Chapter 5: "Let fire and the cross; let the crowds of wild beasts; let tearings, breakings, and dislocations of bones; let cutting off of members; let shatterings of the whole body; and let all the dreadful torments of the devil come upon me: only let me attain to Jesus Christ."
 - Chapter 6: "Permit me to be an imitator of the passion of my God."
+- Chapter 7: "My love has been crucified, and there is no fire in me desiring to be fed; but there is within me a water that liveth and speaketh, saying to me inwardly, Come to the Father."
+- Chapter 8: "[Jesus] is the mouth altogether free from falsehood, by which the Father has truly spoken."
+- Chapter 9: "But I have obtained mercy to be somebody, if I shall attain to God."
+- Chapter 10: "Fare ye well to the end, in the patience of Jesus Christ."
+
