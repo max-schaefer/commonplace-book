@@ -222,3 +222,8 @@
 - Chapter 9: "But I have obtained mercy to be somebody, if I shall attain to God."
 - Chapter 10: "Fare ye well to the end, in the patience of Jesus Christ."
 
+#### The Epistle of Ignatius to the Philadelphians (Shorter and Longer Versions)
+
+- Chapter 1: "At [your bishop's] meekness I am struck with admiration, and (...) by his silence [he] is able to accomplish more than those who vainly talk."
+- Chapter 2: "Where the shepherd is, there do ye as sheep follow."
+- Chapter 3: "As many as shall, in the exercise of repentance, return into the unity of the Church, these, too, shall belong to God, that they may live according to Jesus Christ."
