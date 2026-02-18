@@ -227,3 +227,17 @@
 - Chapter 1: "At [your bishop's] meekness I am struck with admiration, and (...) by his silence [he] is able to accomplish more than those who vainly talk."
 - Chapter 2: "Where the shepherd is, there do ye as sheep follow."
 - Chapter 3: "As many as shall, in the exercise of repentance, return into the unity of the Church, these, too, shall belong to God, that they may live according to Jesus Christ."
+- Chapter 4: "There is one flesh of our Lord Jesus Christ, and one cup to the unity of His blood; one altar; as there is one bishop, along with the presbytery and deacons, my fellow servants."
+- Chapter 5: "Let us also love the prophets, because they too have proclaimed the Gospel, and placed their hope in Him, and waited for Him."
+- Chapter 6: "It is better to hearken to Christian doctrine from a man who has been circumscised, than to Judaism from one uncircumcised."
+- Chapter 7: "The Spirit proclaimed these words: Do nothing without the bishop; keep your bodies as the temples of God; love unity; avoid divisions; be the followers of Jesus Christ, even as He is of the Father."
+- Chapter 8: "I heard some saying, If I do not find it in the ancient Scriptures, I will not believe the Gospel; on my saying to them, It is written, they answered me, That remains to be proved. But to me Jesus Christ is in the place of all that is ancient: His cross, and death, and resurrection, and the faith which is by Him, are undefiled monuments of antiquity."
+- Chapter 9: "The beloved prophets announced Him, but the Gospel is the perfection of immortality. All these things are good together, if ye believe in love."
+- Chapter 10: "Since [...] it is reported to me that the Church which is at Antioch in Syria possesses peace, it will become you, as a Church of God, to elect a deacon to act as the ambassador of God [for you] to [the brethren there], that he may rejoice along with them, when they are met together, and glorify the name."
+- Chapter 11: "May those that dishonoured them be forgiven through the grace of Jesus Christ."
+
+#### The Epistle of Ignatius to the Smyrnaeans (Shorter and Longer Versions)
+
+- Chapter 1: "He was truly the seed of David according to the flesh, and the Son of God according to the will and power of God; [...] He was truly born of a virgin, was baptized by John, in order that all righteousness might be fulfilled by Him; and was truly, under Pontius Pilate, and Herod the tetrarch, nailed [to the cross] for us in His flesh."
+- Chapter 2: "He suffered truly, even as also He truly raised up Himself, not as certain unbelievers maintain, that He only seemed to suffer, as they themselves only seem to be [Christians]."
+- Chapter 3: "I know that after His resurrection also He was still possessed of flesh, and I believe that He is so now."
