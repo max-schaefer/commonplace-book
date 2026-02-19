@@ -241,3 +241,6 @@
 - Chapter 1: "He was truly the seed of David according to the flesh, and the Son of God according to the will and power of God; [...] He was truly born of a virgin, was baptized by John, in order that all righteousness might be fulfilled by Him; and was truly, under Pontius Pilate, and Herod the tetrarch, nailed [to the cross] for us in His flesh."
 - Chapter 2: "He suffered truly, even as also He truly raised up Himself, not as certain unbelievers maintain, that He only seemed to suffer, as they themselves only seem to be [Christians]."
 - Chapter 3: "I know that after His resurrection also He was still possessed of flesh, and I believe that He is so now."
+- Chapter 4: "You must pray to God for them [viz., the heretics], if by any means they may be brought to repentance, which, however, will be very difficult."
+- Chapter 5: "But he who does not acknowledge this [viz., that Jesus truly had a body], has in fact altogether denied Him, being enveloped in death."
+- Chapter 6: "Consider those who are of a different opinion with respect to the grace of Christ which has come unto us, how opposed they are to the will of God. They have no regard for love; no care for the widow, or the orphan, or the oppressed; of the bond, or of the free; of the hungry, or of the thirsty."
