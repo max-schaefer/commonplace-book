@@ -244,3 +244,6 @@
 - Chapter 4: "You must pray to God for them [viz., the heretics], if by any means they may be brought to repentance, which, however, will be very difficult."
 - Chapter 5: "But he who does not acknowledge this [viz., that Jesus truly had a body], has in fact altogether denied Him, being enveloped in death."
 - Chapter 6: "Consider those who are of a different opinion with respect to the grace of Christ which has come unto us, how opposed they are to the will of God. They have no regard for love; no care for the widow, or the orphan, or the oppressed; of the bond, or of the free; of the hungry, or of the thirsty."
+- Chapter 7: "They abstain from the Eucharist and from prayer, because they confess not the Eucharist to be the flesh of our Saviour Jesus Christ, which suffered for our sins, and which the Father, of His goodness, raised up again."
+- Chapter 8: "Let that be deemed a proper Eucharist, which is [administered] either by the bishop, or by one to whom he has entrusted it. Wherever the bishop shall appear, there let the multitude [of the people] also be; even as, wherever Jesus Christ is, there is the Catholic Church."
+- Chapter 9: "He who honours the bishop has been honoured by God; he who does anything without the knowledge of the bishop, does [in reality] serve the devil."
