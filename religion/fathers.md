@@ -247,3 +247,8 @@
 - Chapter 7: "They abstain from the Eucharist and from prayer, because they confess not the Eucharist to be the flesh of our Saviour Jesus Christ, which suffered for our sins, and which the Father, of His goodness, raised up again."
 - Chapter 8: "Let that be deemed a proper Eucharist, which is [administered] either by the bishop, or by one to whom he has entrusted it. Wherever the bishop shall appear, there let the multitude [of the people] also be; even as, wherever Jesus Christ is, there is the Catholic Church."
 - Chapter 9: "He who honours the bishop has been honoured by God; he who does anything without the knowledge of the bishop, does [in reality] serve the devil."
+- Chapter 10: "May my spirit be for you, and my bonds, which ye have not despised or been ashamed of; nor shall Jesus Christ, our perfect hope, be ashamed of you."
+- Chapter 11: "When ye are desirous to do well, God is also ready to assist you."
+- Chapter 12: "I salute your most worthy bishop, and your very venerable presbytery, and your deacons, my fellow-servants, and all of you individually, as well as generally, in the name of Jesus Christ, and in His flesh and blood, in His passion and resurrection, both corporeal and spiritual, in union with God and you."
+- Chapter 13: "I salute the house of Tavias, and pray that it may be confirmed in faith and love, both corporeal and spiritual."
+
