@@ -252,3 +252,8 @@
 - Chapter 12: "I salute your most worthy bishop, and your very venerable presbytery, and your deacons, my fellow-servants, and all of you individually, as well as generally, in the name of Jesus Christ, and in His flesh and blood, in His passion and resurrection, both corporeal and spiritual, in union with God and you."
 - Chapter 13: "I salute the house of Tavias, and pray that it may be confirmed in faith and love, both corporeal and spiritual."
 
+#### The Epistle of Ignatius to Polycarp (Shorter and Longer Versions)
+
+- Chapter 1: "Speak to every man separately, as God enables thee."
+- Chapter 2: "If thou lovest the good disciple, no thanks are due to thee on that account; but rather seek by meekness to subdue the more troublesome."
+- Chapter 3: "Stand firm, as does an anvil which is beaten. It is the part of a noble athlete to be wounded, and yet to conquer."
