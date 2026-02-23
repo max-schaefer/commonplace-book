@@ -257,3 +257,6 @@
 - Chapter 1: "Speak to every man separately, as God enables thee."
 - Chapter 2: "If thou lovest the good disciple, no thanks are due to thee on that account; but rather seek by meekness to subdue the more troublesome."
 - Chapter 3: "Stand firm, as does an anvil which is beaten. It is the part of a noble athlete to be wounded, and yet to conquer."
+- Chapter 4: "Let your assembling together be of frequent occurrence; seek after all by name."
+- Chapter 5: "But it becomes both men and women who marry, to form their union with the approval of the bishop, that their marriage may be according to God, and not after their own lust."
+- Chapter 6: "Let your baptism endure as your arms; your faith as your helmet; your love as your spear; your patience as a complete panoply."
