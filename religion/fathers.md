@@ -260,3 +260,5 @@
 - Chapter 4: "Let your assembling together be of frequent occurrence; seek after all by name."
 - Chapter 5: "But it becomes both men and women who marry, to form their union with the approval of the bishop, that their marriage may be according to God, and not after their own lust."
 - Chapter 6: "Let your baptism endure as your arms; your faith as your helmet; your love as your spear; your patience as a complete panoply."
+- Chapter 7: "A Christian has not power over himself, but must always be ready for the service of God."
+- Chapter 8: "I pray for your happiness for ever in our God, Jesus Christ, by whom continue ye in the unity and under the protection of God."
