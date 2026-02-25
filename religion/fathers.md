@@ -262,3 +262,10 @@
 - Chapter 6: "Let your baptism endure as your arms; your faith as your helmet; your love as your spear; your patience as a complete panoply."
 - Chapter 7: "A Christian has not power over himself, but must always be ready for the service of God."
 - Chapter 8: "I pray for your happiness for ever in our God, Jesus Christ, by whom continue ye in the unity and under the protection of God."
+
+#### The Epistle of Ignatius to Polycarp (Syriac Version)
+
+- Chapter 1: "Bear with all men, even as our Lord beareth with thee."
+- Chapter 2: "If thou lovest the good disciples only, thou hast no grace; [but] rather subdue those that are evil by gentleness."
+- Chapter 3: "Be discerning of the times. Look for Him that is above the times, Him who has no times."
+- Chapter 4: "Despise not slaves, either male or female."
