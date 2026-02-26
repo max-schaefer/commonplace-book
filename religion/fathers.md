@@ -269,3 +269,7 @@
 - Chapter 2: "If thou lovest the good disciples only, thou hast no grace; [but] rather subdue those that are evil by gentleness."
 - Chapter 3: "Be discerning of the times. Look for Him that is above the times, Him who has no times."
 - Chapter 4: "Despise not slaves, either male or female."
+- Chapter 5: "Speak to my sisters, that they love in our Lord, and that their husbands be sufficient for them in the flesh and spirit."
+- Chapter 6: "Labour together with one another, act as athletes together, run together, suffer together, sleep together, rise together."
+- Chapter 7: "The Christian has not power over himself, but is [ever] ready to be subject to God."
+- Chapter 8: "I salute him who is reckoned worthy to go to Antioch in my stead, as I commanded thee."
