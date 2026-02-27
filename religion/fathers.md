@@ -273,3 +273,15 @@
 - Chapter 6: "Labour together with one another, act as athletes together, run together, suffer together, sleep together, rise together."
 - Chapter 7: "The Christian has not power over himself, but is [ever] ready to be subject to God."
 - Chapter 8: "I salute him who is reckoned worthy to go to Antioch in my stead, as I commanded thee."
+
+#### The Second Epistle of Ignatius to the Ephesians
+
+- Chapter 1: "I hope, through your prayers, that I may be devoured by beasts at Rome, so that by means of this of which I have been accounted worthy, I may be endowed with strength to be a disciple of God".
+- Chapter 3: "But insamuch as love does not permit me to be silent in regard to you, on this account I have been forward to entreat of you that ye would be diligent in the will of God."
+- Chapter 8: "Those things which ye have done in the flesh, even these are spiritual, because ye have done everything in Jesus Christ."
+- Chapter 9: "Ye are raised up on high by the instrument of Jesus Christ, which is the cross; and ye are drawn by the rope, which is the Holy Spirit; and your pulley is your faith, and your love is the way which leadeth up on high to God."
+- Chapter 10: "Let us, then, be imitators of our Lord in meekness, and strive who shall more especially be injured, and oppressed, and defrauded."
+- Chapter 14: "The work is not of promise, unless a man be found oin the power of faith, even to the end."
+- Chapter 15: "It is better that a man should be silent while he is something, than that he should be talking when he is not."
+- Chapter 18: "My spirit bows in adoration to the cross, which is a stumbling-block to those who do not believe, but is to you for salvation and eternal life."
+- Chapter 19: "There was concealed from the ruler of this world the virginity of Mary and the birth of our Lord, and the three renowned mysteries which were done in the tranquility of God from the star. And here, at the manifestation of the Son, magic began to be destroyed, and all bonds were loosed; and the ancient kingdom and the error of evil was destroyed."
