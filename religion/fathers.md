@@ -285,3 +285,14 @@
 - Chapter 15: "It is better that a man should be silent while he is something, than that he should be talking when he is not."
 - Chapter 18: "My spirit bows in adoration to the cross, which is a stumbling-block to those who do not believe, but is to you for salvation and eternal life."
 - Chapter 19: "There was concealed from the ruler of this world the virginity of Mary and the birth of our Lord, and the three renowned mysteries which were done in the tranquility of God from the star. And here, at the manifestation of the Son, magic began to be destroyed, and all bonds were loosed; and the ancient kingdom and the error of evil was destroyed."
+
+#### The Third Epistle of the Same St. Ignatius
+
+- Chapter 1: "The beginning is well arranged, if I be counted worthy to attain to the end, that I may receive my portion, without hindrance, through suffering.
+- Chapter 2: "It is good that I should set from the world in God, that I may rise in Him to life."
+- Chapter 3: "Christianity is great when the world hateth it."
+- Chapter 4: "Then shall I be in truth a disciple of Jesus Christ, when the world seeth not even my body."
+- Chapter 5: "I rejoice in the beasts which are prepared for me, and I pray that they may in haste be found for me."
+- Chapter 6: "The pains of the birth stand over against me."
+- Chapter 7: "I do not desire the food of corruption, neither the lusts of this world, I seek the bread of God, which is the flesh of Jesus Christ; and I seek His blood, a drink which is love incorruptible."
+- Chapter 9: "My spirit saluteth you, and the love of the Churches which received me as the name of Jesus Christ."
