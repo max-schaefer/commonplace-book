@@ -296,3 +296,9 @@
 - Chapter 6: "The pains of the birth stand over against me."
 - Chapter 7: "I do not desire the food of corruption, neither the lusts of this world, I seek the bread of God, which is the flesh of Jesus Christ; and I seek His blood, a drink which is love incorruptible."
 - Chapter 9: "My spirit saluteth you, and the love of the Churches which received me as the name of Jesus Christ."
+
+#### The Epistle of Ignatius to the Tarsians
+
+- Chapter 1: "Wherefore I am prepared for [encountering] fire, wild beasts, the sword or the cross, so that only I may see Christ my Saviour and God, who died for me."
+- Chapter 2: "Ye are the fellow-citizens as well as the disciples of Paul, who 'fully preached the Gospel from Jerusalem, and round about unto Illyricum', and bare about 'the marks of Christ' in his flesh."
+- Chapter 3: "Do ye by all means know that Jesus the Lord was truly born of Mary, being made of a woman; and was as truly crucified."
