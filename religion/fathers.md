@@ -302,3 +302,16 @@
 - Chapter 1: "Wherefore I am prepared for [encountering] fire, wild beasts, the sword or the cross, so that only I may see Christ my Saviour and God, who died for me."
 - Chapter 2: "Ye are the fellow-citizens as well as the disciples of Paul, who 'fully preached the Gospel from Jerusalem, and round about unto Illyricum', and bare about 'the marks of Christ' in his flesh."
 - Chapter 3: "Do ye by all means know that Jesus the Lord was truly born of Mary, being made of a woman; and was as truly crucified."
+- Chapter 4: "And that He who was born of a woman was the Son of God, and He that was crucified was 'the first-born of every creature', and God the Word, who also created all things."
+- Chapter 5: "And that He Himself is not God over all, and the Father, but His Son, He [shows when He] says, 'I ascend unto my Father and your Father, and to my God and your God'."
+- Chapter 6: "Nor is He a mere man, by whom and in whom all things were made."
+- Chapter 7: "'If the dead rise not, let us eat and drink, for to-morrow we die.' But if such be our condition and feelings, wherein shall we differ from asses and dogs, ho have no care about the future, but think only of eating, and of indulging such appetites as follow after eating?"
+- Chapter 8: "Ye presbyters, be subject to the bishop; ye deacons, to the presbyters; and ye, the people, to the presbyters and the deacons."
+- Chapter 9: "Honour those in virginity, as the priestesses of Christ."
+- Chapter 10: "Fare ye well in body, and soul, and in one Spirit; and do not ye forget me."
+
+#### The Epistle of Ignatius to the Antiochians
+
+- Chapter 1: "I learnt (...) that ye give heed to the doctrine of the apostles, and believe both the law and the prophets: that ye reject every Jewish and Gentile error, and neither introduce a multiplicity of gods, nor yet deny Christ under the pretence of the unity of God."
+- Chapter 2: "And that [the Son of God] was to be made man [Moses shows when] he says, 'A prophet shall the Lord raise up unto you of your brethren, like unto me.'"
+- Chapter 3: "The prophets (...) also speak of our Lord Jesus Christ. 'A Son', they say, has been given to us, on whose shoulder the government is from above; and His name is called the Angel of great counsel, Wonderful, Counsellor, the strong and mighty God.'"
