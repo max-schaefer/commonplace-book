@@ -315,3 +315,7 @@
 - Chapter 1: "I learnt (...) that ye give heed to the doctrine of the apostles, and believe both the law and the prophets: that ye reject every Jewish and Gentile error, and neither introduce a multiplicity of gods, nor yet deny Christ under the pretence of the unity of God."
 - Chapter 2: "And that [the Son of God] was to be made man [Moses shows when] he says, 'A prophet shall the Lord raise up unto you of your brethren, like unto me.'"
 - Chapter 3: "The prophets (...) also speak of our Lord Jesus Christ. 'A Son', they say, has been given to us, on whose shoulder the government is from above; and His name is called the Angel of great counsel, Wonderful, Counsellor, the strong and mighty God.'"
+- Chapter 4: "And those very apostles who said that 'there is one God', said also that 'there is one Mediator between God and men'."
+- Chapter 5: "Whosoever, therefore, declares that there is but one God, only so as to take away the divinity of Christ, is a devil, and an enemy of all righteousness."
+- Chapter 6: "For these [people] are subtle wolves, and apes that mimic the appearance of men."
+
