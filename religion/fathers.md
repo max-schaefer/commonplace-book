@@ -318,4 +318,11 @@
 - Chapter 4: "And those very apostles who said that 'there is one God', said also that 'there is one Mediator between God and men'."
 - Chapter 5: "Whosoever, therefore, declares that there is but one God, only so as to take away the divinity of Christ, is a devil, and an enemy of all righteousness."
 - Chapter 6: "For these [people] are subtle wolves, and apes that mimic the appearance of men."
-
+- Chapter 7: "Let us now bring disgrace upon our Father. Let us prove ourselves His true-born children, and not bastards."
+- Chapter 8: "Ye presbyters, 'feed the flock which is among you', till God shall show who is to hold the rule over you."
+- Chapter 9: "Let the husbands love their wives, remembering that, at the creation, one woman, and not many, was given to one man. Let the wives honour their husbands, as their own flesh; and let them not presume to address them by their names."
+- Chapter 10: "Ye masters, do not treat your servants with haughtiness, but imitate patient Job, who declares, 'I did not despise the cause of my man-servant, or of my maid-servant, when they contended with me.'"
+- Chapter 11: "Be subject to Caesar in everything, in which subjection implies no [spiritual] danger."
+- Chapter 12: "I salute the sub-deacons, the readers, the singers, the doorkeepers, the labourers, the exorcists, the confessors."
+- Chapter 13: "I salute Cassian and his partner in life, and their very dear children."
+- Chapter 14: "May He who is alone unbegotten, keep you stedfast both in the spirit and the flesh, through Him who was begotten before time began!"
