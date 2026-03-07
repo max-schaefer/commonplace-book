@@ -326,3 +326,15 @@
 - Chapter 12: "I salute the sub-deacons, the readers, the singers, the doorkeepers, the labourers, the exorcists, the confessors."
 - Chapter 13: "I salute Cassian and his partner in life, and their very dear children."
 - Chapter 14: "May He who is alone unbegotten, keep you stedfast both in the spirit and the flesh, through Him who was begotten before time began!"
+
+#### The Epistle of Ignatius to Hero, a Deacon of Antioch
+
+- Chapter 1: "Do not altogether abstain from wine and flesh, for these things are not to be viewed with abhorrence, since [the Scripture] saith, 'Ye shall eat the good things of the earth.' And again, 'Ye shall eat flesh even as herbs.'"
+- Chapter 2: "If anyone makes light of the law or the prophets, which Christ fulfilled at His coming, let him be to thee as antichrist."
+- Chapter 3: "Do nothing without the bishops; for they are priests, and thou a servant of the priests."
+- Chapter 4: "Do not hold women in abomination, for they have given thee birth, and brought thee up."
+- Chapter 5: "Guard against envy, for its author is the devil, and his successor Cain, who envied his brother, and out of envy committed murder."
+- Chapter 6: "Though I am the least of men, do thou seek to follow me, be thou an imitator of my conduct."
+- Chapter 7: "Be not double-minded in thy prayers; for blessed is he who doubteth not."
+- Chapter 8: "Salute the people of the Lord, from the smallest to the greatest, every one by name; whom I commit to thee as Moses did [the Israelites] to Joshua."
+- Chapter 9: "Farewell in the Lord, and pray thou that I may be perfected."
