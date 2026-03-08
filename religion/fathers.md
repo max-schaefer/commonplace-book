@@ -338,3 +338,9 @@
 - Chapter 7: "Be not double-minded in thy prayers; for blessed is he who doubteth not."
 - Chapter 8: "Salute the people of the Lord, from the smallest to the greatest, every one by name; whom I commit to thee as Moses did [the Israelites] to Joshua."
 - Chapter 9: "Farewell in the Lord, and pray thou that I may be perfected."
+
+#### The Epistle of Ignatius to the Philippians
+
+- Chapter 1: "For if there is one God of the universe, the Father of Christ, 'of whom are all things'; and one Lord Jesus Christ, our [Lord], 'by whom are all things'; and also one Holy Spirit, who wrought in Moses, and in the prophets and apostles; and also one baptism, which is administered that we should have fellowship with the death of the Lord; and also one elect church; there ought likewise to be but one faith in respect to Christ."
+- Chapter 2: "Wherefore also the Lord, when He sent forth the apostles to make disciples of all nations, commanded them to 'baptize in the name of the Father, and of the Son, and of the Holy Ghost', not unto one [person] having three names, nor into three [persons] who became incarnate, but into three possessed of equal honour."
+- Chapter 3: "The prince of this world rejoiceth when any one denies the cross, since he knows that the confession of the cross is his own destruction."
