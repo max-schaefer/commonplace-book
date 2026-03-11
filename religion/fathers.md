@@ -351,3 +351,8 @@
 - Chapter 8: "For many things are unknown to thee [viz., Satan]: the virginity of Mary, the wonderful birth, Who it was that became incarnate."
 - Chapter 9: "Thou didst deem the swaddling-bands, the circumcision, and the nourishment by means if milk contemptible; these things appeared to thee unworthy of God."
 - Chapter 10: "And didst thou pretend to read in Scripture concerning Him: 'For He hath given His angels charge concerning Thee, and in their hands they shall bear Thee up, lest thou shouldest dash Thy foot against a stone?' At the same time thou didst pretend to be ignorant of the rest, furtively concealing what [the Scripture] predicted concerning thee and thy servants: 'Thou shalt tread upon the adder and the basilisk; the lion and the dragon shall thou trample under foot.'"
+- Chapter 11: "And thou dost set forth thine own fall as an example to the Lord, and dost promise to give Him what is really His own, if He would fall down and worship thee."
+- Chapter 12: "He does not say, 'Get thee behind Me', for it is not possible that he should be converted; but 'Begone, Satan', to the course which thou hast chosen."
+- Chapter 13: "Despise not the period of forty days, for it comprises an imitation of the conduct of the Lord."
+- Chapter 14: "If anyone celebrates the passover along with the Jews, or receives the emblems of their feast, he is a partaker with those that killed the Lord and His apostles."
+- Chapter 15: "Fare ye well in the flesh, the soul, and the spirit, while ye think of things perfect."
