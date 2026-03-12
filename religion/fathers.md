@@ -84,7 +84,7 @@
 - Chapter 55: "We know many among ourselves who have given themselves up to bonds, in order that they might ransom others."
 - Chapter 56: "Let us then pray for those who have fallen into any sin, that meekness and humility may be given to them, so that they may submit, not unto us, but to the will of God."
 - Chapter 57: "For it is better for you that ye should occupy a humble but honourable place in the flock of Christ, than that, being highly exalted, ye should be cast out from the hope of His people."
-- Chapter 58: "May God, who seeth all things, and who is the Ruler of all spirits and the Lord of all flesh---who chose our Lord Jesus Christ and us through Him to be a peculiar people---grant to every soul that calleth upon His glorious and holy Name, faith fear, peace, patience, long-suffering, self-control, purity, and sobriety, to the well-pleasing of His Name, through our High Priest and Protector, Jesus Christ, by whom be to Him glory, and majesty, and power, and honour, both now and forevermore."
+- Chapter 58: "May God, who seeth all things, and who is the Ruler of all spirits and the Lord of all flesh---who chose our Lord Jesus Christ and us through Him to be a peculiar people---grant to every soul that calleth upon His glorious and holy Name, faith, fear, peace, patience, long-suffering, self-control, purity, and sobriety, to the well-pleasing of His Name, through our High Priest and Protector, Jesus Christ, by whom be to Him glory, and majesty, and power, and honour, both now and forevermore."
 - Chapter 59: "The grace of our Lord Jesus Christ be with you, and with all everywhere that are called of God through Him, by whom be to Him glory, honour, power, majesty, and eternal dominion, from everlasting to everlasting."
 
 ### Mathetes
@@ -349,10 +349,18 @@
 - Chapter 6: "Then only anything becomes disgraceful, when it is polluted by wickedness."
 - Chapter 7: "While you deny that Christ was born, you affirm that the unbegotten was begotten, and that He who had no beginning was nailed to the cross, by whose permission I am unable to say."
 - Chapter 8: "For many things are unknown to thee [viz., Satan]: the virginity of Mary, the wonderful birth, Who it was that became incarnate."
-- Chapter 9: "Thou didst deem the swaddling-bands, the circumcision, and the nourishment by means if milk contemptible; these things appeared to thee unworthy of God."
+- Chapter 9: "Thou didst deem the swaddling-bands, the circumcision, and the nourishment by means of milk contemptible; these things appeared to thee unworthy of God."
 - Chapter 10: "And didst thou pretend to read in Scripture concerning Him: 'For He hath given His angels charge concerning Thee, and in their hands they shall bear Thee up, lest thou shouldest dash Thy foot against a stone?' At the same time thou didst pretend to be ignorant of the rest, furtively concealing what [the Scripture] predicted concerning thee and thy servants: 'Thou shalt tread upon the adder and the basilisk; the lion and the dragon shall thou trample under foot.'"
 - Chapter 11: "And thou dost set forth thine own fall as an example to the Lord, and dost promise to give Him what is really His own, if He would fall down and worship thee."
 - Chapter 12: "He does not say, 'Get thee behind Me', for it is not possible that he should be converted; but 'Begone, Satan', to the course which thou hast chosen."
 - Chapter 13: "Despise not the period of forty days, for it comprises an imitation of the conduct of the Lord."
 - Chapter 14: "If anyone celebrates the passover along with the Jews, or receives the emblems of their feast, he is a partaker with those that killed the Lord and His apostles."
 - Chapter 15: "Fare ye well in the flesh, the soul, and the spirit, while ye think of things perfect."
+
+#### The Epistle of Maria the Proselyte to Ignatius
+
+- Chapter 1: "We therefore beseech and entreat that, by thy wisdom, Maris our friend, bishop of our native Neapolis, which is near Zarbus, and Eulogius, and Sobelus the presbyter, be sent to us, that we be not destitute of such as preside over the divine word as Moses also says, 'Let the Lord God look out a man who shall guide this people, and the congregation of the Lord shall not be as sheep which have no shepherd.'"
+- Chapter 2: "I would have you know that they are wise about the flesh, and are insensible to its passions, they themselves glowing with all the glory of a hoary head through their own intrinsic merits, and though but recently called as young men to the priesthood."
+- Chapter 3: "The wise Daniel, while he was a young man, passed judgment on certain vigorous old men, showing them that they were abandoned wretches, and not elders, and that, though Jews by extraction, they were Canaanites in practice."
+- Chapter 4: "Josiah also, beloved of God, when as yet he could scarcely speak articulately, convicts those who were possessed of a wicked spirit as being false in their speech, and deceivers of the people."
+- Chapter 5: "Time would fail me if I should endeavour to enumerate all those that pleased God in their youth, having been entrusted by God with either the prophetical, the priestly, or the kingly office."
