@@ -364,3 +364,11 @@
 - Chapter 3: "The wise Daniel, while he was a young man, passed judgment on certain vigorous old men, showing them that they were abandoned wretches, and not elders, and that, though Jews by extraction, they were Canaanites in practice."
 - Chapter 4: "Josiah also, beloved of God, when as yet he could scarcely speak articulately, convicts those who were possessed of a wicked spirit as being false in their speech, and deceivers of the people."
 - Chapter 5: "Time would fail me if I should endeavour to enumerate all those that pleased God in their youth, having been entrusted by God with either the prophetical, the priestly, or the kingly office."
+
+#### The Epistle of Ignatius to Mary at Neapolis, Near Zarbus
+
+- Chapter 1: "For the souls of the good, O thou wisest of women! resemble fountains of the purest water; for they allure by their beauty passers-by to drink of them, even though these should not be thirsty."
+- Chapter 2: "By the injuries inflicted on me through them, I acquire all the more the character of a disciple, that I may attain to Jesus Christ."
+- Chapter 3: "Thy numerous quotations of Scripture passages exceedingly delighted me."
+- Chapter 4: "Our present labour is but little, while the reward which is expected is great."
+- Chapter 5: "Avoid those that deny the passion of Christ, and His birth according to the flesh."
