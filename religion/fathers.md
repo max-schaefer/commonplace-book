@@ -372,3 +372,23 @@
 - Chapter 3: "Thy numerous quotations of Scripture passages exceedingly delighted me."
 - Chapter 4: "Our present labour is but little, while the reward which is expected is great."
 - Chapter 5: "Avoid those that deny the passion of Christ, and His birth according to the flesh."
+
+#### The Epistle of Ignatius to St. John the Apostle
+
+- "She [viz., Mary] is cheerful in persecutions and afflictions, free from murmuring in the midst of penury and want, grateful to those that injure her, and rejoices when exposed to troubles."
+
+#### The Second Epistle of Ignatius to St. John
+
+- "For who would not rejoice to behold and to address her who bore the true God from her own womb, provided he is a friend of our faith and religion?"
+
+#### The Epistle of Ignatius to the Virgin Mary
+
+- "I have heard things wonderful to tell respecting thy [son] Jesus, and I am astonished by such a report."
+
+#### Reply of the Blessed Virgin to this Letter
+
+- "The things which thou hast heard and learned from John concering Jesus are true. Believe them, cling to them, and hold fast the profession of that Christianity which thou hast embraced, and conform thy habits and life to thy profession."
+
+#### The Martyrdom of Ignatius
+
+- Chapter 1: "Like a good pilot, by the help of prayer and fasting, by the earnestness of his teaching, and by his spiritual labour, he resisted the flood that rolled aainst him, fearing [only] lest he should lose any of those who were deficient in courage, or apt to suffer from their simplicity."
