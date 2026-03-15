@@ -1,4 +1,4 @@
-# Augustine: Confessions
+# Confessions
 
 Structure:
   - Chapter 1: His youth
@@ -23,3 +23,9 @@ Structure:
 ## Book 10, Chapter 27
 
 > Late have I loved You, O Beauty ever ancient, ever new, late have I loved You! You were within me, but I was outside, and it was there that I searched for You. In my unloveliness I plunged into the lovely things which You created. You were with me, but I was not with You. Created things kept me from You; yet if they had not been in You they would have not been at all. You called, You shouted, and You broke through my deafness. You flashed, You shone, and You dispelled my blindness. You breathed Your fragrance on me; I drew in breath and now I pant for You. I have tasted You, now I hunger and thirst for more. You touched me, and I burned for Your peace.
+
+# Sermons
+
+## Sermon 340: On the Anniversary of His Ordination
+
+> Where I'm terrified by what I am for you, I am given comfort by what I am with you. For you I am a bishop, with you, after all, I am a Christian. The first is the name of an office undertaken, the second a name of grace; that one means danger, this one salvation.
