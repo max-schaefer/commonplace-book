@@ -391,4 +391,10 @@
 
 #### The Martyrdom of Ignatius
 
-- Chapter 1: "Like a good pilot, by the help of prayer and fasting, by the earnestness of his teaching, and by his spiritual labour, he resisted the flood that rolled aainst him, fearing [only] lest he should lose any of those who were deficient in courage, or apt to suffer from their simplicity."
+- Chapter 1: "Like a good pilot, by the help of prayer and fasting, by the earnestness of his teaching, and by his spiritual labour, he resisted the flood that rolled against him, fearing [only] lest he should lose any of those who were deficient in courage, or apt to suffer from their simplicity."
+- Chapter 2: "Inasmuch as I have Christ the King of heaven [within me], I destroy all the devices of these [evil spirits]."
+- Chapter 3: "For they [viz., Polycarp and Ignatius] had both, in old times, been disciples of St. John the Apostle."
+- Chapter 4: "Wherefore, seeing all men so kindly affected towards him, and fearing lest the love of the brotherhood should hinder his zeal towards the Lord, while a fair door of suffering martyrdom was opened to him, he wrote to the Church of the Romans the Epistle which is here subjoined."
+- Chapter 5: "To him this happened just as he wished, since he was in haste as soon as possible to leave this world, that he might attain to the Lord whom he loved."
+- Chapter 6: "Only the harder portions of his holy remains were left, which were conveyed to Antioch and wrapped in linen, as an inestimable treasure left to the holy Church by the grace which was in the martyr."
+- Chapter 7: "It came to pass, on our falling into a brief slumber, that some of us saw the blessed Ignatius suddenly standing by us and embracing us, while others beheld him again praying for us, and others still saw him dropping with sweat, as if he had just come from his great labour, and standing by the Lord."
