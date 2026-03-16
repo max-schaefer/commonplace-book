@@ -398,3 +398,11 @@
 - Chapter 5: "To him this happened just as he wished, since he was in haste as soon as possible to leave this world, that he might attain to the Lord whom he loved."
 - Chapter 6: "Only the harder portions of his holy remains were left, which were conveyed to Antioch and wrapped in linen, as an inestimable treasure left to the holy Church by the grace which was in the martyr."
 - Chapter 7: "It came to pass, on our falling into a brief slumber, that some of us saw the blessed Ignatius suddenly standing by us and embracing us, while others beheld him again praying for us, and others still saw him dropping with sweat, as if he had just come from his great labour, and standing by the Lord."
+
+### Barnabas
+
+#### The Epistle of Barnabas
+
+- Chapter 1: "The doctrines of the Lord, then, are three: the hope of life, the beginning and the completion of it."
+- Chapter 2: "He has therefore abolished these things [viz., the Jewish sacrifices], that the new law of our Lord Jesus Christ, which is without the yoke of necessity, might have a human oblation."
+- Chapter 3: "For He revealed all these things to us beforehand, that we should not rush forward as rash acceptors of their [viz., the Jews'] laws."
