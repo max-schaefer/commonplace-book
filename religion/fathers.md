@@ -406,3 +406,6 @@
 - Chapter 1: "The doctrines of the Lord, then, are three: the hope of life, the beginning and the completion of it."
 - Chapter 2: "He has therefore abolished these things [viz., the Jewish sacrifices], that the new law of our Lord Jesus Christ, which is without the yoke of necessity, might have a human oblation."
 - Chapter 3: "For He revealed all these things to us beforehand, that we should not rush forward as rash acceptors of their [viz., the Jews'] laws."
+- Chapter 4: "Reflect and behold, that after so great signs and wonders were wrought in Israel, they were thus [at length] abandoned."
+- Chapter 5: "If He had not come in the flesh, how could men have been saved by beholding Him? Since looking upon the sun which is to cease to exist, and is the work of His hands, their eyes are not able to bear his rays."
+- Chapter 6: "We, then, are they whom He has led into the good land. What, then, mean milk and honey? This, that as the infant is kept alive first by honey, and then by milk, so also we, being quickened and kept alive by the faigh of the promise and by the word, shall live ruling over the earth."
