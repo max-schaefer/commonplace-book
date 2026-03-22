@@ -424,3 +424,16 @@
 - Chapter 19: "Thou shalt not slay the child by procuring abortion; nor, again, shalt thou not destroy it after it is born."
 - Chapter 20: "The way of darkness is crooked and full of cursing."
 - Chapter 21: "He who keepeth these [judgments of the Lord] shall be glorified in the kingdom of God; but he who chooseth other things shall be destroyed with his works."
+
+### Papias
+
+#### Fragments
+
+- Fragment 1: "I imagined that what was to be got from books was not so profitable to me as what came from the living and abiding voice."
+- Fragment 3: "Judas walked about in this world a sad example of impiety; for his body having swollen to such an extent that he could not pass where a chariot could pass easily, he was crushed by the chariot, so that his bowels gushed out."
+- Fragment 4: "All animals, feeding then only on the productions of the earth, would become peaceable and harmonious, and be in perfect subjection to man."
+- Fragment 5: "There is this distinction between the habitation of those who produce an hundred-fold, and that of those who produce sixty-fold, and that of those who produce thirty-fold; for the first will be taken up into the heavens, the second class will dwell in Paradise, and the last will inhabit the city; and that on this account the Lord said, 'In my Father's house are many mansions'."
+- Fragment 7: "To some of them [angels] He gave dominion over the arrangement of the world, and He commissioned them to exercise their dominion well."
+- Fragment 8: "With regard to the inspiration of the book [of Revelation], we deem it superfluous to add another word; for the blessed Gregory Theologus and Cyril, and even men of still older date, Papias, Irenaeus, Methodius, and Hippolytus, bore entirely satisfactory testimony to it."
+- Fragment 9: "Papias of Hierapolis, the illustrious, a disciple of the apostle who leaned on the bosom of Christ, and Clemens, and Pantaenus the priest of [the Church] of the Alexandrians, and the wise Ammonius, the ancient and first expositors, who agreed with each other, who understood the work of the six days as referring to Christ and the whole Church."
+- Fragment 10: "James and Judas and Joseph were sons of an aunt of the Lord's. James also and John were sons of another aunt of the Lord's."
