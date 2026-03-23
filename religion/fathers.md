@@ -437,3 +437,11 @@
 - Fragment 8: "With regard to the inspiration of the book [of Revelation], we deem it superfluous to add another word; for the blessed Gregory Theologus and Cyril, and even men of still older date, Papias, Irenaeus, Methodius, and Hippolytus, bore entirely satisfactory testimony to it."
 - Fragment 9: "Papias of Hierapolis, the illustrious, a disciple of the apostle who leaned on the bosom of Christ, and Clemens, and Pantaenus the priest of [the Church] of the Alexandrians, and the wise Ammonius, the ancient and first expositors, who agreed with each other, who understood the work of the six days as referring to Christ and the whole Church."
 - Fragment 10: "James and Judas and Joseph were sons of an aunt of the Lord's. James also and John were sons of another aunt of the Lord's."
+
+### Justin Martyr
+
+#### The First Apology of Justin
+
+- Chapter 1: "I, Justin, the son of Priscus and grandson of Bacchius, natives of Flavia Neapolis in Palestine, present this address and petition in behalf of those of all nations who are unjustly hated and wantonly abused, myself being one of them."
+- Chapter 2: "You can kill us, but not hurt us."
+- Chapter 3: "It is our task, therefore, to afford to all an opportunity of inspecting our life and teachings, lest, on account of those who are accustomed to be ignorant of our affairs, we should incur the penalty due to them for mental blindness."
