@@ -445,3 +445,6 @@
 - Chapter 1: "I, Justin, the son of Priscus and grandson of Bacchius, natives of Flavia Neapolis in Palestine, present this address and petition in behalf of those of all nations who are unjustly hated and wantonly abused, myself being one of them."
 - Chapter 2: "You can kill us, but not hurt us."
 - Chapter 3: "It is our task, therefore, to afford to all an opportunity of inspecting our life and teachings, lest, on account of those who are accustomed to be ignorant of our affairs, we should incur the penalty due to them for mental blindness."
+- Chapter 4: "We are accused of being Christians, and to hate what is excellent (Chrestian) is unjust."
+- Chapter 5: "Not only among the Greeks did reason (Logos) prevail to condemn these things through Socrates, but also among the Barbarians were they condemned by Reason (or the Word, the Logos) Himself, who took shape, and became man, and was called Jesus Christ."
+- Chapter 6: "We confess that we are atheists, so far as the gods of this sort are concerned, but not with respect to the most true God, the Father."
