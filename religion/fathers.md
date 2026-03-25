@@ -448,3 +448,6 @@
 - Chapter 4: "We are accused of being Christians, and to hate what is excellent (Chrestian) is unjust."
 - Chapter 5: "Not only among the Greeks did reason (Logos) prevail to condemn these things through Socrates, but also among the Barbarians were they condemned by Reason (or the Word, the Logos) Himself, who took shape, and became man, and was called Jesus Christ."
 - Chapter 6: "We confess that we are atheists, so far as the gods of this sort are concerned, but not with respect to the most true God, the Father."
+- Chapter 7: "We will not require that you punish our accusers; they being sufficiently punished by their present wickedness and ignorance of what is right."
+- Chapter 8: "We say that the same thing [i.e., meting out justice] will be done, but at the hand of Christ, and upon the wicked in the same bodies united again to their spirits which are now to undergo everlasting punishment; and not only, as Plato said, for a period of a thousand year."
+- Chapter 9: "Often out of vessels of dishonour, by merely changing the form, and making an image of the requisite shape, they make what they call a god."
