@@ -451,3 +451,6 @@
 - Chapter 7: "We will not require that you punish our accusers; they being sufficiently punished by their present wickedness and ignorance of what is right."
 - Chapter 8: "We say that the same thing [i.e., meting out justice] will be done, but at the hand of Christ, and upon the wicked in the same bodies united again to their spirits which are now to undergo everlasting punishment; and not only, as Plato said, for a period of a thousand year."
 - Chapter 9: "Often out of vessels of dishonour, by merely changing the form, and making an image of the requisite shape, they make what they call a god."
+- Chapter 10: "In order that we may follow those things which please Him, choosing them by means of the rational faculties He has Himself endowed is with, He both persuades us and leads us to faith."
+- Chapter 11: "Since our thoughts are not fixed on the present, we are not concerned when men cut us off; since also death is a debt which must at all events be paid."
+- Chapter 12: "Each man goes to everlasting punishment or salvation according to the value of his actions."
