@@ -454,3 +454,6 @@
 - Chapter 10: "In order that we may follow those things which please Him, choosing them by means of the rational faculties He has Himself endowed is with, He both persuades us and leads us to faith."
 - Chapter 11: "Since our thoughts are not fixed on the present, we are not concerned when men cut us off; since also death is a debt which must at all events be paid."
 - Chapter 12: "Each man goes to everlasting punishment or salvation according to the value of his actions."
+- Chapter 13: "We have been taught that the only honour that is worthy of Him is not to consume by fire what He has brought into being for our sustenance, but to use it for ourselves."
+- Chapter 14: "We who valued above all things the acquisition of wealth and possessions, now bring what we have into common stock, and communicate to every one in need."
+- Chapter 15: "All who, by human law, are twice married, are in the eye of our Master sinners."
