@@ -457,3 +457,6 @@
 - Chapter 13: "We have been taught that the only honour that is worthy of Him is not to consume by fire what He has brought into being for our sustenance, but to use it for ourselves."
 - Chapter 14: "We who valued above all things the acquisition of wealth and possessions, now bring what we have into common stock, and communicate to every one in need."
 - Chapter 15: "All who, by human law, are twice married, are in the eye of our Master sinners."
+- Chapter 16: "Let those who are not found living as He taught, be understood to be no Christians, even though they profess with the lip the precepts of Christ; for not those who make profession, but those who do the works, shall be saved."
+- Chapter 17: "To God alone we render worship, but in other things we gladly serve you, acknowledging you as kings and rulers of men, and praying that with your kingly power you be found to possess also sound judgment."
+- Chapter 18: "We expect to receive again our own bodies, though they be dead and cast into the earth, for we maintain that with God nothing is impossible."
