@@ -466,3 +466,6 @@
 - Chapter 22: "The Son of God called Jesus, even if only a man by ordinary generation, yet, on account of His wisdom, is worthy to be called the Son of God."
 - Chapter 23: "Jesus Christ is the only proper Son who has been begotten by God, being His Word and first-begotten, and power."
 - Chapter 24: "Though we say things similar to what the Greeks say, we only are hated on account of the name of Christ, and though we do no wrong, are put to death as sinners."
+- Chapter 25: "Those who believe in these things [viz., pagan myths about their gods' depravities] we pity, and those who invented them we know to be devils."
+- Chapter 26: "He [viz., Simon Magus] was considered a god, and as a god was honoured by you with a statue, which statue was erected on the river Tiber, between the two bridges, and bore this inscription, in the language of Rome: 'Simoni Deo Sancto', 'To Simon the holy God'."
+- Chapter 27: "We have been taught that to expose newly-born children is the part of wicked men."
