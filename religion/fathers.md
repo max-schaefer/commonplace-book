@@ -469,3 +469,6 @@
 - Chapter 25: "Those who believe in these things [viz., pagan myths about their gods' depravities] we pity, and those who invented them we know to be devils."
 - Chapter 26: "He [viz., Simon Magus] was considered a god, and as a god was honoured by you with a statue, which statue was erected on the river Tiber, between the two bridges, and bore this inscription, in the language of Rome: 'Simoni Deo Sancto', 'To Simon the holy God'."
 - Chapter 27: "We have been taught that to expose newly-born children is the part of wicked men."
+- Chapter 28: "The reason why God has delayed to do this [viz., the Final Judgment] is His regard for the human race. He foreknows that some are to be saved by repentance, some even that are perhaps not yet born."
+- Chapter 29: "That you may understand that promiscuous intercourse is not one of our mysteries, one of our number a short time ago presented to Felix the governor in Alexandria a petition, craving that permission might be given to a surgeon to make him an eunuch."
+- Chapter 30: "With our own eyes we behold things that have happened and are happening just as they were predicted; and this will, we think appear even to you the strongest and truest evidence."
