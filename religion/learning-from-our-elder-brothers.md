@@ -96,6 +96,10 @@ When God says he will punish the children of the wicked to the third and fourth 
 
 [The Parashah Podcast](https://open.spotify.com/episode/1TZiaLjHEznDT4ZzLgN20O?si=fFJmsb3JQFGSKiZHswR0Uw): The (repeated) command to keep the Sabbath says to refrain from work ("melakha"), but does not define what work is. However, that same word is used in the description of the building of the tabernacle, so the rabbis have inferred that the work forbidden on the Sabbath is the same as the work done to build the tabernacle.
 
+The pericope of the women who "perform tasks at the entrance of the Tent of Meeting" and donate their mirrors to make the bronze basin for the Tabernacle in Exodus 38:8 are interpreted in different ways by Rashi and the Ibn Ezra:
+- Rashi, drawing on the Midrash Tankhuma, related that Moses at first wanted to reject the donation since he associated mirrors with vanity and seduction. But then God explains to him that this seduction served a holy purpose during the Israelites' slavery in Egypt, enticing Jewish husbands to continue sexual relations with their wives in spite of their physical exhaustion from hard labour, thereby ensuring the continuation of the Jewish people.
+- Ibn Ezra instead sees the women as devout worshippers who abandon worldly pleasures after the Exodus, instead dedicating themselves to prayer and study at the Tabernacle. This suggests they might have been precursors of the prophetess Anna figuring in the Presentation narrative.
+
 ## Leviticus
 
 ### Parashah Tzav (Leviticus 6:1-8:36)
