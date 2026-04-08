@@ -481,3 +481,6 @@
 - Chapter 37: "And that this too may be clear to you, there were spoken from the person of the Father through Isaiah the prophet, the following words: 'The ox knoweth his owner, and the ass his master's crib; but Israel doth not know, and My people hath not understood.'"
 - Chapter 38: "And when the Spirit of prophecy speaks from the person of Christ, the utterances are of this sort: 'I have spread out My hands to a disobedient and gainsaying people, to those who talk in a way that is not good.'"
 - Chapter 39: "And when the Spirit of prophecy speaks as predicting things that are to come to pass, He speaks in this way: 'For out of Zion shall go forth the law, and the word of the Lord from Jerusalem.'"
+- Chapter 40: "God calls all to repentance before the day of judgment comes."
+- Chapter 41: "In another prophecy, the Spirit of prophecy, through the same David, intimated that Christ, after He had been crucified, should reign."
+- Chapter 42: "The things which He absolutely knows will take place, He predicts as if already they had taken place."
