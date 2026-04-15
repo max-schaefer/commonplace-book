@@ -513,3 +513,9 @@
 - Epistle of Adrian in behalf of the Christians: "If any man shall, through mere calumny, bring an accusation against any of these persons [viz., the Christians], you shall award him more sever pubishments in proportion to his wickedness."
 - Epistle of Antoninus to the Common Assembly of Asia: "They conquer you by being lavish with their lives rather than yield that obedience which you require of them."
 - Epistle of Marcus Aurelius to the Senate, in which He Testifies that the Christians were the Cause of His Victory: "Simultaneously with their casting themselves on the ground, and praying to God (a God of whom I am ignorant), water poured from heaven, upon us most refreshingly cool, but upon the enemies of Rome a withering hail."
+
+#### The Second Apology of Justin
+
+- Chapter 1: "The evil demons, who hate us, and who keep such men as these subject to themselves, and serving them in the capacity of judges, incite them, as rulers actuated by evil spirits, to put us to death."
+- Chapter 2: "He who denies anything either denies it because he condemns the thing itself, or he shrinks from confession because he is conscious of his own unworthiness or alienation from it, neither of which cases is that of the true Christian."
+- Chapter 3: "If he [viz., Crescens] assails us without having read the teachings of Christ, he is thoroughly depraved, and far worse than the illiterate, who often refrain from discussing or bearing false witness about matters they do not understand."
