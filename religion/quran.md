@@ -34,6 +34,12 @@
 
   While the idea of God knowing the outcome of human free choices and acting upon them seems similar to Christian (and particularly Thomist) perspectives on predestination, this story of the killing of an innocent child due to his future bad choices before he has even made those choices seems troubling to me. As St Paul emphasises, God elected Jacob over Esau while they were still in their mother's womb and before Esau had done anything bad, but the consequences of that election only played out over time and in response to Esau's actual choices (as foreknown by God).
 
+## Surah Al-Mu'minun (23)
+
+- 14: _Then We developed the drop into a clinging clot, then developed the clot into a lump of flesh, then developed the lump into bones, then clothed the bones with flesh, then We brought it into being as a new creation. So Blessed is Allah, the Best of Creators._
+
+  This seems to suggest that ensoulment happens after the formation of the body, not at conception.
+
 ## Surah 81 (At-Takwir)
 
 - 29: _But you cannot will to do so unless Allah — Lord of all worlds — wills._

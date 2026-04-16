@@ -157,6 +157,10 @@ Finally, the podcast notes that in the confrontation with the king of Arad, the 
 
 ## Deuteronomy
 
+### Parashah Eikev (Deuteronomy 7:12-11:25)
+
+[The Tanakh Podcast](https://open.spotify.com/episode/4eIqHfFpXEka7y8gJmBW95) brings a discussion from the Talmud ([Yoma 69b](https://www.sefaria.org/Yoma.69b?lang=bi)) on Deuteronomy 10:17, where Moses describes God as "the great, the mighty, and the awesome God" (הָאֵל הַגָּדֹל הַגִּבֹּר וְהַנּוֹרָא). Jeremiah and Daniel each partly cited these attributes in their prayers, but each omitted one that seemed implausible given their circumstances. Jeremiah (32:18), prophesying during the destruction of the Temple, said "the great and mighty God" but dropped "awesome" (נורא): gentiles are rampaging through His sanctuary — where is His awesomeness? Daniel (9:4), praying in exile, said "the great and awesome God" but dropped "mighty" (גיבור): gentiles are enslaving His children — where is His might? The Men of the Great Assembly then restored all three attributes in the Amidah, reinterpreting the ones that had been dropped: that _is_ His might — that He restrains His anger and is patient with the wicked; and that _is_ His awesomeness — for were it not for the awe of the Holy One, how could a single nation survive among the nations?
+
 ### Parashah Shoftim (Deuteronomy 16:18-21:9)
 
 [The Parashah Podcast](https://open.spotify.com/episode/5N5TwDqKyDas5jKp9Rck42?si=T02ea08uRF-RG2Oqg1KlGQ): Deuteronomy 20:10-18 describes the rules for war. It contains three stipulations:
