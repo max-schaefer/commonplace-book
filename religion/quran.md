@@ -40,6 +40,10 @@
 
   This seems to suggest that ensoulment happens after the formation of the body, not at conception.
 
+- 27: _So We inspired him: "Build the Ark under Our watchful Eyes and directions. Then when Our command comes and the oven bursts with water, take on board a pair from every species along with your family—except those against whom the decree to drown has already been passed. And do not plead with Me for those who have done wrong, for they will surely be drowned."_
+
+  The last part of this verse doesn't appear in the Biblical account, but provides an explanation why Noah, unlike Moses, did not intercede for the people to save them from God's wrath.
+
 ## Surah 81 (At-Takwir)
 
 - 29: _But you cannot will to do so unless Allah — Lord of all worlds — wills._
