@@ -531,3 +531,9 @@
 - Chapter 13: "Whatever things were rightly said among all men, are the property of us Christians."
 - Chapter 14: "So these things may be published to men, because it is in the nature of man to know good and evil."
 - Chapter 15: "Our doctrines are not shameful, according to a sober judgment, but are indeed more lofty than all human philosophy."
+
+#### Dialogue of Justin, Philosopher and Martyr, with Trypho, a Jew
+
+- Chapter 1: "Is not this truly the duty of philosophy, to investigate the Deity?"
+- Chapter 2: "Such was my stupidity, I expected forthwith to look upon God, for this is the end of Plato's philosophy."
+- Chapter 3: "'Philosophy, then', said I, 'is the knowledge of that which really exists, and a clear perception of the truth; and happiness is the reward of such knowledge and wisdom.'"
