@@ -537,3 +537,6 @@
 - Chapter 1: "Is not this truly the duty of philosophy, to investigate the Deity?"
 - Chapter 2: "Such was my stupidity, I expected forthwith to look upon God, for this is the end of Plato's philosophy."
 - Chapter 3: "'Philosophy, then', said I, 'is the knowledge of that which really exists, and a clear perception of the truth; and happiness is the reward of such knowledge and wisdom.'"
+- Chapter 4: "'Therefore souls neither see God nor transmigrate into other bodies; for they would know that so they are punished, and they would be afraid to commit even the most trivial sin afterwards.'"
+- Chapter 5: "'I do not say, indeed, that all souls die; for that were truly a piece of good fortune for the evil.'"
+- Chapter 6: "'The soul partakes of life, since God wills it to live. Thus, then, it will not even partake [of life] when God does not will it to live.'"
