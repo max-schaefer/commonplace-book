@@ -540,3 +540,6 @@
 - Chapter 4: "'Therefore souls neither see God nor transmigrate into other bodies; for they would know that so they are punished, and they would be afraid to commit even the most trivial sin afterwards.'"
 - Chapter 5: "'I do not say, indeed, that all souls die; for that were truly a piece of good fortune for the evil.'"
 - Chapter 6: "'The soul partakes of life, since God wills it to live. Thus, then, it will not even partake [of life] when God does not will it to live.'"
+- Chapter 7: "'Those events which have happened, and those which are happening, compel you to assent to the utterances made by them [viz., the prophets].'"
+- Chapter 8: "'You, having accepted a groundless report, invent a Christ for yourselves, and for his sake are inconsiderately perishing.'"
+- Chapter 9: "'I shall prove to you as you stand here that we have not believed empty fables, or words without any foundation but words filled with the Spirit of God, and big with power, and flourishing with grace.'"
