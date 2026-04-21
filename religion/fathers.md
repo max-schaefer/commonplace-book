@@ -546,3 +546,6 @@
 - Chapter 10: "I am aware that your precepts in the so-called Gospel are so wonderful and so great, that I suspect no one can keep them; for I have carefully read them."
 - Chapter 11: "Nor do we think that there is one God for us, another for you, but that He alone is God who led your fathers out from Egypt with a strong hand and a high arm."
 - Chapter 12: "If there is any perjured person or a thief among you, let him cease to be so; if any adulterer, let him repent; then he has kept the sweet and true sabbaths of God."
+- Chapter 13: "This was that saving bath of the olden time which followed those who repented, and who no longer were purified by the blood of goats and of sheep, or by the ashes of an heifer, or by the offerings of fine flour, but by faith through the blood of Christ, and through His death, who died for this very reason, as Isaiah himself said."
+- Chapter 14: "What is the use of that baptism which cleanses the flesh and body alone? Baptize the soul from wrath, and from covetousness, from envy, and from hatred; and, lo! the body is pure."
+- Chapter 15: "Learn, therefore, to keep the true fast of God, as Isaiah says, that you may please God."
