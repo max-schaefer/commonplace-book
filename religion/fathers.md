@@ -549,3 +549,6 @@
 - Chapter 13: "This was that saving bath of the olden time which followed those who repented, and who no longer were purified by the blood of goats and of sheep, or by the ashes of an heifer, or by the offerings of fine flour, but by faith through the blood of Christ, and through His death, who died for this very reason, as Isaiah himself said."
 - Chapter 14: "What is the use of that baptism which cleanses the flesh and body alone? Baptize the soul from wrath, and from covetousness, from envy, and from hatred; and, lo! the body is pure."
 - Chapter 15: "Learn, therefore, to keep the true fast of God, as Isaiah says, that you may please God."
+- Chapter 16: "These things [i.e., the destruction of the Second Temple and the dispersion of the Jews] have happened to you in fairness and justice, for you have slain the Just One."
+- Chapter 17: "At that time you selected and sent out from Jerusalem chosen men through all the land to tell that the godless heresy of the Christians had sprung up, and to publish those things which all they who knew us not speak against us."
+- Chapter 18: "We too would observe the fleshly circumcision, and the Sabbaths, and in short all the feasts, if we did not know for what reason they were enjoined you,--namely, on account of your transgressions and the hardness of your hearts."
