@@ -558,3 +558,6 @@
 - Chapter 22: "He neither takes sacrifices from you nor commanded them at first to be offered because they are needful to Him, but because of your sins."
 - Chapter 23: "The inability of the female sex to receive fleshly circumcision proves that this circumcision has been given for a sign, and not for a work of righteousness."
 - Chapter 24: "There is now another covenant, and another law has gone forth from Zion."
+- Chapter 25: "And Trypho remarked: 'What is this you say? that none of us shall inherit anything on the holy mountain of God?'"
+- Chapter 26: "And I replied, 'I do not say so; but those who have persecuted and do persecute Christ, of they do not repent, shall not inherit anything on the holy mountain.'"
+- Chapter 27: "And Trypho said, 'Why do you select and quote whatever you wish from the prophetic writings, but do not refer to those which expressly command the Sabbath to be observed?'"
