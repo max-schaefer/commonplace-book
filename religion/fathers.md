@@ -561,3 +561,6 @@
 - Chapter 25: "And Trypho remarked: 'What is this you say? that none of us shall inherit anything on the holy mountain of God?'"
 - Chapter 26: "And I replied, 'I do not say so; but those who have persecuted and do persecute Christ, if they do not repent, shall not inherit anything on the holy mountain.'"
 - Chapter 27: "And Trypho said, 'Why do you select and quote whatever you wish from the prophetic writings, but do not refer to those which expressly command the Sabbath to be observed?'"
+- Chapter 28: "Do not delay or hesitate to put faith in me, although I am an uncircumcised man; so short a time is left you in which to become proselytes."
+- Chapter 29: "What need, then, have I of circumcision, who have been witnessed to by God?"
+- Chapter 30: "For we call Him Helper and Redeemer, the power of whose name even the demons do fear."
