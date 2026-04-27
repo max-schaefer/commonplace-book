@@ -564,3 +564,5 @@
 - Chapter 28: "Do not delay or hesitate to put faith in me, although I am an uncircumcised man; so short a time is left you in which to become proselytes."
 - Chapter 29: "What need, then, have I of circumcision, who have been witnessed to by God?"
 - Chapter 30: "For we call Him Helper and Redeemer, the power of whose name even the demons do fear."
+- Chapter 31: "For He shall come on the clouds as the Son of man, so Daniel foretold, and His angels shall come with Him."
+- Chapter 32: "Trypho said, 'These and such like Scriptures, sir, compel us to wait for Him who, as Son of man, receives from the Ancient of days the everlasting kingdom. But this so-called Christ of yours was dishonourable and inglorious, so much so that the last curse contained in the law of God fell on him, for he was crucified.'"
