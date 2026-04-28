@@ -566,3 +566,7 @@
 - Chapter 30: "For we call Him Helper and Redeemer, the power of whose name even the demons do fear."
 - Chapter 31: "For He shall come on the clouds as the Son of man, so Daniel foretold, and His angels shall come with Him."
 - Chapter 32: "Trypho said, 'These and such like Scriptures, sir, compel us to wait for Him who, as Son of man, receives from the Ancient of days the everlasting kingdom. But this so-called Christ of yours was dishonourable and inglorious, so much so that the last curse contained in the law of God fell on him, for he was crucified.'"
+- Chapter 33: "God has shown that His everlasting Priest, called also by the Holy Spirit Lord, would be Priest of those in uncircumcision."
+- Chapter 34: "For Christ is King, and Priest, and God, and Lord, and angel, and man, and captain, and stone, and a Son born."
+- Chapter 35: "Trypho said, 'I believe, however, that many of those who say that they confess Jesus, and are called Christians, eat meats offered to idols, and declare that they are by no means injured in consequence.'"
+- Chapter 36: "It is shown that Solomon is not the Lord of hosts; but when our Christ rose from the dead and ascended to heaven, the rulers in heaven, under appointment of God, are commanded to open the gates of heaven, that He who is King of glory may enter in, and having ascended, may sit on the right hand of the Father until He make the enemies His footstool, as has been made manifest by another Psalm."
