@@ -606,3 +606,6 @@
 - Chapter 70: "These Scriptures are equally explicit in saying, that those who are reputed to know the writings of the Scriptures, and who hear the prophecies, have no understanding."
 - Chapter 71: "I am far from putting reliance in your teachers, who refuse to admit that the interpretations made by the seventy elders who were with Ptolemy [king] of the Egyptians is a correct one."
 - Chapter 72: "From the sayings of Jeremiah they [viz., the rabbis] have cut out the following: I [was] like a lamb that is brought to the slaughter: they devised a device against me, saying, Come, let us lay on wood on His bread, and let us blot Him out from the land of the living; and His name shall no more be remembered.'"
+- Chapter 73: "From the ninety-fifth (ninety-sixth) Psalm they have have taken away this short saying of the words of David: 'From the wood.'"
+- Chapter 74: "You shall know that I speak not sinfully, and that we are not really bewitched; for so you shall be enabled of yourselves to understand many other statements made by the Holy Spirit."
+- Chapter 75: "In the book of Exodus we have also perceived that the name of God Himself which, He says, was not revealed to Abraham or to Jacob, was Jesus, and was declared mysteriously through Moses."
