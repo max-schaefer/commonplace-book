@@ -609,3 +609,6 @@
 - Chapter 73: "From the ninety-fifth (ninety-sixth) Psalm they have have taken away this short saying of the words of David: 'From the wood.'"
 - Chapter 74: "You shall know that I speak not sinfully, and that we are not really bewitched; for so you shall be enabled of yourselves to understand many other statements made by the Holy Spirit."
 - Chapter 75: "In the book of Exodus we have also perceived that the name of God Himself which, He says, was not revealed to Abraham or to Jacob, was Jesus, and was declared mysteriously through Moses."
+- Chapter 76: "He declares that, in saying like unto the Son of man,' He appeared, and was man, but not of human seed."
+- Chapter 77: "Show me yourselves first of all how it is said of Hezekiah, the before he knew how to call father or mother, he received the power of Damascus and the spoils of Samaria in the presence of the king of Assyria."
+- Chapter 78: "When the Child was born in Bethlehem, since Joseph could not find a lodging in that village, he took up his quarters in a certain cave near the village."
