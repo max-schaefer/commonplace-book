@@ -612,3 +612,6 @@
 - Chapter 76: "He declares that, in saying like unto the Son of man,' He appeared, and was man, but not of human seed."
 - Chapter 77: "Show me yourselves first of all how it is said of Hezekiah, the before he knew how to call father or mother, he received the power of Damascus and the spoils of Samaria in the presence of the king of Assyria."
 - Chapter 78: "When the Child was born in Bethlehem, since Joseph could not find a lodging in that village, he took up his quarters in a certain cave near the village."
+- Chapter 79: "Trypho, who was somewhat angry, but respected the Scriptures, as was manifest from his countenance, said to me, 'The utterances of God are holy, but your expositions are mere contrivances.'"
+- Chapter 80: "I and others, who are right-minded Christians on all points, are adsured that there will be a resurrection of the dead, and a thousand years in Jerusalem, which will then be built, adorned, and enlarged, [as] the prophets Ezekiel and Isaiah and others declare."
+- Chapter 81: "We have understood that the experssion used among these words [of Isaiah], According to the days of the tree [of life] shall be the days of my people; the works of their toil shall abound' obscurely predicts a thousand years."
