@@ -627,3 +627,6 @@
 - Chapter 91: "No one could say or prove that the horns of an unicorn represent any other fact or figure than the type which portrays the cross."
 - Chapter 92: "God who foreknew was aware that your [viz., Trypho's] nation would deserve expulsion from Jerusalem, and that none would be permitted to enter into it."
 - Chapter 93: "They [viz., sinners] do not escape from the knowledge that they act unrighteously whenever they so do, with the exception of those who are possessed with an unclean spirit, and who have been debased by education, by wicked customs, and by sinful institutions, and who have lost, or rather quenched and put under, their natural ideas."
+- Chapter 94: "Just as God commanded the sign to be made by the brazen serpent, and yet He is blameless; even so, though a curse lies in the law against persons who are crucified, yet no curse lies on the Christ of God, by whom all that have committed things worthy of a curse are saved."
+- Chapter 95: "Why do you argue about Him, who submitted to suffer these things according to the Father's will, as if He were accursed, and do not rather bewail yourselves?"
+- Chapter 96: "You curse in your synagogues all those who are called from Him Christians."
