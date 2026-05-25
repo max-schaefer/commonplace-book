@@ -44,6 +44,12 @@
 
   The last part of this verse doesn't appear in the Biblical account, but provides an explanation why Noah, unlike Moses, did not intercede for the people to save them from God's wrath.
 
+## Surah 28 (Al-Qasas)
+
+- 24: _So he watered their herd for them, then withdrew to the shade and prayed, "My Lord! I am truly in desperate need of whatever provision You may have in store for me."_
+
+  What a beautiful prayer!
+
 ## Surah 81 (At-Takwir)
 
 - 29: _But you cannot will to do so unless Allah — Lord of all worlds — wills._

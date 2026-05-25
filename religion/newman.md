@@ -34,9 +34,15 @@
 
 > A really philosophical mind, if unhappily it has ruined its own religious perceptions, will be silent; it will understand that Religion does not lie in its way: it may disbelieve its truths, it may account belief in them a weakness, or, on the other hand, a happy dream, a delightful error, which it cannot itself enjoy;—any how, it will not usurp.
 
-# The Idea of a University
+# [The Idea of a University](https://www.gutenberg.org/files/24526/24526-pdf.pdf)
 
 > In a word, from the time that Athens was the University of the world, what has Philosophy taught men, but to promise without practising, and to aspire without attaining? What has the deep and lofty thought of its disciples ended in but eloquent words?
+
+> When they do wrong, they feel, not contrition, of which God is the object, but remorse, and a sense of degradation. They call themselves fools, not sinners; they are angry and impatient, not humble. They shut themselves up in themselves.
+
+> What is more beautiful, what more winning, than modesty? What virtue, at first sight, simulates humility so well? Though what in fact is more radically distinct from it?
+
+> Catholicism, as it has come down to us from the first, seems to be mean and illiberal; it is a mere popular religion; it is the religion of illiterate ages or servile populations or barbarian warriors; it must be treated with discrimination and delicacy, corrected, softened, improved, if it is to satisfy an enlightened generation. It must be stereotyped as the patron of arts, or the pupil of speculation, or the protégé of science; it must play the literary academician, or the empirical philanthropist, or the political partisan; it must keep up with the age; some or other expedient it must devise, in order to explain away, or to hide, tenets under which the intellect labours and of which it is ashamed—its doctrine, for instance, of grace, its mystery of the Godhead, its preaching of the Cross, its devotion to the Queen of Saints, or its loyalty to the Apostolic See.
 
 # The Mission of St. Philip Neri
 
