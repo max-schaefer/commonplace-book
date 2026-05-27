@@ -658,3 +658,6 @@
 - Chapter 122: "The proselytes not only do not believe, but twofold more than yourselves blaspheme His name, and wish to torture and put to death us who believe in Him; for in all points they strive to be like you."
 - Chapter 123: "As therefore from one man Jacob, who was surnamed Israel, all your nation has been called Jacob and Israel; so we from Christ, who begat us unto God, like Jacob, and Israel, and Judah, and Joseph, and David, are called and are the true sons of God, and keep the commandments of Christ."
 - Chapter 124: "Let the interpretation of the Psalm [viz., Psalm 82] be held just as you wish, yet thereby it is demonstrated that all men are deemed worthy of becoming 'gods,' and of having power to become sons of the Highest."
+- Chapter 125: "Accordingly the name Israel signifies this, A man who overcomes power; for Isra is a man overcoming, and El is power."
+- Chapter 126: "If you had understood what has been written by the prophets, you would not have denied that He was God, Son of the only, unbegotten, unutterable God."
+- Chapter 127: "For the ineffable Father and Lord of all neither has come up to any place, nor walks, nor sleeps, nor rises up, but remains in His own place, wherever that is, quick to behold and quick to hear, having neither eyes nor ears, but being of indescribable might."
