@@ -661,3 +661,6 @@
 - Chapter 125: "Accordingly the name Israel signifies this, A man who overcomes power; for Isra is a man overcoming, and El is power."
 - Chapter 126: "If you had understood what has been written by the prophets, you would not have denied that He was God, Son of the only, unbegotten, unutterable God."
 - Chapter 127: "For the ineffable Father and Lord of all neither has come up to any place, nor walks, nor sleeps, nor rises up, but remains in His own place, wherever that is, quick to behold and quick to hear, having neither eyes nor ears, but being of indescribable might."
+- Chapter 128: "The Father, when He chooses, say they, causes His power to spring forth, and when He chooses, He makes it return to Himself."
+- Chapter 129: "You perceive, my hearers, if you bestow attention, that the Scripture has declared that this Offspring was begotten by the Father before all things created; and that which is begotten is numerically distinct from that which begets, any one will admit."
+- Chapter 130: "We know from Isaiah that the members of those who have transgressed shall be consumed by the worm and unquenchable fire, remaining immortal; so that they become a spectacle to all flesh."
