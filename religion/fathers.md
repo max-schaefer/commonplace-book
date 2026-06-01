@@ -676,3 +676,9 @@
 - Chapter 140: "They [viz., the Jewish teachers] beguile themselves and you, supposing that the everlasting kingdom will be assuredly given to those of the dispersion who are of Abraham after the flesh, although they be sinners, and faithless, and disobedient towards God, which the Scriptures have proved is not the case."
 - Chapter 141: "God, wishing men and angels to follow His will, resolved to create them free to do righteousness."
 - Chapter 142: "I exhort you to give all diligence in this very great struggle for your own salvation, and to be earnest in setting a higher value on the Christ of the Almighty God than on your own teachers."
+
+#### The Discourse to the Greeks
+
+- Chapter 1: "The very compositions of your poets are monuments of madness and intemperance."
+- Chapter 2: "But since, next to Homer, Hesiod wrote his Workds and Days, who will believe his drivelling theogony?"
+- Chapter 3: "Ye Greeks, your gods are convicted of intemperance, and your heroes are effeminate."
