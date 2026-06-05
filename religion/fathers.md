@@ -680,7 +680,7 @@
 #### The Discourse to the Greeks
 
 - Chapter 1: "The very compositions of your poets are monuments of madness and intemperance."
-- Chapter 2: "But since, next to Homer, Hesiod wrote his Workds and Days, who will believe his drivelling theogony?"
+- Chapter 2: "But since, next to Homer, Hesiod wrote his Works and Days, who will believe his drivelling theogony?"
 - Chapter 3: "Ye Greeks, your gods are convicted of intemperance, and your heroes are effeminate."
 - Chapter 4: "Why are you, being a Greek, indignant at your son when he imitates Jupiter, and rises against you and defrauds you of your own wife? Why do you count him your enemy, and yet worship one that is like him? And why do you blame your wife for living in unchastity, and yet honour Venus with shrines?"
 - Chapter 5: "The Word exercises an influence which does not make poets: it does not equip philosophers nor skilled orators, but by its instruction it makes mortals immortal, mortals gods; and from the earth it transports them to the realms above Olympus."
@@ -688,8 +688,11 @@
 #### Justin's Hortatory Address to the Greeks
 
 - Chapter 1: "Accurate investigation of matters, putting truth to the question with a more searching scrutiny, often reveals that things which have passed for excellent are of quite another sort."
-- Chapter 2: "If you believe your most distinguished poets, who have given the genealogies of the gods, you must of necessity either suppose that the gods are such being as these [viz., vulnerable and weak], or believe that there are no gods at all."
+- Chapter 2: "If you believe your most distinguished poets, who have given the genealogies of the gods, you must of necessity either suppose that the gods are such beings as these [viz., vulnerable and weak], or believe that there are no gods at all."
 - Chapter 3: "Since it is fit that we commence with the ancients and the earliest, beginning thence I will produce the opinion of each [viz., of the natural philosophers], much more ridiculous as it is than the theology of the poets."
 - Chapter 4: "How then, ye men of Greece, can it be safe for those who desire to be saved, to fancy that they can learn the true religion from these philosophers, who were neither able so to convince themselves as to prevent sectarian wrangling with one another, and not to appear definitely opposed to one another's opinion?"
 - Chapter 5: "May not Thales, then, very fairly say to him [viz., Aristotle, who cites Homer in support of his theory of the aether], 'What is the reason, Aristotle, why you give heed to Homer, as if he spoke truth, when you wish to demolish the opinions of Plato; but when you promulgate an opinion contrary to ours, you think Homer untruthful?'"
 - Chapter 6: "Plato loudly maintains that 'the whole soul is immortal.' But Aristotle, naming it 'the actuality,' would have it to be mortal, not immortal."
+- Chapter 7: "Plato, at any rate, at one time says that there are three first principles of the universe---God, and matter, and form; but at another time four, for he adds the universal soul."
+- Chapter 8: "For neither by nature nor by human conception is it possible for men to know things so great and divine, but by the gift which then descended from above upon the holy men, who had no need of rhetorical art, nor of uttering anything in a contentious or quarrelsome manner, but to present themselves pure to the energy of the Divine Spirit, in order that the divine plectrum itself, descending from heaven, and using righteous men as an instrument like a harp or lyre, might reveal to us the knowledge of things divine and heavenly."
+- Chapter 9: "Of all your teachers, whether sages, poets, historians, philosophers, or lawgivers, by far the oldest, as the Greek histories show us, was Moses, who was our first religious teacher."
