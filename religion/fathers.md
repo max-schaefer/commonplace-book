@@ -708,3 +708,6 @@
 - Chapter 19: "And if you desire to see a clearer proof of the opinion of Pythagoras concerning one God, hear his own opinion, for he spoke as follows: 'God is one; and He Himself does not, as some suppose, exist outside the world, but in it, He being wholly present in the whole circle.'"
 - Chapter 20: "He [viz., Plato] manifestly held the correct opinion concerning the really existing God."
 - Chapter 21: "For God cannot be called by any proper name, for names are given to mark out and distinguish their subject-matters, because there are many and diverse; but neither did any one exist before God who could give Him a name, nor did He Himself think it right to name Himself."
+- Chapter 22: "[Plato] did indeed consider it unsafe to mention the name of Moses, on account of his teaching the doctrine of one only God, for he dreaded the Areopagus."
+- Chapter 23: "Here Plato, through fear of the adherents of polytheism, introduces his 'maker' uttering words which contradict himself."
+- Chapter 24: "The rest of the gods, he [viz., Homer] said, were so far distant from His divinity, that he thought it fit to name them even along with men."
