@@ -711,3 +711,6 @@
 - Chapter 22: "[Plato] did indeed consider it unsafe to mention the name of Moses, on account of his teaching the doctrine of one only God, for he dreaded the Areopagus."
 - Chapter 23: "Here Plato, through fear of the adherents of polytheism, introduces his 'maker' uttering words which contradict himself."
 - Chapter 24: "The rest of the gods, he [viz., Homer] said, were so far distant from His divinity, that he thought it fit to name them even along with men."
+- Chapter 25: "Those who think that the Deity is inflexible, are by no means moved to abandon their sins, since they suppose that they will derive no benefit from repentance."
+- Chapter 26: "And what men does he [viz., Plato] think beloved of God, but Moses and the rest of the prophets?"
+- Chapter 27: "Plato seems to me to have learnt from the prophets not only the doctrine of the judgment, but also of the resurrection, which the Greeks refuse to believe."
