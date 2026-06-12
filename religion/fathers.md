@@ -714,3 +714,6 @@
 - Chapter 25: "Those who think that the Deity is inflexible, are by no means moved to abandon their sins, since they suppose that they will derive no benefit from repentance."
 - Chapter 26: "And what men does he [viz., Plato] think beloved of God, but Moses and the rest of the prophets?"
 - Chapter 27: "Plato seems to me to have learnt from the prophets not only the doctrine of the judgment, but also of the resurrection, which the Greeks refuse to believe."
+- Chapter 28: "Do not these words [viz., of Homer's] present a manifest and clear imitation of what the first prophet Moses said about Paradise?"
+- Chapter 29: "And Plato, too, when he says that form is the third original principle next to God and matter, has manifestly received this suggestion from no other sources than from Moses."
+- Chapter 30: "Homer, too, having discovered from the ancient and divine history which says, 'Dust thou art, and unto dust shalt thou return,' calls the lifeless body of Hector dumb clay."
