@@ -723,3 +723,11 @@
 - Chapter 34: "Seeing that Moses' history, speaking in the person of God, says, 'Let Us make man in our image and likeness,' these persons, under the impression that this meant that men were like God in form, began thus to fashion their god, supposing that they would make a likeness from a likeness."
 - Chapter 35: "They [viz., the holy writers] do not present to you artful discourses, nor speak speciously and plausibly---for this is the property of those who wish to rob you of the truth---but use with simplicity the word and expressions which offer themselves, and declare to you whatever the Holy Ghost, who descended upon them, chose to teach through them to those who are desirous to learn the true religion."
 - Chapter 36: "Let not anyone, therefore, of sound judgment prefer the elegant diction of these men [viz., the pagan writers] to his own salvation, but let him, according to that old story, stop his ears with wax, and flee the sweet hurt which these sirens would inflict upon him."
+- Chapter 37: "You may in part easily learn the right religion from the ancient Sibyl, who by some kind of potent inspiration teaches you, through her oracular predictions, truths which seem to be much akin to the teaching of the prophets."
+- Chapter 38: "Ye men of Greece, the matters of the true religion lie not in the metrical numbers of poetry, nor yet in that culture which is highly esteemed among you."
+
+#### Justin on the Sole Government of God
+
+- Chapter 1: "Although human nature at first received a union of intelligence and safety to discern the truth, and the worship due to the one Lord of all, yet envy, insinuating the excellence of human greatness, turned men away to the making of idols."
+- Chapter 2: "Sophocles also thus describes the nature of the only Creator of all things, the One God: 'There is one God, in truth there is but one.'"
+- Chapter 3: "I can adduce witnesses from your own ranks; and first Sophocles, who speaks as follows: 'That time of times shall come, shall surely come,/ When from the golden ether down shall fall/ Fire's teeming treasure, and in burning flames/ All things of earth and heaven shall be consumed.'"
