@@ -747,3 +747,15 @@
 - Chapter 8: "As in the case of a yoke of oxen, if one or other is loosed from the yoke, neither of them can plough alone; so neither can soul or body alone effect anything, if they be unyoked from their communion."
 - Chapter 9: "Why did He rise in the flesh in which He suffered, unless to show the resurrection of the flesh?"
 - Chapter 10: "If our physician Christ, God, having rescued us from our desires, regulates our flesh with His own wise and temperate rule, it is evident that He guards it from sins because it possesses a hope of salvation, as physicians do not suffer men whom they hope to save to indulge in what pleasures they please."
+
+#### Other Fragments from the Lost Writings of Justin
+
+- 1: "The most admirable Justin rightly declared that the aforesaid demons resembled robbers."
+- 2: "Justin well said in his book against Marcion, that he would not have believed the Lord Himself, if He had announced any other God than the Fashioner and Maker [of the world], and our Nourisher."
+- 3: "Before the advent of the Lord, Satan never ventured to blaspheme God, inasmuch as he was not yet sure of his own damnation."
+- 4: "When the Lord appeared, and the devil clearly understood that eternal fire was laid up and prepared for him and his angels, he then began to plot without ceasing against the faithful, being desirous to have many companions in his apostasy, that he might not by himself endure the shame of condemnation, comforting himself by this cold and malicious consolation."
+- 5: "Justin of Neapolis, a man who was not far separated from the apostles either in age or excellence, says that that which is mortal is inherited, but that which is immortal inherits; and that the flesh indeed dies, but the kingdom of heaven loves."
+- 6: "Neither is there straitness with God, nor anything that is not absolutely perfect."
+- 7: "We shall not injure God by remaining ignorant of Him, but shall deprive ourselves of His friendship."
+- 8: "The unskilfulness of the teacher proves destructive to his disciple, and the carelessness of the disciples entails danger on the teacher."
+- 9: "If at any time thou showest a disposition to blame thyself, then perhaps, through the medicine of repentance, I should cherish good hopes regarding thee."
