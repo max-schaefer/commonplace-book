@@ -759,3 +759,6 @@
 - 7: "We shall not injure God by remaining ignorant of Him, but shall deprive ourselves of His friendship."
 - 8: "The unskilfulness of the teacher proves destructive to his disciple, and the carelessness of the disciples entails danger on the teacher."
 - 9: "If at any time thou showest a disposition to blame thyself, then perhaps, through the medicine of repentance, I should cherish good hopes regarding thee."
+- 10: "The goat that was sent away presented a type of Him who taketh away the sins of men."
+- 11: "Corruption then becoming inherent in nature, it was necessary that He who wished to save should be one who destroyed the efficient cause of corruption."
+- 12: "As it is inherent in all bodies formed by God to have a shadow, so it is fitting that God, who is just, should render to those who choose what is good, and to those who prefer what is evil, to every one according to his deserts."
