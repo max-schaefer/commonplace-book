@@ -769,3 +769,9 @@
 - 17: "As the good of the body is health, so the good of the soul is knowledge, which is indeed a kind of health of soul, by which a likeness to God is attained."
 - 18: "He must be reckoned the most unfortunate of men, who, while living unrighteously, remains for a long time unpunished."
 - 19: "We do not live properly, or according to the truth, unless we understand the nature of things."
+
+#### The Martyrdom of Justin Martyr
+
+- Chapter 1: "Justin said, 'I have endeavoured to learn all doctrines; but I have acquiesced at last in the true doctrines, those namely of the Christians.'"
+- Chapter 2: "Rusticus the prefect said, 'Tell me where you assemble, or into what place do you collect your followers?' Justin said, 'I live above one Martinus, at the Timiotinian Bath; and during the whole time (and I am now living in Rome for the second time) I am unaware of any other meeting than his.'"
+- Chapter 3: "Rusticus says to Hierax, 'Where are your parents?' And he answered, and said, 'Christ is our true father, and faith in Him is our mother.'"
