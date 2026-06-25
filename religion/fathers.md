@@ -775,3 +775,5 @@
 - Chapter 1: "Justin said, 'I have endeavoured to learn all doctrines; but I have acquiesced at last in the true doctrines, those namely of the Christians.'"
 - Chapter 2: "Rusticus the prefect said, 'Tell me where you assemble, or into what place do you collect your followers?' Justin said, 'I live above one Martinus, at the Timiotinian Bath; and during the whole time (and I am now living in Rome for the second time) I am unaware of any other meeting than his.'"
 - Chapter 3: "Rusticus says to Hierax, 'Where are your parents?' And he answered, and said, 'Christ is our true father, and faith in Him is our mother.'"
+- Chapter 4: "Rusticus the prefect said, 'Do you suppose, then, that you will ascend into heaven to receive some recompense?' Justin said, 'I do not suppose it, but I know and am fully persuaded of it.'"
+- Chapter 5: "The holy martyrs having glorified God, and having gone forth to the accustomed place, were beheaded, and perfected their testimony in the confession of the Saviour."
