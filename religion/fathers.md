@@ -777,3 +777,9 @@
 - Chapter 3: "Rusticus says to Hierax, 'Where are your parents?' And he answered, and said, 'Christ is our true father, and faith in Him is our mother.'"
 - Chapter 4: "Rusticus the prefect said, 'Do you suppose, then, that you will ascend into heaven to receive some recompense?' Justin said, 'I do not suppose it, but I know and am fully persuaded of it.'"
 - Chapter 5: "The holy martyrs having glorified God, and having gone forth to the accustomed place, were beheaded, and perfected their testimony in the confession of the Saviour."
+
+### Irenaeus
+
+#### Irenaeus Against Heresies
+
+- Chapter 1: "Error, indeed, is never set forth in its naked deformity, lest, being thus ecposed, it should at once be detected. But it is craftily decked out in an attractive dress, so as, by its outward form, to make it appear to the inexperienced (ridiculous as the expression may seem) more true than the truth itself."
