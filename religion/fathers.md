@@ -782,4 +782,5 @@
 
 #### Irenaeus Against Heresies
 
-- Chapter 1: "Error, indeed, is never set forth in its naked deformity, lest, being thus ecposed, it should at once be detected. But it is craftily decked out in an attractive dress, so as, by its outward form, to make it appear to the inexperienced (ridiculous as the expression may seem) more true than the truth itself."
+- Preface: "Error, indeed, is never set forth in its naked deformity, lest, being thus ecposed, it should at once be detected. But it is craftily decked out in an attractive dress, so as, by its outward form, to make it appear to the inexperienced (ridiculous as the expression may seem) more true than the truth itself."
+- Chapter 1: "They [viz., the Gnostics] maintain that these [viz., the aeons] are great, and wonderful, and hitherto unspeakable mysteries which it is their special function to develop; and so they proceed when they find anything in the multitude of things in the Scriptures which they can adopt and accommodate to their baseless speculations."
