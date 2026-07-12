@@ -798,3 +798,4 @@
 - Chapter 13: "That this Marcus compounds philters and love-potions, in order to insult the persons of some of these women, if not of all, those of them who have returned to the Church of God---a thing which frequently occurs---have acknowledged, confessing, too, that they have been defiled by him."
 - Chapter 14: "He imagines that the emblem of this utterance is found in Amen, which we pronounce in concert."
 - Chapter 15: "Who would not detest one who is the wretched contriver of such audacious falsehoods, when he perceives the truth turned by Marcus into a mere image, and that punctured all over with the letters of the alphabet?"
+- Chapter 16: "Impious indeed, beyond all impiety, are these men, who assert that the Maker of heaven and earth, the only God Almighty, besides whom there is no God, was produced by means of a defect."
