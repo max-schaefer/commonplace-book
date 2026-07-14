@@ -799,3 +799,5 @@
 - Chapter 14: "He imagines that the emblem of this utterance is found in Amen, which we pronounce in concert."
 - Chapter 15: "Who would not detest one who is the wretched contriver of such audacious falsehoods, when he perceives the truth turned by Marcus into a mere image, and that punctured all over with the letters of the alphabet?"
 - Chapter 16: "Impious indeed, beyond all impiety, are these men, who assert that the Maker of heaven and earth, the only God Almighty, besides whom there is no God, was produced by means of a defect."
+- Chapter 17: "They declare further, that the truth having escaped him [viz., the Demiurge], he followed that which was false, and that, for this reason, when the times are fulfilled, his work shall perish."
+- Chapter 18: "No one is deemed 'perfect,' who does not develop among them some mighty fictions."
