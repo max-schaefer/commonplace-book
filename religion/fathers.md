@@ -801,4 +801,5 @@
 - Chapter 16: "Impious indeed, beyond all impiety, are these men, who assert that the Maker of heaven and earth, the only God Almighty, besides whom there is no God, was produced by means of a defect."
 - Chapter 17: "They declare further, that the truth having escaped him [viz., the Demiurge], he followed that which was false, and that, for this reason, when the times are fulfilled, his work shall perish."
 - Chapter 18: "No one is deemed 'perfect,' who does not develop among them some mighty fictions."
-- Chapter 19: "By garbling passages of Scripture, they tru to persuade us concerning their Propator, who was unknown to all before the coming of Christ."
+- Chapter 19: "By garbling passages of Scripture, they try to persuade us concerning their Propator, who was unknown to all before the coming of Christ."
+- Chapter 20: "Among other things, they bring forward that false and wicked story which relates that our Lord, when He was a boy learning His letters, on the teacher saying to Him, as is usual, 'Pronounce Alpha,' replied [as He was bid], 'Alpha.' But when, again, the teacher bade Him say 'Beta,' the Lord replied, 'Do thou first tell me what Alpha is, and then I will tell thee what Beta is.' This they expound as meaning that He alone knew the Unknown, which He revealed under its type Alpha."
