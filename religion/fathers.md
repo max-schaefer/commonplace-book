@@ -803,3 +803,4 @@
 - Chapter 18: "No one is deemed 'perfect,' who does not develop among them some mighty fictions."
 - Chapter 19: "By garbling passages of Scripture, they try to persuade us concerning their Propator, who was unknown to all before the coming of Christ."
 - Chapter 20: "Among other things, they bring forward that false and wicked story which relates that our Lord, when He was a boy learning His letters, on the teacher saying to Him, as is usual, 'Pronounce Alpha,' replied [as He was bid], 'Alpha.' But when, again, the teacher bade Him say 'Beta,' the Lord replied, 'Do thou first tell me what Alpha is, and then I will tell thee what Beta is.' This they expound as meaning that He alone knew the Unknown, which He revealed under its type Alpha."
+- Chapter 21: "There are as many schemes of 'redemption' as there are teachers of these mystical opinions."
