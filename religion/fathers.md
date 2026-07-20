@@ -806,3 +806,4 @@
 - Chapter 21: "There are as many schemes of 'redemption' as there are teachers of these mystical opinions."
 - Chapter 22: "The rule of truth which we hold, is, that there is one God Almighty, who made all things by His Word, and fashioned and formed, out of that which had no existence, all things which exist."
 - Chapter 23: "This man [viz., Simon Magus], then, was glorified by many as if he were a god; and he taught that it was himself who appeared among the Jews as the Son, but descended in Samaria as the Father while he came to other nations in the character of the Holy Spirit."
+- Chapter 24: "[Basilides teaches that Jesus] did not himself suffer death, but Simon, a certain man of Cyrene, being compelled, bore the cross in his stead; so that this latter being transfigured by him, that he might be thought to be Jesus, was crucified, through ignorance and error, while Jesus himself received the form of Simon, and, standing by, laughed at them."
