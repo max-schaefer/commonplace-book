@@ -10,14 +10,15 @@ A chronological list of the Bishops of Rome recognised by the Catholic Church, t
 - **There is no John XX:** a medieval miscount left a permanent gap between John XIX and John XXI.
 - **Felix numbering:** the antipope Felix (355–365) was long mistaken for a martyr-pope, which skewed later numbering. The legitimate Felix III and Felix IV are therefore sometimes written Felix II and Felix III.
 - **Dates before the 4th century are traditional and approximate.** "d." gives a date of death where the start of the reign is unknown.
-- **CE words** is the word count of the linked Catholic Encyclopedia article body (including its sources line), counted from the New Advent page text. It is blank where no article is linked. Rows that share one article (Benedict IX's three reigns; Soter and Caius; the two Victor IVs; Leo VIII as pope and as antipope) therefore show the same count.
-- **Reading dates** lay out a one-year plan to read every linked article once, in chronological order, at about 1,000 words a day (non-leap-year calendar, starting 1 January). Short articles are kept whole, so some days run heavier; only articles of 1,900+ words are split across consecutive days. A date appears at an article's first occurrence only (shared articles are read once) and is blank where no article is linked. The plan runs 1 January to 9 December. Each reading day is listed on its own line with its date and a ☐ tickbox (an article spread over several days lists one dated box per day); change ☐ to ☑ as you read.
+- **Article words** is the word count of each linked biography. Popes through Pius X and the antipopes link to the Catholic Encyclopedia (New Advent), counted from the article body including its sources line; the ten recent popes (Benedict XV onward) link to Encyclopaedia Britannica, counted across all sections of the article body. It is blank where no article is linked. Rows that share one article (Benedict IX's three reigns; Soter and Caius; the two Victor IVs; Leo VIII as pope and as antipope) therefore show the same count.
+- **Copyright:** the 1913 Catholic Encyclopedia text is in the public domain and may be freely reused. The Encyclopaedia Britannica biographies linked for the recent popes are copyright © Encyclopædia Britannica, Inc.: free to read and link, but not to reproduce.
+- **Reading dates** lay out a one-year plan to read every linked article once, in chronological order, at about 1,000 words a day (non-leap-year calendar, starting 1 January). Short articles are kept whole, so some days run heavier; only articles of 1,900+ words are split across consecutive days. A date appears at an article's first occurrence only (shared articles are read once) and is blank where no article is linked. The plan runs 1 January to 30 December: the Catholic Encyclopedia articles to 9 December, then the ten recent popes' Britannica biographies from 10 to 30 December. Each reading day is listed on its own line with its date and a ☐ tickbox (an article spread over several days lists one dated box per day); change ☐ to ☑ as you read.
 
 ---
 
 ## Early Church (1st–3rd centuries)
 
-| #  | Pope / Antipope | Reign | CE words | Reading dates |
+| #  | Pope / Antipope | Reign | Article words | Reading dates |
 |----|------------------|-------|------|------|
 | 1  | [St. Peter](https://www.newadvent.org/cathen/11744a.htm) | d. c. 64/67 | 9776 | ☐ Jan 1<br>☐ Jan 2<br>☐ Jan 3<br>☐ Jan 4<br>☐ Jan 5<br>☐ Jan 6<br>☐ Jan 7<br>☐ Jan 8<br>☐ Jan 9<br>☐ Jan 10 |
 | 2 | [St. Linus](https://www.newadvent.org/cathen/09272b.htm) | c. 67–76 | 995 | ☐ Jan 11 |
@@ -54,7 +55,7 @@ A chronological list of the Bishops of Rome recognised by the Catholic Church, t
 
 ## Late Roman Church (4th–5th centuries)
 
-| #  | Pope / Antipope | Reign | CE words | Reading dates |
+| #  | Pope / Antipope | Reign | Article words | Reading dates |
 |----|------------------|-------|------|------|
 | 30 | [St. Marcellus I](https://www.newadvent.org/cathen/09640b.htm) | 308–309 | 1063 | ☐ Feb 11 |
 | 31 | [St. Eusebius](https://www.newadvent.org/cathen/05615b.htm) | 309/310 | 477 | ☐ Feb 12 |
@@ -84,7 +85,7 @@ A chronological list of the Bishops of Rome recognised by the Catholic Church, t
 
 ## Ostrogothic and Byzantine papacy (6th–8th centuries)
 
-| #  | Pope / Antipope | Reign | CE words | Reading dates |
+| #  | Pope / Antipope | Reign | Article words | Reading dates |
 |----|------------------|-------|------|------|
 | 51 | [St. Symmachus](https://www.newadvent.org/cathen/14377a.htm) | 498–514 | 2327 | ☐ Mar 12<br>☐ Mar 13 |
 | —  | *Laurentius* | *498, 501–506* |  |  |
@@ -134,7 +135,7 @@ A chronological list of the Bishops of Rome recognised by the Catholic Church, t
 
 ## Carolingian and Roman noble papacy (8th–10th centuries)
 
-| #  | Pope / Antipope | Reign | CE words | Reading dates |
+| #  | Pope / Antipope | Reign | Article words | Reading dates |
 |----|------------------|-------|------|------|
 | 92 | [Stephen II (III)](https://www.newadvent.org/cathen/14288c.htm) | 752–757 | 664 | ☐ Apr 23 |
 | 93 | [St. Paul I](https://www.newadvent.org/cathen/11577a.htm) | 757–767 | 1452 | ☐ Apr 24 |
@@ -195,7 +196,7 @@ A chronological list of the Bishops of Rome recognised by the Catholic Church, t
 
 ## Reform and the High Middle Ages (11th–13th centuries)
 
-| #  | Pope / Antipope | Reign | CE words | Reading dates |
+| #  | Pope / Antipope | Reign | Article words | Reading dates |
 |----|------------------|-------|------|------|
 | 140 | [John XVII](https://www.newadvent.org/cathen/08428b.htm) | 1003 | 150 | ☐ May 23 |
 | 141 | [John XVIII](https://www.newadvent.org/cathen/08429a.htm) | 1003–1009 | 276 | ☐ May 23 |
@@ -269,7 +270,7 @@ A chronological list of the Bishops of Rome recognised by the Catholic Church, t
 
 ## Avignon and the Western Schism (14th–15th centuries)
 
-| #  | Pope / Antipope | Reign | CE words | Reading dates |
+| #  | Pope / Antipope | Reign | Article words | Reading dates |
 |----|------------------|-------|------|------|
 | 194 | [Bl. Benedict XI](https://www.newadvent.org/cathen/02429c.htm) | 1303–1304 | 640 | ☐ Aug 13 |
 | 195 | [Clement V](https://www.newadvent.org/cathen/04020a.htm) | 1305–1314 | 4586 | ☐ Aug 14<br>☐ Aug 15<br>☐ Aug 16<br>☐ Aug 17<br>☐ Aug 18 |
@@ -297,7 +298,7 @@ A chronological list of the Bishops of Rome recognised by the Catholic Church, t
 
 ## Renaissance and Reformation (15th–16th centuries)
 
-| #  | Pope | Reign | CE words | Reading dates |
+| #  | Pope | Reign | Article words | Reading dates |
 |----|------|-------|------|------|
 | 208 | [Nicholas V](https://www.newadvent.org/cathen/11058a.htm) | 1447–1455 | 2773 | ☐ Sep 10<br>☐ Sep 11<br>☐ Sep 12 |
 | 209 | [Callixtus III](https://www.newadvent.org/cathen/03187a.htm) | 1455–1458 | 1733 | ☐ Sep 13 |
@@ -325,7 +326,7 @@ A chronological list of the Bishops of Rome recognised by the Catholic Church, t
 
 ## Early modern papacy (16th–18th centuries)
 
-| #  | Pope | Reign | CE words | Reading dates |
+| #  | Pope | Reign | Article words | Reading dates |
 |----|------|-------|------|------|
 | 231 | [Clement VIII](https://www.newadvent.org/cathen/04027a.htm) | 1592–1605 | 1058 | ☐ Oct 21 |
 | 232 | [Leo XI](https://www.newadvent.org/cathen/09166a.htm) | 1605 | 488 | ☐ Oct 22 |
@@ -350,7 +351,7 @@ A chronological list of the Bishops of Rome recognised by the Catholic Church, t
 
 ## Modern papacy (19th century–present)
 
-| #  | Pope | Reign | CE words | Reading dates |
+| #  | Pope | Reign | Article words | Reading dates |
 |----|------|-------|------|------|
 | 251 | [Pius VII](https://www.newadvent.org/cathen/12132a.htm) | 1800–1823 | 2091 | ☐ Nov 21<br>☐ Nov 22 |
 | 252 | [Leo XII](https://www.newadvent.org/cathen/09167a.htm) | 1823–1829 | 1572 | ☐ Nov 23 |
@@ -359,19 +360,19 @@ A chronological list of the Bishops of Rome recognised by the Catholic Church, t
 | 255 | [Bl. Pius IX](https://www.newadvent.org/cathen/12134b.htm) | 1846–1878 | 3169 | ☐ Nov 29<br>☐ Nov 30<br>☐ Dec 1 |
 | 256 | [Leo XIII](https://www.newadvent.org/cathen/09169a.htm) | 1878–1903 | 5193 | ☐ Dec 2<br>☐ Dec 3<br>☐ Dec 4<br>☐ Dec 5<br>☐ Dec 6 |
 | 257 | [St. Pius X](https://www.newadvent.org/cathen/12137a.htm) | 1903–1914 | 3163 | ☐ Dec 7<br>☐ Dec 8<br>☐ Dec 9 |
-| 258 | Benedict XV | 1914–1922 |  |  |
-| 259 | Pius XI | 1922–1939 |  |  |
-| 260 | Pius XII | 1939–1958 |  |  |
-| 261 | St. John XXIII | 1958–1963 |  |  |
-| 262 | St. Paul VI | 1963–1978 |  |  |
-| 263 | John Paul I | 1978 |  |  |
-| 264 | St. John Paul II | 1978–2005 |  |  |
-| 265 | Benedict XVI | 2005–2013 |  |  |
-| 266 | Francis | 2013–2025 |  |  |
-| 267 | Leo XIV | 2025–present |  |  |
+| 258 | [Benedict XV](https://www.britannica.com/biography/Benedict-XV) | 1914–1922 | 262 | ☐ Dec 10 |
+| 259 | [Pius XI](https://www.britannica.com/biography/Pius-XI) | 1922–1939 | 713 | ☐ Dec 10 |
+| 260 | [Pius XII](https://www.britannica.com/biography/Pius-XII) | 1939–1958 | 2589 | ☐ Dec 11<br>☐ Dec 12<br>☐ Dec 13 |
+| 261 | [St. John XXIII](https://www.britannica.com/biography/Saint-John-XXIII) | 1958–1963 | 2986 | ☐ Dec 14<br>☐ Dec 15<br>☐ Dec 16 |
+| 262 | [St. Paul VI](https://www.britannica.com/biography/Blessed-Paul-VI) | 1963–1978 | 1736 | ☐ Dec 17 |
+| 263 | [John Paul I](https://www.britannica.com/biography/John-Paul-I) | 1978 | 351 | ☐ Dec 18 |
+| 264 | [St. John Paul II](https://www.britannica.com/biography/Saint-John-Paul-II) | 1978–2005 | 5289 | ☐ Dec 19<br>☐ Dec 20<br>☐ Dec 21<br>☐ Dec 22<br>☐ Dec 23 |
+| 265 | [Benedict XVI](https://www.britannica.com/biography/Benedict-XVI) | 2005–2013 | 1541 | ☐ Dec 24 |
+| 266 | [Francis](https://www.britannica.com/biography/Francis-I-pope) | 2013–2025 | 3781 | ☐ Dec 25<br>☐ Dec 26<br>☐ Dec 27<br>☐ Dec 28 |
+| 267 | [Leo XIV](https://www.britannica.com/biography/Leo-XIV) | 2025–present | 2380 | ☐ Dec 29<br>☐ Dec 30 |
 
 ---
 
-**Total:** the 274 distinct Catholic Encyclopedia articles linked above run to **351,944 words** (counting each shared article only once).
+**Total:** the 274 distinct Catholic Encyclopedia articles linked above run to **351,944 words** (counting each shared article only once). The ten recent popes (Benedict XV to Leo XIV) add **21,628 words** from Encyclopaedia Britannica, for a combined **373,572 words**.
 
-**Reading plan:** read in order at about 1,000 words a day, the articles fill **1 January to 9 December** (343 days), leaving the rest of December spare. The longest single article is Boniface VIII at 11,915 words (1–12 August).
+**Reading plan:** read in order at about 1,000 words a day, the biographies fill **1 January to 30 December** (364 days) — Catholic Encyclopedia articles to 9 December, then the ten recent popes' Britannica biographies from 10 to 30 December, leaving only 31 December spare. The longest single article is Boniface VIII at 11,915 words (1–12 August).
