@@ -782,6 +782,8 @@
 
 #### Irenaeus Against Heresies
 
+##### Book I
+
 - Preface: "Error, indeed, is never set forth in its naked deformity, lest, being thus exposed, it should at once be detected. But it is craftily decked out in an attractive dress, so as, by its outward form, to make it appear to the inexperienced (ridiculous as the expression may seem) more true than the truth itself."
 - Chapter 1: "They [viz., the Gnostics] maintain that these [viz., the aeons] are great, and wonderful, and hitherto unspeakable mysteries which it is their special function to develop; and so they proceed when they find anything in the multitude of things in the Scriptures which they can adopt and accommodate to their baseless speculations."
 - Chapter 2: "They [viz., the Gnostics] declare material substance had its beginning from ignorance and grief, and fear and bewilderment."
@@ -814,3 +816,7 @@
 - Chapter 29: "Besides those, however, among these heretics, who are Simonians, and of whom we have already spoken, a multitude of Gnostics have sprung up, and have been manifested like mushrooms growing out of the ground."
 - Chapter 30: "Adam and Eve [according to the Gnostics] previously had light, and clear, and as it were spiritual bodies, such as they were at their creation; but when they came to this world, these changed into bodies more opaque, and gross, and sluggish."
 - Chapter 31: "They [viz., the Cainites] declare that Judas the traitor was thoroughly acquainted with these things, and that he alone, knowing the truth as no others did, accomplished the mystery of the betrayal; by him all things, both earthly and heavenly, were thus thrown into confusion. They produce a fictitiou history of this kind, which they style the Gospel of Judas."
+
+##### Book II
+
+- Preface: "In the present book, I shall establish those points which fit in with my design, so far as time permits, and overthrow, by means of lengthened treatment under distinct heads, their whole system."
