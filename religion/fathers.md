@@ -824,3 +824,4 @@
 - Chapter 2: "This is a peculiarity of the pre-eminence of God, not to stand in need of other instruments for the creation of those things which are summoned into existence. His own Word is both suitable and sufficient for the formation of all things."
 - Chapter 3: "Let them cease, therefore, to affirm that the world was made by any other; for as soon as God formed a conception in His mind, that was also done which He had thus mentally conceived."
 - Chapter 4: "If, in truth, vacuity was produced, then its producer Valentinus is also a vacuum, as are likewise his followers."
+- Chapter 5: "If indeed He [viz., Bythus] could not [hinder the production of the world by the Demiurge], then He is weak and powerless; while, if He could, He is a seducer, a hypocrite, and a slave of necessity, inasmuch as He does not consent [to such a course], and yet allows it as if He did consent."
