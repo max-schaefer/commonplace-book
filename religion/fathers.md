@@ -826,3 +826,4 @@
 - Chapter 4: "If, in truth, vacuity was produced, then its producer Valentinus is also a vacuum, as are likewise his followers."
 - Chapter 5: "If indeed He [viz., Bythus] could not [hinder the production of the world by the Demiurge], then He is weak and powerless; while, if He could, He is a seducer, a hypocrite, and a slave of necessity, inasmuch as He does not consent [to such a course], and yet allows it as if He did consent."
 - Chapter 6: "They are truly deserving of pity, since with such utter folly they affirm that He (the Creator of the world) neither knew His Mother, nor her seed, not the Pleroma of the Aeons, not the Propator, nor what the things were which He made."
+- Chapter 7: "It is a pleasant thing to overthrow them on every side, and to prove them vendors of falsehood."
