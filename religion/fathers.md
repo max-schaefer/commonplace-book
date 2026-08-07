@@ -828,3 +828,4 @@
 - Chapter 6: "They are truly deserving of pity, since with such utter folly they affirm that He (the Creator of the world) neither knew His Mother, nor her seed, not the Pleroma of the Aeons, not the Propator, nor what the things were which He made."
 - Chapter 7: "It is a pleasant thing to overthrow them on every side, and to prove them vendors of falsehood."
 - Chapter 8: "Their figment, then, [in what way soever viewed,] has been proved groundless, and their doctrines untenable. Empty, too, are those who listen to them, and are verily descending into the abyss of perdition."
+- Chapter 9: "Even creation reveals Him who formed it, and the very work made suggests Him who made it, and the world manifests Him who ordered it. The Universal Church, moreover, through the whole world, has received this tradition from the apostles."
