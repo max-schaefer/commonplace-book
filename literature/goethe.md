@@ -9,3 +9,7 @@
 
 - V. 2272: "Ein echter deutscher Mann mag keinen Franzen leiden,/Doch ihre Weine trinkt er gern."
 - V. 2693: "In dieser Armut welche Fülle!/In diesem Kerker welche Seligkeit!"
+
+## Zweiter Teil
+
+- V. 6771: "Im Deutschen lügt man, wenn man höflich ist."
