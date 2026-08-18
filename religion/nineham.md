@@ -1,0 +1,11 @@
+# D. E. Nineham: "Saint Mark"
+
+An interesting specimen that positions itself as one of the first commentaries to bring "modern" Bible interpretations based on the historical-critical method to the general public. (I'm not in a position to evaluate the merits of that claim.)
+
+Has to strike the usual awkward balance between on one hand presenting the gospel as a carefully edited and crafted work based on the Early Church's theological interpretation of the life of Jesus (which somehow managed to almost completely supersede the independent oral traditions that preceded it in spite of the total lack of a central authority that would have been able to enforce this), and on the other hand having to assume that Mark was uneducated bumpkin who failed to spot even the most blatant contradictions and non-sequiturs in his composition.
+
+To give just one example, page 248 says that Mark has "with great skill [distributed Jesus'] three predictions [of his Passion] through the narrative in a way that has been aptly compared to the solemn tolling of a minute bell." On the other hand, page 442 cites an article by Knox, who writes that if Mark really had ended his gospel at 16:8, this would "imply in the Evangelist 'a degree of originality which would invalidate the whole method of form-criticism'."
+
+Curiously, Nineham is adamant in his insistence that Jesus' parables are _not_ allegorical, but rather are meant to be taken literally. Any surprising elements are either seized upon as evidence of faulty transmission, attributed to heavy-handed editing by the Early Church, or else explained away by vague references to "oriental customs", some of them rather bizarre (such as the claim that in Palestine it was customary to sow seeds before plowing the field). I'm also not too convinced by claims that Hebrew and Aramaic didn't have a word for "puppy" (modern Hebrew certainly does: "כלבלב") or plural "all" (again, modern Hebrew has "כולם"). I would have thought that all we can really say is that we've no evidence of such words in the extant literature, but, as they say, "absence of evidence is not evidence of absence."
+
+Overall Nineham certainly has certainly worked a lot harder than most of the modern conservative commentators like Brand Pitre and his ilk. If only he had more to show for it.
