@@ -835,4 +835,4 @@
 - Chapter 13: "The Father of all is at a vast distance from those affections and passions which operate among men. He is a simple, uncompounded Being, without diverse members, and altogether like, and equal to himself, since He is wholly understanding, and wholly spirit, and wholly thought, and wholly intelligence, and wholly reason, and wholly hearing, and wholly seeing, and wholly light, and the whole source of all that is good."
 - Chapter 14: "They also strive to transfer to [the treatment of matters of] faith that hairsplitting and subtle mode of handling questions which is, in fact, a copying of Aristotle."
 - Chapter 15: "How did it come to pass, that from Logos and Zoe were sent forth ten Aeons, and neither more nor less; while again from Anthropos and Ecclesia proceeded twelve, although these might have been either more or less numerous?"
-
+- Chapter 16: "If creation be an image of those things [above], why should we not affirm that those are, in turn, images of others above them, and those above these again, of others, and thus go on supposing innumerable images of images?"
