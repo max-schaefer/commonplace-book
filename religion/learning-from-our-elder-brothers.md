@@ -251,6 +251,12 @@ A student on the Tehillim Podcast gives a fascinating explanation of the qere ו
 
 [The Tanakh Podcast](https://open.spotify.com/episode/2t5xL9kSbU9f402CBY8CrY?si=Ke-OEYE2TnuCeD4mmpIA7w): Interesting Talmudic passage about the righteous vs the repentant sinner ([Berakhot 34b.22](https://www.sefaria.org/Berakhot.34b.22?lang=bi)), quoting the opinion of Rabbi Abbahu "who holds that penitents are superior to the righteous": "In the place where penitents stand, even the full-fledged righteous do not stand, as it is stated: 'Peace, peace upon him who is far and him who is near.' Peace and greeting is extended first to him who is far, the penitent, and only thereafter is peace extended to him who is near, the full-fledged righteous." As a Christian, one might be reminded of the parable of the lost sheep.
 
+## Ezekiel
+
+### Chapter 34
+
+Verse 31 ("And you are my sheep, human sheep of my pasture, and I am your God, declares the Lord God.") might seem like a tiresomely redundant explanation of a blindingly obvious metaphor. But (as mentioned in [The Navi Podcast](https://open.spotify.com/episode/1L9JiElGYWxXUIBFp5DloC?si=6Bfonl7FR-e3nntGSvfy-Q)) the [Radak](https://www.sefaria.org/Radak_on_Ezekiel.34.31) provides a deeper interpretation: when the people follow God's law, they rise above the level of mere animal existence and attain a higher moral and spiritual consciousness.
+
 ## Hosea
 
 ### Chapter 8
