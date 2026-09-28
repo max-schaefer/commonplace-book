@@ -15,3 +15,9 @@ One does rather wonder, then, why the Eastern churches hold Mary in such high es
 - pg. 151 ("The Meaning of Discipleship: (6) Prayer"):
 
 > The recovery of the original form [of the Lord's Prayer] is a matter of some importance. Any Jew could have prayed 'Our Father, who art in heaven...', using the formal and exclusively religious _Abinu_. But when Jesus prayed, he used the word _Abba_ with which a child addressed his human father. He transformed the Fatherhood of God from a theological doctrine into an intense an intimate experience; and he taught his disciples to pray with the same familial intimacy.
+
+- pg. 178 ("Counting the Cost"):
+
+> The semitic mind is comfortable only with extremes
+
+How very obliging of the Semitic mind to be at hand to take the sting out of hard sayings.
