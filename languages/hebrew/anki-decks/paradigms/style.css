@@ -1,0 +1,29 @@
+.card {
+  font-family: "SBL Hebrew", "Ezra SIL", "Noto Serif Hebrew", serif;
+  font-size: 24px;
+  text-align: center;
+  color: #1a1a1a;
+  background-color: #fcfcfc;
+}
+
+.hebrew {
+  font-size: 36px;
+  direction: rtl;
+  unicode-bidi: isolate;
+  color: #003366;
+  font-weight: bold;
+}
+
+.verse {
+  font-size: 22px;
+  direction: rtl;
+  unicode-bidi: isolate;
+  margin-top: 15px;
+  color: #2b2b2b;
+}
+
+.citation {
+  font-size: 16px;
+  color: #666;
+  font-style: italic;
+}

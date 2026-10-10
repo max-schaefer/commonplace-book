@@ -1,0 +1,10 @@
+# Core TF-BHSA Corpus Engine
+text-fabric>=12.3.0
+rich>=13.0.0
+
+# Data Export & Analysis
+pandas>=2.0.0
+
+# Optional: English Bible Translation Fetching (NET/ESV APIs)
+requests>=2.31.0
+
