@@ -1,0 +1,2 @@
+- "I should be sad at sleeping so often during prayers and thanksgiving. Well, I am not. I recall that little children, when aleep, are just as pleasing to their parents as when they are awake."
+- "To be little is not to be discouraged at our faults, for children fall often, but they are too small to hurt themselves very much."
