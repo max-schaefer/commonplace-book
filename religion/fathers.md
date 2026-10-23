@@ -880,3 +880,9 @@
 - Chapter 19: "[Those who do not believe in the Virgin Birth] despise the incarnation of the pure generation of the Word of God, defraud human nature of promotion into God, and prove themselves ungrateful to the Word of God, who became flesh for them."
 - Chapter 20: "Just as the physician is proved by his patients, so is God also revealed through men."
 - Chapter 21: "He promised that the King should be 'of the fruit of his [viz., David's] belly,' which was the appropriate [term to use with respect] to a virgin conceiving, and not 'of the fruit of his loins,' nor 'of the fruit of his reins,' which expression is appropriate to a generating man, and a woman conceiving by a man. In this promise, therefore, the Scripture excluded all virile influence."
+- Chapter 22: "If He did not receive the substance of flesh from a human being, He neither was made man nor the Son of man; and if He was not made what we were, He did no great thing in what He suffered and endured."
+- Chapter 23: "He pronounced no curse against Adam personally, but against the ground, in reference to his works, as a certain person among the ancients has observed: 'God did indeed transfer the curse to the earth, that it might not remain in man.'"
+- Chapter 24: "The preaching of the Church is everywhere consistent, and continues in an even course, and receives testimony from the prophets, the apostles, and all the disciples."
+- Chapter 25: "Marcion, therefore, himself, by dividing God into two, maintaining one to be good and the other judicial, does in fact, on both sides, put an end to deity. For he that is the judicial one, if he be not good, is not God, because he from whom goodness is absent is no God at all; and again, he who is good, if he has no judicial power, suffers the same [loss] as the former, by being deprived of his character of deity."
+
+##### Book IV
