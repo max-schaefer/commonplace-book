@@ -886,3 +886,4 @@
 - Chapter 25: "Marcion, therefore, himself, by dividing God into two, maintaining one to be good and the other judicial, does in fact, on both sides, put an end to deity. For he that is the judicial one, if he be not good, is not God, because he from whom goodness is absent is no God at all; and again, he who is good, if he has no judicial power, suffers the same [loss] as the former, by being deprived of his character of deity."
 
 ##### Book IV
+- Preface: The man, however, who would undertake [the Gnostics'] conversion, must possess an accurate knowledge of their systems or schemes of doctrine. For it is impossible for any one to heal the sick, if he has no knowledge of the disease of the patient."
